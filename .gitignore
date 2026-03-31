@@ -12,3 +12,10 @@ saved_qwen_clpsych/
 
 # Ignore WV_MODEL
 wiki-news-300d-1M.vec
+
+# Ignore test_result
+test_result/
+
+# Ignore ssh files
+id_ed25519
+id_ed25519.pub

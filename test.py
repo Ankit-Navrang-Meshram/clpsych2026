@@ -9,7 +9,7 @@ import torch
 import torch.nn as nn
 from torch.utils.data import DataLoader
 from transformers import AutoTokenizer, BitsAndBytesConfig, get_linear_schedule_with_warmup
-from peft import LoraConfig, get_peft_model, TaskType
+from peft import LoraConfig, get_peft_model, TaskType , PeftModel
 import pickle
 from tqdm import tqdm
 
@@ -73,6 +73,7 @@ if __name__ == "__main__":
     parser.add_argument("--threshold", type=float, default=0.5)
     parser.add_argument("--k", type=int, default=5)
     parser.add_argument("--wv_model_path", type=str, required=True)
+    parser.add_argument("--model_weights", type=str, required=True)
     args = parser.parse_args()
 
     device = "cuda" if torch.cuda.is_available() else "cpu"
@@ -82,7 +83,7 @@ if __name__ == "__main__":
     test_cache_path = os.path.join(args.cache_dir, f"test_dataset_k{args.k}.pkl")
 
     if os.path.exists(test_cache_path):
-        print("\n[1/4] Loading test dataset from cached files ...")
+        print("\nLoading test dataset from cached files ...")
         with open(test_cache_path, "rb") as f:
             test_dataset = pickle.load(f)    
     else:
@@ -98,7 +99,7 @@ if __name__ == "__main__":
     print(f"  Test instances: {len(test_dataset)}")
 
 
-    print(f"\n[4/5] Loading model from {args.model_name} ...")
+    print(f"\nLoading model from {args.model_name} ...")
     tokenizer = AutoTokenizer.from_pretrained(args.model_name)
     if tokenizer.pad_token is None:
         tokenizer.pad_token = tokenizer.eos_token
@@ -116,10 +117,13 @@ if __name__ == "__main__":
         ),
         device_map="auto",
     )
-    model = base_model   # LoRA adapters were merged into model_name by save_pretrained
+    # 2. Load the LoRA Adapters and the Classifier
+    # args.model_weights should point to the folder containing adapter_model.bin
+    print(f"Loading LoRA Adapters from: {args.model_weights}")
+    model = PeftModel.from_pretrained(base_model, args.model_weights)
     model.eval()
 
-    print("\n[5/5] Running inference ...")
+    print("\nRunning inference ...")
     submission = []
     total      = len(test_loader)
 
