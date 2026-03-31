@@ -366,54 +366,6 @@ def load_all_timelines(data_dir: str, pattern: str = "*.json") -> List[Timeline]
 
 
 
-# def _empty_self_state(valence: str) -> SelfState:
-#     return SelfState(valence=valence, subelements=[], presence=1)
-
-
-# def load_test_timelines(test_dir: str, embedder: PostEmbedder) -> list[Timeline]:
-#     paths     = sorted(glob.glob(os.path.join(test_dir, "*.json")))
-#     timelines = []
-
-#     for path in paths:
-#         with open(path, "r", encoding="utf-8") as f:
-#             data = json.load(f)
-
-#         posts = []
-#         for d in data.get("posts", []):
-#             text = d.get("post", "")
-#             emb  = embedder.embed(text)
-
-#             # Parse timestamp
-#             try:
-#                 ts = datetime.strptime(d["date"], DATE_FORMAT)
-#             except Exception:
-#                 ts = datetime.min
-
-#             post = Post(
-#                 post_id          = d.get("post_id", ""),
-#                 post_index       = int(d.get("post_index", 0)),
-#                 text             = text,
-#                 timestamp        = ts,
-#                 switch_label     = "0",
-#                 escalation_label = "0",
-#                 wellbeing        = None,
-#                 adaptive_state   = _empty_self_state("adaptive"),
-#                 maladaptive_state= _empty_self_state("maladaptive"),
-#                 is_annotated     = False,
-#                 post_embedding   = emb,
-#             )
-#             posts.append(post)
-
-#         timelines.append(Timeline(
-#             timeline_id=data.get("timeline_id", ""),
-#             posts=posts,
-#         ))
-
-#     print(f"Loaded {len(timelines)} test timelines  "
-#           f"({sum(len(t.posts) for t in timelines)} posts)")
-#     return timelines
-
-
 def _print_dataset_stats(timelines: List[Timeline]) -> None:
     total_posts  = sum(tl.n_posts for tl in timelines)
     total_ann    = sum(tl.n_annotated for tl in timelines)
