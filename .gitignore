@@ -1,0 +1,14 @@
+# Ignore Python cache
+__pycache__/
+
+# Ignore dataset_cache
+dataset_cache/
+
+# Ingnore eval_result
+eval_result/
+
+# Ignore saved_qwen_clpsych
+saved_qwen_clpsych/
+
+# Ignore WV_MODEL
+wiki-news-300d-1M.vec
