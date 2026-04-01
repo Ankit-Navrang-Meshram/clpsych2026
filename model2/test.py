@@ -1,7 +1,7 @@
 # test.py
 
 import os
-os.environ["CUDA_VISIBLE_DEVICES"] = "2"
+os.environ["CUDA_VISIBLE_DEVICES"] = "3"
 os.environ["HF_HUB_OFFLINE"] = "1"
 os.environ["TRANSFORMERS_OFFLINE"] = "1"
 import json
@@ -32,11 +32,39 @@ def test_collate(batch):
         timeline_ids.append(inst.timeline_id)
 
         lines = []
+        lines.append("You are a clinical psychologist assistant. ")
+        lines.append("Given a social media post, identify the adaptive and maladaptive and rate the presence of adaptive and maladaptive")
+        lines.append("Follow the output format shown in the examples exactly.")
+        lines.append("A post may contain only an adaptive self state, only a maladaptive self state, or both. Each post must have atleast one self state")
+        lines.append("### Current Post History")
+        for j, hist_post in enumerate(inst.context_posts):
+            lines.append(f"History {j+1}")
+            lines.append(f'Post: "{hist_post.text}"')
+            lines.append("Output:")
+            
+            lines.append("  Adaptive Self-State:")
+            if hist_post.adaptive_state.subelements:
+                for se in hist_post.adaptive_state.subelements:
+                    lines.append(f"    {se.full_tag}")
+            else:
+                lines.append("    none")
+            lines.append(f"  Adaptive Presence: {hist_post.adaptive_state.presence} / 5")
+            
+            lines.append("  Maladaptive Self-State:")
+            if hist_post.maladaptive_state.subelements:
+                for se in hist_post.maladaptive_state.subelements:
+                    lines.append(f"    {se.full_tag}")
+            else:
+                lines.append("    none")
+            lines.append(f"  Maladaptive Presence: {hist_post.maladaptive_state.presence} / 5\n")
+            lines.append("")
+
+        lines.append("### Similar Posts to current Post")
         for rank, (ctx_post, score) in enumerate(zip(inst.similar_posts, inst.scores), 1):
             lines.append(f"### Example {rank}  (similarity: {score:.3f})")
             lines.append(f'Post: "{ctx_post.text}"')
             lines.append("Output:")
-
+            
             lines.append("  Adaptive Self-State:")
             if ctx_post.adaptive_state.subelements:
                 for se in ctx_post.adaptive_state.subelements:
@@ -44,7 +72,7 @@ def test_collate(batch):
             else:
                 lines.append("    none")
             lines.append(f"  Adaptive Presence: {ctx_post.adaptive_state.presence} / 5")
-
+            
             lines.append("  Maladaptive Self-State:")
             if ctx_post.maladaptive_state.subelements:
                 for se in ctx_post.maladaptive_state.subelements:
@@ -53,6 +81,7 @@ def test_collate(batch):
                 lines.append("    none")
             lines.append(f"  Maladaptive Presence: {ctx_post.maladaptive_state.presence} / 5\n")
 
+        # Current Query Post
         lines.append("### Current Post")
         lines.append(f'Post: "{inst.text}"')
         lines.append("Output:")
@@ -154,13 +183,13 @@ if __name__ == "__main__":
 
                 # Omit state entirely if presence=1 and no subelements predicted
                 # (mirrors the format in the example pred.json)
-                if (len(pred_obj["adaptive-state"]) == 1
-                        and pred_obj["adaptive-state"]["Presence"] == 1):
-                    del pred_obj["adaptive-state"]
+                # if (len(pred_obj["adaptive-state"]) == 1
+                #         and pred_obj["adaptive-state"]["Presence"] == 1):
+                #     del pred_obj["adaptive-state"]
 
-                if (len(pred_obj["maladaptive-state"]) == 1
-                        and pred_obj["maladaptive-state"]["Presence"] == 1):
-                    del pred_obj["maladaptive-state"]
+                # if (len(pred_obj["maladaptive-state"]) == 1
+                #         and pred_obj["maladaptive-state"]["Presence"] == 1):
+                #     del pred_obj["maladaptive-state"]
 
                 submission.append(pred_obj)
 
@@ -170,7 +199,7 @@ if __name__ == "__main__":
     print()
 
     # ── Write output ──────────────────────────────────────────────────────────
-    output_file = f"./test_result/task1_pred_{args.model_name}.json"
+    output_file = f"./test_result/task1_pred_{args.model_name}_k{args.k}_t{args.t}.json"
     os.makedirs(os.path.dirname(os.path.abspath(output_file)), exist_ok=True)
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(submission, f, indent=4, ensure_ascii=False)
@@ -184,3 +213,9 @@ if __name__ == "__main__":
     print(f"  With maladaptive-state : {has_mal}")
     print(f"  With both states       : {has_both}")
     print(f"  With neither state     : {len(submission) - has_ada - has_mal + has_both}")
+
+
+
+"""
+python test.py --model_name Qwen/Qwen2.5-7B --train_dir ../../data/train/ --test_dir ../../data/test/ --cache_dir ./dataset_cache --wv_model_path ./wiki-news-300d-1M.vec --model_weights ./saved_qwen_clpsych/Qwen/Qwen2.5-7B_epoch5
+"""

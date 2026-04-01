@@ -50,6 +50,36 @@ def qwen_custom_collate(batch):
         raw_posts.append(inst.post)
         lines = []
         # Construct Few-Shot Context
+
+        # --- NEW: Construct Chronological Context Section ---
+        lines.append("You are a clinical psychologist assistant. ")
+        lines.append("Given a social media post, identify the adaptive and maladaptive and rate the presence of adaptive and maladaptive")
+        lines.append("Follow the output format shown in the examples exactly.")
+        lines.append("A post may contain only an adaptive self state, only a maladaptive self state, or both. Each post must have atleast one self state")
+        lines.append("### Current Post History")
+        for j, hist_post in enumerate(inst.context_posts):
+            lines.append(f"History {j+1}")
+            lines.append(f'Post: "{hist_post.text}"')
+            lines.append("Output:")
+            
+            lines.append("  Adaptive Self-State:")
+            if hist_post.adaptive_state.subelements:
+                for se in hist_post.adaptive_state.subelements:
+                    lines.append(f"    {se.full_tag}")
+            else:
+                lines.append("    none")
+            lines.append(f"  Adaptive Presence: {hist_post.adaptive_state.presence} / 5")
+            
+            lines.append("  Maladaptive Self-State:")
+            if hist_post.maladaptive_state.subelements:
+                for se in hist_post.maladaptive_state.subelements:
+                    lines.append(f"    {se.full_tag}")
+            else:
+                lines.append("    none")
+            lines.append(f"  Maladaptive Presence: {hist_post.maladaptive_state.presence} / 5\n")
+            lines.append("")
+
+        lines.append("### Similar Posts to current Post")
         for rank, (ctx_post, score) in enumerate(zip(inst.similar_posts, inst.scores), 1):
             lines.append(f"### Example {rank}  (similarity: {score:.3f})")
             lines.append(f'Post: "{ctx_post.text}"')
@@ -92,7 +122,6 @@ def qwen_custom_collate(batch):
     }
 
 
-
 if __name__ == "__main__":
     import argparse
     parser = argparse.ArgumentParser()
@@ -110,7 +139,7 @@ if __name__ == "__main__":
     parser.add_argument("--lr", type=float, default=5e-5)
     parser.add_argument("--save_dir", type=str, default=f"./saved_qwen_clpsych/")
     args = parser.parse_args()
-    args.save_dir = args.save_dir + args.model_name + "_epoch" + str(args.epochs)
+    args.save_dir = args.save_dir + f"{args.model_name}_k{args.k}_t{args.t}_epoch{args.epochs}"
 
     device = "cuda" if torch.cuda.is_available() else "cpu"
     print(f"Using device: {device}")
@@ -135,8 +164,8 @@ if __name__ == "__main__":
         train_index = PostIndex(train_timelines, exclude_same_timeline=True)
         
         print("Building Top-K datasets...")
-        train_dataset = TopKSimilarDataset(train_timelines, train_index, k=args.k, annotated_only=True)
-        eval_dataset = TopKSimilarDataset(eval_timelines, train_index, k=args.k, annotated_only=True) 
+        train_dataset = TopKSimilarDataset(train_timelines, train_index, k=args.k, t=args.t, annotated_only=True)
+        eval_dataset = TopKSimilarDataset(eval_timelines, train_index, k=args.k, t=args.t, annotated_only=True)
         
         print(f"Saving datasets to cache directory '{args.cache_dir}' for faster future runs...")
         with open(train_cache_path, "wb") as f:
@@ -249,15 +278,15 @@ if __name__ == "__main__":
                     "maladaptive-state": decoded_states["maladaptive-state"]
                 }
                 
-                if len(pred_obj["adaptive-state"]) == 1 and pred_obj["adaptive-state"]["Presence"] == 1:
-                    del pred_obj["adaptive-state"]
-                if len(pred_obj["maladaptive-state"]) == 1 and pred_obj["maladaptive-state"]["Presence"] == 1:
-                    del pred_obj["maladaptive-state"]
+                # if len(pred_obj["adaptive-state"]) == 1 and pred_obj["adaptive-state"]["Presence"] == 1:
+                #     del pred_obj["adaptive-state"]
+                # if len(pred_obj["maladaptive-state"]) == 1 and pred_obj["maladaptive-state"]["Presence"] == 1:
+                #     del pred_obj["maladaptive-state"]
                     
                 submission_results.append(pred_obj)
 
     # Save to JSON
-    output_file = f"./eval_result/task1_pred_{args.model_name}_epoch{args.epochs}.json"
+    output_file = f"./eval_result/task1_pred_{args.model_name}_k{args.k}_t{args.t}_epoch{args.epochs}.json"
     os.makedirs(os.path.dirname(output_file), exist_ok=True)
     with open(output_file, "w") as f:
         json.dump(submission_results, f, indent=4)
