@@ -134,6 +134,7 @@ if __name__ == "__main__":
     parser.add_argument("--batch_size", type=int, default=1)
     parser.add_argument("--threshold", type=float, default=0.5)
     parser.add_argument("--k", type=int, default=5)
+    parser.add_argument("--t", type=int, default=2)
     #parser.add_argument("--wv_model_path", type=str, required=True)
     parser.add_argument("--epochs", type=int, default=1)
     parser.add_argument("--lr", type=float, default=5e-5)
