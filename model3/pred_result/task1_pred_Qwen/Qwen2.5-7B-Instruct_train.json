@@ -1,0 +1,3280 @@
+[
+    {
+        "timeline_id": "caee9a5e58",
+        "post_id": "ffabcd8390",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "a2aa387774",
+        "post_id": "55a1d3c52d",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "62defd8df2",
+        "post_id": "4091f7e8b8",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "c62c65f481",
+        "post_id": "2ee1a8cc9b",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "a35b41d1ca",
+        "post_id": "555632f15c",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "62defd8df2",
+        "post_id": "fa7834e029",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "feb7900b62",
+        "post_id": "f446481601",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "8c5231d642",
+        "post_id": "15d2c4e6be",
+        "adaptive-state": {
+            "presence": 1,
+            "C-O": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 4,
+            "A": {
+                "subelement": 4
+            },
+            "C-S": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 6
+            }
+        }
+    },
+    {
+        "timeline_id": "6c9677b482",
+        "post_id": "73bbee55b1",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "3db8573df5",
+        "post_id": "0f7323017f",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "d237ea4269",
+        "post_id": "cd782f918f",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "b1d762ee9f",
+        "post_id": "6820c93cfc",
+        "adaptive-state": {
+            "presence": 1,
+            "B-O": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 4,
+            "A": {
+                "subelement": 2
+            },
+            "C-O": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "43f395b896",
+        "post_id": "2f6ddc5cfe",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": 4,
+            "A": {
+                "subelement": 12
+            },
+            "B-S": {
+                "subelement": 2
+            },
+            "B-O": {
+                "subelement": 2
+            },
+            "C-S": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 6
+            }
+        }
+    },
+    {
+        "timeline_id": "8080ac11fc",
+        "post_id": "c0777e67b7",
+        "adaptive-state": {
+            "presence": 3,
+            "B-O": {
+                "subelement": 1
+            },
+            "C-S": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 4,
+            "A": {
+                "subelement": 10
+            },
+            "C-O": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "8c5231d642",
+        "post_id": "c465c457fb",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "caee9a5e58",
+        "post_id": "db9285b982",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "c62c65f481",
+        "post_id": "e39f80d7b4",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "aa310342f5",
+        "post_id": "61497f55c0",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "caee9a5e58",
+        "post_id": "8ead1e1650",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "0cac13e357",
+        "post_id": "13a844f48c",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "8c5231d642",
+        "post_id": "13b74994ce",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "8c5231d642",
+        "post_id": "fa10d94c50",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "8e0a58cfbd",
+        "post_id": "e61bec2fa8",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "0cac13e357",
+        "post_id": "511507453a",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "c62c65f481",
+        "post_id": "2e2ac8100c",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "d237ea4269",
+        "post_id": "605fbece38",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "8080ac11fc",
+        "post_id": "8d8bd6489b",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "aa310342f5",
+        "post_id": "9049f9dbc1",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "8c5231d642",
+        "post_id": "d33412e847",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "3db8573df5",
+        "post_id": "2ba7134fcc",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": 5,
+            "A": {
+                "subelement": 4
+            },
+            "C-S": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 6
+            }
+        }
+    },
+    {
+        "timeline_id": "c62c65f481",
+        "post_id": "e93fe75071",
+        "adaptive-state": {
+            "presence": 4,
+            "A": {
+                "subelement": 5
+            },
+            "B-O": {
+                "subelement": 1
+            },
+            "C-S": {
+                "subelement": 1
+            },
+            "D": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 2,
+            "C-S": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "b0185a6f5d",
+        "post_id": "259d5f0d58",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "caee9a5e58",
+        "post_id": "56b56d5d5b",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "aa310342f5",
+        "post_id": "c85b76dc59",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "83997cd4e7",
+        "post_id": "e8b6692482",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "5da839acb5",
+        "post_id": "930097b1c5",
+        "adaptive-state": {
+            "presence": 1,
+            "B-O": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 4,
+            "A": {
+                "subelement": 4
+            },
+            "C-S": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "87821f81b9",
+        "post_id": "bb29924563",
+        "adaptive-state": {
+            "presence": 1
+        },
+        "maladaptive-state": {
+            "presence": 5,
+            "A": {
+                "subelement": 3
+            },
+            "C-S": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "feb7900b62",
+        "post_id": "61cf4e61a9",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "91b6a42835",
+        "post_id": "1490e47e89",
+        "adaptive-state": {
+            "presence": 3,
+            "B-O": {
+                "subelement": 1
+            },
+            "C-O": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 4,
+            "C-S": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 4
+            }
+        }
+    },
+    {
+        "timeline_id": "aa310342f5",
+        "post_id": "174314f2ef",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "d0fb4b962e",
+        "post_id": "b204fc6391",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "b0185a6f5d",
+        "post_id": "0564126d36",
+        "adaptive-state": {
+            "presence": 1
+        },
+        "maladaptive-state": {
+            "presence": 1
+        }
+    },
+    {
+        "timeline_id": "6c9677b482",
+        "post_id": "2dba1cf25f",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "30c9e21337",
+        "post_id": "4956757c08",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "8c5231d642",
+        "post_id": "ff6e8ccd27",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "83997cd4e7",
+        "post_id": "8b14686679",
+        "adaptive-state": {
+            "presence": 2,
+            "B-O": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 4,
+            "C-S": {
+                "subelement": 2
+            },
+            "C-O": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "aa310342f5",
+        "post_id": "c50105c731",
+        "adaptive-state": {
+            "presence": 1,
+            "C-O": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 5,
+            "A": {
+                "subelement": 4
+            },
+            "B-S": {
+                "subelement": 2
+            },
+            "C-S": {
+                "subelement": 2
+            },
+            "C-O": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "91b6a42835",
+        "post_id": "4d23571777",
+        "adaptive-state": {
+            "presence": 2,
+            "B-O": {
+                "subelement": 1
+            },
+            "D": {
+                "subelement": 3
+            }
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "6c9677b482",
+        "post_id": "e5c7bf69f5",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "a35b41d1ca",
+        "post_id": "7a8badf50f",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "306d938d4b",
+        "post_id": "2e602497dc",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "b0185a6f5d",
+        "post_id": "eb2a5a0050",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "46f4bb3ada",
+        "post_id": "220c16e374",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "b1d762ee9f",
+        "post_id": "8ba0d97bdf",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "a35b41d1ca",
+        "post_id": "165fc88687",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "46f4bb3ada",
+        "post_id": "1c66c359a2",
+        "adaptive-state": {
+            "presence": 2,
+            "C-S": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 4,
+            "A": {
+                "subelement": 4
+            }
+        }
+    },
+    {
+        "timeline_id": "c62c65f481",
+        "post_id": "7c9896a887",
+        "adaptive-state": {
+            "presence": 1,
+            "C-S": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 4,
+            "A": {
+                "subelement": 12
+            },
+            "B-O": {
+                "subelement": 2
+            },
+            "C-S": {
+                "subelement": 2
+            },
+            "C-O": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 6
+            }
+        }
+    },
+    {
+        "timeline_id": "306d938d4b",
+        "post_id": "308b0c2c6c",
+        "adaptive-state": {
+            "presence": 3,
+            "B-S": {
+                "subelement": 1
+            },
+            "C-O": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 4,
+            "A": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "0cac13e357",
+        "post_id": "377dced8a9",
+        "adaptive-state": {
+            "presence": 2,
+            "B-S": {
+                "subelement": 1
+            },
+            "B-O": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 4,
+            "A": {
+                "subelement": 4
+            },
+            "C-S": {
+                "subelement": 2
+            },
+            "C-O": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 6
+            }
+        }
+    },
+    {
+        "timeline_id": "7d9d2e0e0a",
+        "post_id": "7f22000b69",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "caee9a5e58",
+        "post_id": "015a2bb5f3",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "8080ac11fc",
+        "post_id": "05909ccd7e",
+        "adaptive-state": {
+            "presence": 1,
+            "B-S": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 3,
+            "A": {
+                "subelement": 4
+            },
+            "C-S": {
+                "subelement": 2
+            },
+            "C-O": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 4
+            }
+        }
+    },
+    {
+        "timeline_id": "8c5231d642",
+        "post_id": "27705efe2e",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "cf9aadf596",
+        "post_id": "98645fd640",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": 5,
+            "A": {
+                "subelement": 4
+            },
+            "B-S": {
+                "subelement": 2
+            },
+            "B-O": {
+                "subelement": 2
+            },
+            "C-S": {
+                "subelement": 2
+            },
+            "C-O": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 6
+            }
+        }
+    },
+    {
+        "timeline_id": "7d9d2e0e0a",
+        "post_id": "a33649e870",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "aa310342f5",
+        "post_id": "b4e3ae2ef6",
+        "adaptive-state": {
+            "presence": null,
+            "A": {
+                "subelement": 3
+            }
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "8c5231d642",
+        "post_id": "af016f649b",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "caee9a5e58",
+        "post_id": "51965dd605",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "91b6a42835",
+        "post_id": "f4b8b6fe90",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "8080ac11fc",
+        "post_id": "6e76f59148",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "aa310342f5",
+        "post_id": "c837f6ee99",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "8e0a58cfbd",
+        "post_id": "9e1e871d2d",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": 3,
+            "C-S": {
+                "subelement": 2
+            },
+            "C-O": {
+                "subelement": 4
+            },
+            "D": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "91b6a42835",
+        "post_id": "cc15788061",
+        "adaptive-state": {
+            "presence": 2,
+            "B-O": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 1
+        }
+    },
+    {
+        "timeline_id": "aa310342f5",
+        "post_id": "389430815c",
+        "adaptive-state": {
+            "presence": 2,
+            "B-O": {
+                "subelement": 1
+            },
+            "C-S": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 2,
+            "C-O": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "15564c5c62",
+        "post_id": "b40b167fd0",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "a2aa387774",
+        "post_id": "5c569f182c",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "aa310342f5",
+        "post_id": "7bb795083d",
+        "adaptive-state": {
+            "presence": 5,
+            "A": {
+                "subelement": 1
+            },
+            "B-S": {
+                "subelement": 1
+            },
+            "B-O": {
+                "subelement": 1
+            },
+            "C-S": {
+                "subelement": 1
+            },
+            "C-O": {
+                "subelement": 1
+            },
+            "D": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 5,
+            "A": {
+                "subelement": 1
+            },
+            "B-S": {
+                "subelement": 1
+            },
+            "C-S": {
+                "subelement": 1
+            },
+            "C-O": {
+                "subelement": 1
+            },
+            "D": {
+                "subelement": 1
+            }
+        }
+    },
+    {
+        "timeline_id": "9f2e135af8",
+        "post_id": "b790ab6147",
+        "adaptive-state": {
+            "presence": 3,
+            "C-S": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 3,
+            "A": {
+                "subelement": 4
+            }
+        }
+    },
+    {
+        "timeline_id": "aa310342f5",
+        "post_id": "92ff685059",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": 4,
+            "A": {
+                "subelement": 3
+            },
+            "B-S": {
+                "subelement": 2
+            },
+            "C-S": {
+                "subelement": 2
+            },
+            "C-O": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "3db8573df5",
+        "post_id": "d3ef2b71ca",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "d0fb4b962e",
+        "post_id": "2577d58a6b",
+        "adaptive-state": {
+            "presence": 1,
+            "B-O": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 2,
+            "C-S": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "8080ac11fc",
+        "post_id": "d7a0e5842f",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": 4,
+            "A": {
+                "subelement": 5
+            },
+            "B-S": {
+                "subelement": 4
+            },
+            "C-S": {
+                "subelement": 4
+            },
+            "C-O": {
+                "subelement": 4
+            },
+            "D": {
+                "subelement": 5
+            }
+        }
+    },
+    {
+        "timeline_id": "b1d762ee9f",
+        "post_id": "0c83222db2",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "8c5231d642",
+        "post_id": "9e92a0f583",
+        "adaptive-state": {
+            "presence": 3,
+            "B-S": {
+                "subelement": 1
+            },
+            "B-O": {
+                "subelement": 1
+            },
+            "C-O": {
+                "subelement": 1
+            },
+            "D": {
+                "subelement": 5
+            }
+        },
+        "maladaptive-state": {
+            "presence": 4,
+            "A": {
+                "subelement": 10
+            },
+            "C-S": {
+                "subelement": 2
+            },
+            "C-O": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 6
+            }
+        }
+    },
+    {
+        "timeline_id": "aa310342f5",
+        "post_id": "79b4e92c7d",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "43f395b896",
+        "post_id": "7b7d1e3cbd",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "aa310342f5",
+        "post_id": "faae49ca72",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "8c5231d642",
+        "post_id": "41c75ba081",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "8c5231d642",
+        "post_id": "066a58c2e9",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "feb7900b62",
+        "post_id": "9ff6d8abf2",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "91b6a42835",
+        "post_id": "28641e5b6d",
+        "adaptive-state": {
+            "presence": 3,
+            "C-S": {
+                "subelement": 1
+            },
+            "D": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 4,
+            "C-S": {
+                "subelement": 2
+            },
+            "C-O": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 3
+            }
+        }
+    },
+    {
+        "timeline_id": "30c9e21337",
+        "post_id": "e1588076f5",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "43f395b896",
+        "post_id": "bebf00051c",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "30c9e21337",
+        "post_id": "d5257cfb2a",
+        "adaptive-state": {
+            "presence": 1
+        },
+        "maladaptive-state": {
+            "presence": 4,
+            "A": {
+                "subelement": 6
+            },
+            "B-O": {
+                "subelement": 4
+            },
+            "C-S": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 6
+            }
+        }
+    },
+    {
+        "timeline_id": "15564c5c62",
+        "post_id": "16a89d299d",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "9f2e135af8",
+        "post_id": "01e090b5f5",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "b1d762ee9f",
+        "post_id": "04c33123ab",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "d0fb4b962e",
+        "post_id": "1341b5f8be",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "8e0a58cfbd",
+        "post_id": "17e3ab4983",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "c62c65f481",
+        "post_id": "9a1714671a",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "0cac13e357",
+        "post_id": "a7f3e65bd7",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": 3,
+            "A": {
+                "subelement": 2
+            },
+            "C-O": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "d0fb4b962e",
+        "post_id": "f01b1c15c0",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "d237ea4269",
+        "post_id": "d2097691e1",
+        "adaptive-state": {
+            "presence": 1,
+            "C-O": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 1
+        }
+    },
+    {
+        "timeline_id": "5da839acb5",
+        "post_id": "b7efbe6603",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": 2,
+            "A": {
+                "subelement": 2
+            },
+            "B-S": {
+                "subelement": 1
+            },
+            "C-S": {
+                "subelement": 1
+            },
+            "C-O": {
+                "subelement": 1
+            },
+            "D": {
+                "subelement": 1
+            }
+        }
+    },
+    {
+        "timeline_id": "a2aa387774",
+        "post_id": "d6cfbd09bb",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "8fc3f6c07d",
+        "post_id": "d3c1d4225e",
+        "adaptive-state": {
+            "presence": 2,
+            "C-O": {
+                "subelement": 1
+            },
+            "D": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 5,
+            "A": {
+                "subelement": 4
+            },
+            "B-S": {
+                "subelement": 2
+            },
+            "B-O": {
+                "subelement": 2
+            },
+            "C-S": {
+                "subelement": 2
+            },
+            "C-O": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 6
+            }
+        }
+    },
+    {
+        "timeline_id": "15564c5c62",
+        "post_id": "7bdb5c4753",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "d0fb4b962e",
+        "post_id": "0a79ca8075",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "b0185a6f5d",
+        "post_id": "19192e9bde",
+        "adaptive-state": {
+            "presence": 2,
+            "B-O": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 2,
+            "A": {
+                "subelement": 3
+            }
+        }
+    },
+    {
+        "timeline_id": "62defd8df2",
+        "post_id": "cb48f7e5e5",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "6c9677b482",
+        "post_id": "128dcb2b1f",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "91b6a42835",
+        "post_id": "ec53b61fd9",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "46f4bb3ada",
+        "post_id": "e36e46ced7",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "d237ea4269",
+        "post_id": "5dd9b6a303",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "62defd8df2",
+        "post_id": "f1180c97cd",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "5da839acb5",
+        "post_id": "6e909f106a",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": 5,
+            "A": {
+                "subelement": 4
+            },
+            "B-S": {
+                "subelement": 2
+            },
+            "B-O": {
+                "subelement": 2
+            },
+            "C-S": {
+                "subelement": 2
+            },
+            "C-O": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 6
+            }
+        }
+    },
+    {
+        "timeline_id": "b0185a6f5d",
+        "post_id": "aa0b023b32",
+        "adaptive-state": {
+            "presence": 2,
+            "B-S": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 2,
+            "A": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "306d938d4b",
+        "post_id": "2cd210a244",
+        "adaptive-state": {
+            "presence": 1,
+            "B-S": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 4,
+            "A": {
+                "subelement": 6
+            },
+            "B-S": {
+                "subelement": 2
+            },
+            "C-S": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "a2aa387774",
+        "post_id": "e3abde0a57",
+        "adaptive-state": {
+            "presence": 4,
+            "A": {
+                "subelement": 10
+            },
+            "C-O": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 4
+            }
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "a2aa387774",
+        "post_id": "603fe0d9ee",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "30c9e21337",
+        "post_id": "fa779f6297",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "6c9677b482",
+        "post_id": "c92ad964c4",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "8c5231d642",
+        "post_id": "706ed91461",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": 4,
+            "A": {
+                "subelement": 10
+            },
+            "C-S": {
+                "subelement": 2
+            },
+            "C-O": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "8080ac11fc",
+        "post_id": "9f4a56b06b",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "306d938d4b",
+        "post_id": "a036b42063",
+        "adaptive-state": {
+            "presence": 3,
+            "C-S": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 4,
+            "C-S": {
+                "subelement": 2
+            },
+            "B-O": {
+                "subelement": 1
+            }
+        }
+    },
+    {
+        "timeline_id": "b1d762ee9f",
+        "post_id": "0330f965e7",
+        "adaptive-state": {
+            "presence": 1,
+            "D": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 3,
+            "A": {
+                "subelement": 3
+            },
+            "C-S": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "9f2e135af8",
+        "post_id": "1ed34d0d08",
+        "adaptive-state": {
+            "presence": 2,
+            "B-O": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 2,
+            "A": {
+                "subelement": 2
+            },
+            "C-S": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "6c9677b482",
+        "post_id": "6326af4746",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "3db8573df5",
+        "post_id": "77cbbd5cc2",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "c62c65f481",
+        "post_id": "90f3b86417",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "91b6a42835",
+        "post_id": "e3226b9c15",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "8c5231d642",
+        "post_id": "5d60117704",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "8e0a58cfbd",
+        "post_id": "9b28c094dc",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "feb7900b62",
+        "post_id": "66a6a9729d",
+        "adaptive-state": {
+            "presence": 1
+        },
+        "maladaptive-state": {
+            "presence": 5,
+            "A": {
+                "subelement": 4
+            }
+        }
+    },
+    {
+        "timeline_id": "d237ea4269",
+        "post_id": "8d91beb738",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": 4,
+            "A": {
+                "subelement": 4
+            },
+            "C-S": {
+                "subelement": 2
+            },
+            "C-O": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "8e0a58cfbd",
+        "post_id": "2ef5b06d92",
+        "adaptive-state": {
+            "presence": 2,
+            "B-S": {
+                "subelement": 1
+            },
+            "B-O": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 2,
+            "C-S": {
+                "subelement": 2
+            },
+            "C-O": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "43f395b896",
+        "post_id": "6f064e2e2d",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "feb7900b62",
+        "post_id": "2e7a30a06f",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "8c5231d642",
+        "post_id": "21d3c18c88",
+        "adaptive-state": {
+            "presence": 1
+        },
+        "maladaptive-state": {
+            "presence": 3,
+            "C-S": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "87821f81b9",
+        "post_id": "e634f6b440",
+        "adaptive-state": {
+            "presence": 4,
+            "B-O": {
+                "subelement": 1
+            },
+            "D": {
+                "subelement": 3
+            }
+        },
+        "maladaptive-state": {
+            "presence": 4,
+            "A": {
+                "subelement": 4
+            },
+            "C-O": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "b0185a6f5d",
+        "post_id": "a1207b0765",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "5da839acb5",
+        "post_id": "30d8f4338e",
+        "adaptive-state": {
+            "presence": 2,
+            "C-O": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 4,
+            "A": {
+                "subelement": 12
+            },
+            "C-S": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 6
+            }
+        }
+    },
+    {
+        "timeline_id": "c62c65f481",
+        "post_id": "7bc055e60d",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "aa310342f5",
+        "post_id": "0054479295",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "d0fb4b962e",
+        "post_id": "5bf43c51a7",
+        "adaptive-state": {
+            "presence": 1,
+            "B-O": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 2,
+            "C-S": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "8c5231d642",
+        "post_id": "f2fb1fcee1",
+        "adaptive-state": {
+            "presence": 1,
+            "C-S": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 5,
+            "A": {
+                "subelement": 4
+            },
+            "B-S": {
+                "subelement": 2
+            },
+            "B-O": {
+                "subelement": 2
+            },
+            "C-S": {
+                "subelement": 2
+            },
+            "C-O": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 6
+            }
+        }
+    },
+    {
+        "timeline_id": "62defd8df2",
+        "post_id": "f930b32cbd",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "a35b41d1ca",
+        "post_id": "9f0d9513f8",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "5da839acb5",
+        "post_id": "49866ff6f6",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "87821f81b9",
+        "post_id": "9e9f3f66b4",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "15564c5c62",
+        "post_id": "ecb1e568c1",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "9f2e135af8",
+        "post_id": "e91616170f",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "caee9a5e58",
+        "post_id": "2d8566a5f8",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "5da839acb5",
+        "post_id": "d06936d838",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "91b6a42835",
+        "post_id": "2be35f3d79",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "a2aa387774",
+        "post_id": "f52c885142",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "5da839acb5",
+        "post_id": "fdfc4cd408",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "d237ea4269",
+        "post_id": "c9b9f50e94",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "c62c65f481",
+        "post_id": "1d4a21617e",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "46f4bb3ada",
+        "post_id": "391e9057c2",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": 2,
+            "C-S": {
+                "subelement": 2
+            },
+            "C-O": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "cf9aadf596",
+        "post_id": "3beeb15f2c",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "306d938d4b",
+        "post_id": "740b3971ec",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "d0fb4b962e",
+        "post_id": "827da2f7e7",
+        "adaptive-state": {
+            "presence": 2,
+            "B-O": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 2,
+            "C-S": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "feb7900b62",
+        "post_id": "7933983a4a",
+        "adaptive-state": {
+            "presence": 2,
+            "A": {
+                "subelement": 1
+            },
+            "D": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 1
+        }
+    },
+    {
+        "timeline_id": "30c9e21337",
+        "post_id": "0966f70863",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "91b6a42835",
+        "post_id": "b4e4c8edea",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": 4,
+            "A": {
+                "subelement": 2
+            },
+            "C-S": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "9f2e135af8",
+        "post_id": "511cd1164e",
+        "adaptive-state": {
+            "presence": 4,
+            "A": {
+                "subelement": 3
+            },
+            "B-O": {
+                "subelement": 2
+            },
+            "C-O": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 2
+            }
+        },
+        "maladaptive-state": {
+            "presence": 1
+        }
+    },
+    {
+        "timeline_id": "a35b41d1ca",
+        "post_id": "b5b5b8896c",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": 4,
+            "A": {
+                "subelement": 10
+            },
+            "C-S": {
+                "subelement": 2
+            },
+            "C-O": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 6
+            }
+        }
+    },
+    {
+        "timeline_id": "8c5231d642",
+        "post_id": "859577494d",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "30c9e21337",
+        "post_id": "d3fb3d6a73",
+        "adaptive-state": {
+            "presence": 3,
+            "B-S": {
+                "subelement": 1
+            },
+            "C-O": {
+                "subelement": 1
+            },
+            "D": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 4,
+            "A": {
+                "subelement": 4
+            },
+            "B-O": {
+                "subelement": 2
+            },
+            "C-S": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "43f395b896",
+        "post_id": "633a7a79b4",
+        "adaptive-state": {
+            "presence": 2,
+            "B-O": {
+                "subelement": 1
+            },
+            "C-O": {
+                "subelement": 1
+            },
+            "D": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 4,
+            "A": {
+                "subelement": 2
+            },
+            "B-S": {
+                "subelement": 2
+            },
+            "B-O": {
+                "subelement": 2
+            },
+            "C-S": {
+                "subelement": 2
+            },
+            "C-O": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "8e0a58cfbd",
+        "post_id": "165477732e",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": 4,
+            "A": {
+                "subelement": 6
+            },
+            "C-S": {
+                "subelement": 2
+            },
+            "C-O": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "8c5231d642",
+        "post_id": "d05e479556",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "62defd8df2",
+        "post_id": "3663fd047a",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "c62c65f481",
+        "post_id": "4ab055ccc3",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "b0185a6f5d",
+        "post_id": "efb43f7c7f",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "c62c65f481",
+        "post_id": "fb72e5a825",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "15564c5c62",
+        "post_id": "85d698f878",
+        "adaptive-state": {
+            "presence": 3,
+            "B-S": {
+                "subelement": 1
+            },
+            "B-O": {
+                "subelement": 1
+            },
+            "C-O": {
+                "subelement": 1
+            },
+            "D": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 1
+        }
+    },
+    {
+        "timeline_id": "8080ac11fc",
+        "post_id": "bb8b14a01e",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "feb7900b62",
+        "post_id": "9f369cb36f",
+        "adaptive-state": {
+            "presence": 2,
+            "B-O": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 4,
+            "A": {
+                "subelement": 3
+            },
+            "C-S": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "aa310342f5",
+        "post_id": "d46528a9b5",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "8e0a58cfbd",
+        "post_id": "2024ff7e10",
+        "adaptive-state": {
+            "presence": 1
+        },
+        "maladaptive-state": {
+            "presence": 1
+        }
+    },
+    {
+        "timeline_id": "aa310342f5",
+        "post_id": "76d0f361cf",
+        "adaptive-state": {
+            "presence": 3,
+            "B-S": {
+                "subelement": 1
+            },
+            "D": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "feb7900b62",
+        "post_id": "9c28a9db47",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "3db8573df5",
+        "post_id": "e383f54895",
+        "adaptive-state": {
+            "presence": 5,
+            "A": {
+                "subelement": 5
+            },
+            "B-S": {
+                "subelement": 1
+            },
+            "C-S": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 1
+        }
+    },
+    {
+        "timeline_id": "8c5231d642",
+        "post_id": "ad237b9e67",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "5da839acb5",
+        "post_id": "422dd6f5c4",
+        "adaptive-state": {
+            "presence": 3,
+            "B-S": {
+                "subelement": 1
+            },
+            "C-S": {
+                "subelement": 1
+            },
+            "C-O": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 3,
+            "A": {
+                "subelement": 4
+            },
+            "C-S": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 6
+            }
+        }
+    },
+    {
+        "timeline_id": "8e0a58cfbd",
+        "post_id": "6a83b4e29f",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "87821f81b9",
+        "post_id": "b1c272af81",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "aa310342f5",
+        "post_id": "7f6476b28f",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "62defd8df2",
+        "post_id": "b60098236e",
+        "adaptive-state": {
+            "presence": 3,
+            "B-O": {
+                "subelement": 1
+            },
+            "C-S": {
+                "subelement": 1
+            },
+            "D": {
+                "subelement": 3
+            }
+        },
+        "maladaptive-state": {
+            "presence": null,
+            "A": {
+                "subelement": 2
+            },
+            "B-S": {
+                "subelement": 2
+            },
+            "B-O": {
+                "subelement": 2
+            },
+            "C-O": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "feb7900b62",
+        "post_id": "98a7f54367",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "3db8573df5",
+        "post_id": "84e4fa4132",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "46f4bb3ada",
+        "post_id": "b840ef8ca5",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "caee9a5e58",
+        "post_id": "d7534e56f9",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "feb7900b62",
+        "post_id": "4ddaa992aa",
+        "adaptive-state": {
+            "presence": 1,
+            "B-O": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 4,
+            "A": {
+                "subelement": 4
+            },
+            "B-O": {
+                "subelement": 2
+            },
+            "C-S": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "caee9a5e58",
+        "post_id": "e5038c1910",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "d237ea4269",
+        "post_id": "00ddee31f6",
+        "adaptive-state": {
+            "presence": 1,
+            "B-S": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 2,
+            "A": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "b0185a6f5d",
+        "post_id": "8b57ae0c28",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "43f395b896",
+        "post_id": "9192291064",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": 4,
+            "A": {
+                "subelement": 2
+            },
+            "C-S": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 6
+            }
+        }
+    },
+    {
+        "timeline_id": "a2aa387774",
+        "post_id": "a0208f4362",
+        "adaptive-state": {
+            "presence": 1,
+            "B-S": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 2,
+            "A": {
+                "subelement": 2
+            },
+            "C-O": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "c62c65f481",
+        "post_id": "df2dc674f7",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "d237ea4269",
+        "post_id": "774eaac692",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "30c9e21337",
+        "post_id": "f1ea3c60f3",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "d0fb4b962e",
+        "post_id": "35258be6e5",
+        "adaptive-state": {
+            "presence": 2,
+            "B-O": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 1
+        }
+    },
+    {
+        "timeline_id": "8e0a58cfbd",
+        "post_id": "b5c35dcdf0",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "feb7900b62",
+        "post_id": "b21c81fd0e",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": 4,
+            "A": {
+                "subelement": 4
+            },
+            "B-S": {
+                "subelement": 2
+            },
+            "B-O": {
+                "subelement": 2
+            },
+            "C-S": {
+                "subelement": 2
+            },
+            "C-O": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "a2aa387774",
+        "post_id": "07f9ab6234",
+        "adaptive-state": {
+            "presence": 3,
+            "B-S": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 1
+        }
+    },
+    {
+        "timeline_id": "c62c65f481",
+        "post_id": "8630dc9d72",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "3db8573df5",
+        "post_id": "3fd9477f88",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "15564c5c62",
+        "post_id": "66d80f566d",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "0cac13e357",
+        "post_id": "b08cd9e3f2",
+        "adaptive-state": {
+            "presence": 2,
+            "B-O": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 2,
+            "A": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "8080ac11fc",
+        "post_id": "01af6cc6c1",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": 3,
+            "A": {
+                "subelement": 5
+            },
+            "C-O": {
+                "subelement": 5
+            },
+            "D": {
+                "subelement": 5
+            }
+        }
+    },
+    {
+        "timeline_id": "8e0a58cfbd",
+        "post_id": "ab71b7b975",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "d0fb4b962e",
+        "post_id": "4f32d05bd9",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "9f2e135af8",
+        "post_id": "1b0157cc83",
+        "adaptive-state": {
+            "presence": 2,
+            "B-O": {
+                "subelement": 1
+            },
+            "D": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 4,
+            "C-S": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 4
+            }
+        }
+    },
+    {
+        "timeline_id": "15564c5c62",
+        "post_id": "f571720318",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "aa310342f5",
+        "post_id": "330a335ec8",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "15564c5c62",
+        "post_id": "09b7c384fd",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "91b6a42835",
+        "post_id": "25316f14af",
+        "adaptive-state": {
+            "presence": 2,
+            "C-S": {
+                "subelement": 1
+            },
+            "C-O": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": null,
+            "A": {
+                "subelement": 3
+            },
+            "B-S": {
+                "subelement": 2
+            },
+            "C-S": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 4
+            }
+        }
+    },
+    {
+        "timeline_id": "30c9e21337",
+        "post_id": "6c32177ac7",
+        "adaptive-state": {
+            "presence": 5,
+            "B-O": {
+                "subelement": 1
+            },
+            "C-O": {
+                "subelement": 1
+            },
+            "D": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 1
+        }
+    },
+    {
+        "timeline_id": "c62c65f481",
+        "post_id": "eda70d3387",
+        "adaptive-state": {
+            "presence": 5,
+            "D": {
+                "subelement": 5
+            }
+        },
+        "maladaptive-state": {
+            "presence": 1
+        }
+    },
+    {
+        "timeline_id": "0cac13e357",
+        "post_id": "751ec3360a",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "c62c65f481",
+        "post_id": "08fcf6bfdc",
+        "adaptive-state": {
+            "presence": 1,
+            "C-S": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 3,
+            "C-S": {
+                "subelement": 2
+            },
+            "C-O": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "5da839acb5",
+        "post_id": "da20343212",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "feb7900b62",
+        "post_id": "fd4e28b502",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "0cac13e357",
+        "post_id": "6d0de5af51",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "6c9677b482",
+        "post_id": "e7f7c98b01",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "9f2e135af8",
+        "post_id": "6643b41c74",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "8c5231d642",
+        "post_id": "0d055b16a4",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "d237ea4269",
+        "post_id": "2104cda7af",
+        "adaptive-state": {
+            "presence": 2,
+            "B-O": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "presence": 2,
+            "B-S": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "a35b41d1ca",
+        "post_id": "bf8667a104",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "46f4bb3ada",
+        "post_id": "068538dc83",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "aa310342f5",
+        "post_id": "3210af2e2e",
+        "adaptive-state": {
+            "presence": 2,
+            "B-O": {
+                "subelement": 2
+            }
+        },
+        "maladaptive-state": {
+            "presence": 3,
+            "C-O": {
+                "subelement": 3
+            }
+        }
+    },
+    {
+        "timeline_id": "5da839acb5",
+        "post_id": "8bf58653ec",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    },
+    {
+        "timeline_id": "0cac13e357",
+        "post_id": "cc29e0c8f1",
+        "adaptive-state": {
+            "presence": null
+        },
+        "maladaptive-state": {
+            "presence": null
+        }
+    }
+]

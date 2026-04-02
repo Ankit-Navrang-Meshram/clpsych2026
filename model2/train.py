@@ -135,7 +135,6 @@ if __name__ == "__main__":
     parser.add_argument("--threshold", type=float, default=0.5)
     parser.add_argument("--k", type=int, default=5)
     parser.add_argument("--t", type=int, default=2)
-    #parser.add_argument("--wv_model_path", type=str, required=True)
     parser.add_argument("--epochs", type=int, default=1)
     parser.add_argument("--lr", type=float, default=5e-5)
     parser.add_argument("--save_dir", type=str, default=f"./saved_qwen_clpsych/")
@@ -146,8 +145,8 @@ if __name__ == "__main__":
     print(f"Using device: {device}")
 
     os.makedirs(args.cache_dir, exist_ok=True)
-    train_cache_path = os.path.join(args.cache_dir, f"train_dataset_k{args.k}.pkl")
-    eval_cache_path = os.path.join(args.cache_dir, f"eval_dataset_k{args.k}.pkl")
+    train_cache_path = os.path.join(args.cache_dir, f"train_dataset_k{args.k}_t{args.t}.pkl")
+    eval_cache_path = os.path.join(args.cache_dir, f"eval_dataset_k{args.k}_t{args.t}.pkl")
 
     # --- 1. Load Data (with Caching) ---
     if os.path.exists(train_cache_path) and os.path.exists(eval_cache_path):

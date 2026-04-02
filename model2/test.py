@@ -110,7 +110,7 @@ if __name__ == "__main__":
     print(f"Using device: {device}")
 
     os.makedirs(args.cache_dir, exist_ok=True)
-    test_cache_path = os.path.join(args.cache_dir, f"test_dataset_k{args.k}.pkl")
+    test_cache_path = os.path.join(args.cache_dir, f"test_dataset_k{args.k}_t{args.t}.pkl")
 
     if os.path.exists(test_cache_path):
         print("\nLoading test dataset from cached files ...")
