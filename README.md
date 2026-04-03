@@ -69,7 +69,6 @@ The codebase relies on modern deep learning libraries, specifically tailored for
 The necessary pre-trained model weights and checkpoints for this repository can be downloaded from our shared Google Drive folder:
 **[Download Model Weights Here](https://drive.google.com/drive/folders/1uKoHlIK6UndB01DgcWnEEUZkra_8_7aR?usp=drive_link)**
 
----
 
 ## Submission Formatting Note
 
