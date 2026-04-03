@@ -1,0 +1,533 @@
+{
+  "timeline_id": "feb7900b62",
+  "posts": [
+    {
+      "post_index": 1,
+      "post_id": "398b220dad",
+      "date": "01-12-2019, 00:00:57",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "What if our organs went on strike\n[removed]",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 2,
+      "post_id": "4ddaa992aa",
+      "date": "01-12-2019, 19:22:00",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Give me a reason My life is stale  There is no fun There is no excitement  There is no positivity  There is nothing but the void of sadness and an infinite plane of sorrow and melancholy  Why shouldn\u2019t I end it all, why should I continue this running joke of living only to be fucked over again and again  Why?",
+      "Well-being": 3,
+      "evidence": {
+        "adaptive-state": {
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "Give me a reason"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "My life is stale  There is no fun There is no excitement  There is no positivity  There is nothing but the void of sadness and an infinite plane of sorrow and melancholy"
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "why should I continue this running joke of living only to be fucked over again and again"
+          },
+          "Presence": 5
+        }
+      }
+    },
+    {
+      "post_index": 3,
+      "post_id": "4c357eb93f",
+      "date": "03-12-2019, 12:52:28",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "When you lose that one thing you always have but never need but then you need it but it\u2019s lost\n[removed]",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 4,
+      "post_id": "5070f72723",
+      "date": "06-12-2019, 01:04:33",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "What if I turned my dick inside out and sprayed piss in this cone of piss\nWhat",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 5,
+      "post_id": "2f6fc533f1",
+      "date": "09-12-2019, 10:49:48",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "\u201cJust stop worrying about it\u201d\n[removed]",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 6,
+      "post_id": "66a6a9729d",
+      "date": "09-12-2019, 10:50:01",
+      "Switch": "0",
+      "Escalation": "E",
+      "post": "Stab the annoying kid in his eye with my pencil and slam his head on the desk",
+      "Well-being": 8,
+      "evidence": {
+        "adaptive-state": {
+          "Presence": 1
+        },
+        "maladaptive-state": {
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "Stab the annoying kid in his eye with my pencil and slam his head on the desk"
+          },
+          "Presence": 2
+        }
+      }
+    },
+    {
+      "post_index": 7,
+      "post_id": "98a7f54367",
+      "date": "09-12-2019, 10:50:07",
+      "Switch": "S",
+      "Escalation": "E",
+      "post": "What if I killed myself during my math class presentation",
+      "Well-being": 6,
+      "evidence": {
+        "adaptive-state": {
+          "Presence": 1
+        },
+        "maladaptive-state": {
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "What if I killed myself during my math class presentation"
+          },
+          "Presence": 3
+        }
+      }
+    },
+    {
+      "post_index": 8,
+      "post_id": "ddff2f2612",
+      "date": "10-12-2019, 10:27:18",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "By far the weirdest\nScorpion from mortal combat uses his chain to rip the brain from an infant onto a grill and then puts it in a burger to feed it to a customer",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 9,
+      "post_id": "69d3ab6672",
+      "date": "14-12-2019, 12:28:54",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Cum Jar",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 10,
+      "post_id": "9c28a9db47",
+      "date": "15-12-2019, 23:30:00",
+      "Switch": "S",
+      "Escalation": "0",
+      "post": "Give me a reason On the verge again  Just give me a reason, just one, I don\u2019t want hotline numbers, no textbook comments and shit like that  Just give me a reason not to end it all I\u2019m fat Stupid Too anxious all the time Social outcast  Loser \u201cEdgy kid\u201d  Slow at learning (not disabled just need more time)  And most of all I just fucking suck  Riddled with acne, anxiety, cutting scars, tear stains, and emotional wounds as deep as bone Give me a reason  Just one",
+      "Well-being": 1,
+      "evidence": {
+        "adaptive-state": {
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "Just give me a reason, just one, I don\u2019t want hotline numbers, no textbook comments and shit like that  Just give me a reason not to end it all"
+          },
+          "D": {
+            "Category": "(1) Relatedness",
+            "highlighted_evidence": "Just give me a reason, just one, I don\u2019t want hotline numbers, no textbook comments and shit like that  Just give me a reason not to end it all"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "On the verge again  Just give me a reason, just one, I don\u2019t want hotline numbers, no textbook comments and shit like that  Just give me a reason not to end it all"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I\u2019m fat Stupid Too anxious all the time Social outcast  Loser \u201cEdgy kid\u201d  Slow at learning (not disabled just need more time)  And most of all I just fucking suck"
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 11,
+      "post_id": "16eb60c3fb",
+      "date": "15-12-2019, 23:30:31",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "OwO hitwer what awe u dowing",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 12,
+      "post_id": "33b78a5d3c",
+      "date": "16-12-2019, 11:02:40",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "MASON GANG\nMason&gt;Jason",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 13,
+      "post_id": "b21c81fd0e",
+      "date": "17-12-2019, 01:33:00",
+      "Switch": "S",
+      "Escalation": "0",
+      "post": "Bathrooms are hell Since I\u2019m still in school and I have fresh cuts because of recent events the bathroom situation is hell, I\u2019m usually the most compulsive hand washer out there, I just kinda like washing my hands because I\u2019m weird idk lol but now since my cuts are clearly visible in red I either have to point my arm in this weird way that only attracts more attention or not wash my hands and then have my anxiety remind me I didn\u2019t and now SoMeThInG is gonna go wrong and I\u2019m gonna get hurt and they\u2019re gonna find out about the cuts and blah blah you\u2019re gonna be an outcast blah blah they\u2019ll hate you blah blah, anyone else have a problem with bathrooms?",
+      "Well-being": 5,
+      "evidence": {
+        "adaptive-state": {
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "anyone else have a problem with bathrooms?"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(2) Anxious/ fearful/ tense",
+            "highlighted_evidence": "now since my cuts are clearly visible in red I either have to point my arm in this weird way that only attracts more attention or not wash my hands and then have my anxiety remind me I didn\u2019t and now SoMeThInG is gonna go wrong and I\u2019m gonna get hurt and they\u2019re gonna find out about the cuts and blah blah you\u2019re gonna be an outcast blah blah they\u2019ll hate you blah blah,"
+          },
+          "B-S": {
+            "Category": "(2) Self harm, neglect and avoidance",
+            "highlighted_evidence": "I have fresh cuts"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I\u2019m usually the most compulsive hand washer out there, I just kinda like washing my hands because I\u2019m weird"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "they\u2019re gonna find out about the cuts and blah blah you\u2019re gonna be an outcast blah blah they\u2019ll hate you blah blah,"
+          },
+          "D": {
+            "Category": "(2) Expectation that relatedness needs will not be met",
+            "highlighted_evidence": "SoMeThInG is gonna go wrong and I\u2019m gonna get hurt and they\u2019re gonna find out about the cuts and blah blah you\u2019re gonna be an outcast blah blah they\u2019ll hate you blah blah"
+          },
+          "Presence": 5
+        }
+      }
+    },
+    {
+      "post_index": 14,
+      "post_id": "9f369cb36f",
+      "date": "17-12-2019, 13:46:39",
+      "Switch": "S",
+      "Escalation": "0",
+      "post": "I am shook still\nIt\u2019s been a while since but this morning I had the worst nightmare I\u2019ve ever had, first nightmare to actually make me scared after being woken up, I had a disease of some sort and had to slowly die in front of my friends and family, knowing throughout that day it was my last day alive, I collapsed on my knees in the middle of the school day vomited and my vision started to fade black, I said one last thing, \u201cI love you all\u201d or something like that I don\u2019t exactly remember but this nightmare hit exactly where it hurts, I get super anxious over my own death and afterlife and blah blah I just freak the fuck out.",
+      "Well-being": 7,
+      "evidence": {
+        "adaptive-state": {
+          "Presence": 1
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(2) Anxious/ fearful/ tense",
+            "highlighted_evidence": "I had the worst nightmare I\u2019ve ever had, first nightmare to actually make me scared after being woken up,"
+          },
+          "D": {
+            "Category": "(4) Expectation that autonomy needs will not be met",
+            "highlighted_evidence": "I get super anxious over my own death and afterlife and blah blah I just freak the fuck out."
+          },
+          "Presence": 2
+        }
+      }
+    },
+    {
+      "post_index": 15,
+      "post_id": "61cf4e61a9",
+      "date": "20-12-2019, 01:08:21",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Almost killed someone today in class\n[removed]",
+      "Well-being": 8,
+      "evidence": {
+        "adaptive-state": {
+          "Presence": 1
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(10) Angry (aggression), disgust, contempt",
+            "highlighted_evidence": "Almost killed someone today in class"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "Almost killed someone today in class"
+          },
+          "Presence": 2
+        }
+      }
+    },
+    {
+      "post_index": 16,
+      "post_id": "79c854a909",
+      "date": "24-12-2019, 14:07:38",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "To the people who want adhd/anxiety\n[removed]",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 17,
+      "post_id": "7933983a4a",
+      "date": "27-12-2019, 15:21:52",
+      "Switch": "S",
+      "Escalation": "0",
+      "post": "Serious, Seriously: Help\nI have both adhd and anxiety but this post will be mainly about anxiety   So my anxiety is starting to go off the walls with shit now, since me and my small group of friends are on a tight rope because of my shit I do, I\u2019m super stressed and devastated that it\u2019s gotten to this point, I\u2019m ashamed and sad beyond measurement, I am usually open to share my opinion (keep in mind I\u2019m a highly logical straightforward person, but with an open sense of humor, but when stuff gets serious I\u2019m super logical and straightforward to the point that it\u2019s THE way or no way kinda deal) and when I share my opinion all of my friends have drastically different views and often make fun of me and disrespect me for my logical viewpoint (and that I live in a highly democratic state and I\u2019m a bit of a republican but enough politics for now) and since I\u2019m republican I don\u2019t want them to know in case they turn me into a social outcast because they are all super democratic people, my anxiety takes over and it starts with thoughts like \u201cwhat if they know (insert highly secretive secret I\u2019ve been hiding that could ruin my entire reputation in the school and ruin my friendship with all at this school)  My anxiety is making me feel like I\u2019m being used by them like a puppet, stuff and thoughts like \u201cthey only like you because you\u2019re funny and know science and history really well so they can get answers\u201d and now that I think about it, my best friend does seem toxic, now that my perspective is skewed with the negativity, I can\u2019t not see it that way,  he never truly listens to me, everyone talks to me like a child, I\u2019m the class clown so how could I be having any problems in life right? My life is clearly hilarious and nothing could go wrong! I wish that was true, none of my friends understand and I\u2019m not trying to sound like an edgy teen \u201cNo one understands me!\u201d For attention I\u2019m actually serious when I say they do not understand me or maddening struggle just to get up everyday and be alive, not once have they listened to me about it, only one time has one of them listened, it was when I slapped him hard and told him to shut the fuck up and listen, he was rambling about me and shit and I snapped and slapped him cutting him off and told him about how my life is crumbling and he didn\u2019t even try to understand, the only way I got him to listen was assault, I\u2019m beyond disappointed. I can\u2019t do this shit anymore, I\u2019m going to snap soon from this stress and stuff, my friend never shifts his perspective to mine, I\u2019ve told him about my adhd and anxiety and my persistent lack of sleep and how it\u2019s ruining my life and he never listens or tries to understand, he\u2019s ignorant and irritating when I talk serious to him, I cannot fucking stand it, there\u2019s no one to talk to about this serious shit except him and if I do it to anyone else I\u2019ll get sent to a fucking mental institute because they\u2019ll misunderstand and call the fucking cops because of what I told them about what was happening in my fucked up head. I\u2019m not gonna say what goes on in my head because it\u2019s uncomfortable to talk about and I will probably be called a faker and shit like that, most subreddit dwellers are ignorant and selfish (except you lovely fellows and a few other subs, other than those no one will ever look from another POV and are insanely ignorant)  I\u2019m scared that everything is gonna fall apart and before I know it I\u2019m gonna be hanging from my own ceiling from not being able to handle this anymore.  Thank you for reading, I needed to vent, I don\u2019t really need any support in the comments but I don\u2019t mind, I just needed to tell someone even anonymously would work.  If a single one of you criticizes anything in this I want you to think about what damage you\u2019ve caused and how much that may hurt, don\u2019t be ignorant and spread hate, don\u2019t leave hate just leave, spread love and care and avoid things you don\u2019t like, don\u2019t be an idiot",
+      "Well-being": 6,
+      "evidence": {
+        "adaptive-state": {
+          "A": {
+            "Category": "(3) Sad, emotional pain, grieving",
+            "highlighted_evidence": "told him about how my life is crumbling and he didn\u2019t even try to understand, the only way I got him to listen was assault, I\u2019m beyond disappointed"
+          },
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "I needed to vent,"
+          },
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "\u2019ve told him about my adhd and anxiety and my persistent lack of sleep and how it\u2019s ruining my life"
+          },
+          "C-S": {
+            "Category": "(1) Self-acceptance and compassion",
+            "highlighted_evidence": "I\u2019m a highly logical straightforward person, but with an open sense of humor,"
+          },
+          "D": {
+            "Category": "(1) Relatedness",
+            "highlighted_evidence": "Serious, Seriously: Help"
+          },
+          "Presence": 3
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(2) Anxious/ fearful/ tense",
+            "highlighted_evidence": "I\u2019m super stressed and devastated"
+          },
+          "B-S": {
+            "Category": "(2) Self harm, neglect and avoidance",
+            "highlighted_evidence": "my persistent lack of sleep"
+          },
+          "B-O": {
+            "Category": "(4) Over controlled or controlling behavior",
+            "highlighted_evidence": "only one time has one of them listened, it was when I slapped him hard and told him to shut the fuck up and listen,"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "me and my small group of friends are on a tight rope because of my shit I do"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "when I share my opinion all of my friends have drastically different views and often make fun of me and disrespect me for my logical viewpoint (and that I live in a highly democratic state and I\u2019m a bit of a republican but enough politics for now) and since I\u2019m republican I don\u2019t want them to know in case they turn me into a social outcast because they are all super democratic people, my anxiety takes over and it starts with thoughts like \u201cwhat if they know (insert highly secretive secret I\u2019ve been hiding that could ruin my entire reputation in the school and ruin my friendship with all at this school)"
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "I can\u2019t do this shit anymore, I\u2019m going to snap soon from this stress and stuff,"
+          },
+          "Presence": 5
+        }
+      }
+    },
+    {
+      "post_index": 18,
+      "post_id": "9ff6d8abf2",
+      "date": "30-12-2019, 17:01:33",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Do you guys ever get this?\nMe:doing whatever  Anxiety:something bad is gonna happen Adhd:agreed Me:what is gonna happen? Anxiety: Idk lol but something is",
+      "Well-being": 6,
+      "evidence": {
+        "adaptive-state": {
+          "D": {
+            "Category": "(1) Relatedness",
+            "highlighted_evidence": "Do you guys ever get this?"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "Me:doing whatever  Anxiety:something bad is gonna happen Adhd:agreed Me:what is gonna happen? Anxiety: Idk lol but something is"
+          },
+          "Presence": 2
+        }
+      }
+    },
+    {
+      "post_index": 19,
+      "post_id": "bf5c346d3c",
+      "date": "30-12-2019, 21:11:19",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "My power is immeasurable\nI can eye shake and ear rumble, at the same time, and control how powerful they are individually",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 20,
+      "post_id": "7ccc984edd",
+      "date": "05-01-2020, 23:12:32",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Thank you for the gold kind stranger\nWowee! Thanks for 4 upvotes mom and dad and step mom and step dad!  Update: thanks for gold kind stranger Update wowee I got an award on Reddit I am so cool I am going to aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 21,
+      "post_id": "fd4e28b502",
+      "date": "19-01-2020, 01:34:54",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Stereotypes\nQuick list of retarded stereotypes    Not all Mental illness/disorder sufferers are doing it for attention  Not All men are rapey, with sex on their mind all the time   All women are not your fucking plaything, you are a man, learn how to be one   You cannot turn off a mental illness or disorder   Self harm is not for attention   Not all black people are \u201cghetto\u201d   Not all white people are stingy assholes  Not all Koreans are Kim Jong Un  Gamers are not hermits, we go outside, we aren\u2019t 500 pounds either   _____________________________________  Fun facts:   The world isn\u2019t shit  The world isn\u2019t perfect   Nobody is perfect   Nobody will ever be perfect  Most discord admins are furries, but more importantly biased   No one fucking cares about your political opinion   No one fucking cares about your orientation, if I went out and screamed I\u2019m straight to everyone, no one would care and I\u2019d probably be slapped, but if you tell everyone that you\u2019re (insert) and that you\u2019re special, reality\u2019s here and they say, you\u2019re not special, you are just  another ant in the colony of human civilization   Liking dark humor doesn\u2019t make you an asshole  Playing violent video games doesn\u2019t make you violent  Removing posts you don\u2019t agree with instead of rule violating posts is censorship, and really scummy  Thank you for listening and if you\u2019re the type to PUT ANOTHER GOD DAMN BTS GIF UNDER A TWEET, GO FUCK YOURSELF, GEE WIZ THAT WAS SO FUCKING COOL YOU LIKE THIS BAND MEMBER, WOW NOW STFU",
+      "Well-being": 7,
+      "evidence": {
+        "adaptive-state": {
+          "C-S": {
+            "Category": "(1) Self-acceptance and compassion",
+            "highlighted_evidence": "Nobody is perfect   Nobody will ever be perfect"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "Not all Mental illness/disorder sufferers are doing it for attention  Not All men are rapey, with sex on their mind all the time"
+          },
+          "Presence": 3
+        }
+      }
+    },
+    {
+      "post_index": 22,
+      "post_id": "2e7a30a06f",
+      "date": "22-01-2020, 01:50:00",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Guess who\u2019s dark thoughts are back! It\u2019s me! My dark thoughts about all my insecurities and how much I want to die and random thoughts about slaughtering my friends, in a gruesome manner. When I vent to my friends and in my friend group I happen to be the funny one, I crack jokes every 10 seconds basically and my friends find me hilarious, when I open up, they think it\u2019s another joke or they don\u2019t take me seriously, because o b v i o u s l y if you\u2019re hilarious you\u2019re life must be amazing! Right? No. I use comedy as a mask to hide my insecurities and cripplingly low self esteem with jokes.  Random thoughts of murder and violence are back, whenever I see a weapon, online or irl I get a small little vision for like .5 to 2 seconds of me, first person view typically, standing next to a gruesomely slaughtered and mutilated corpse of someone near me at the time or someone who caused me high stress that day, I am scared for my own safety and the safety of others, it is slowly going from random one off thoughts of \u201cwhat if I shot myself at the talent show, nah that\u2019s dumb\u201d To, Urges, small little urges to stab the pencil into his eye and snap it, I cannot vent anywhere else than here about it because 100% of I tell anyone I know irl the cops will be called, I have had thoughts of shooting the school up but have no intention of violence against anyone  Anyone else experiencing this and do I need to go to a psychiatrist immediately",
+      "Well-being": 6,
+      "evidence": {
+        "adaptive-state": {
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "Anyone else experiencing this and do I need to go to a psychiatrist immediately"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(2) Anxious/ fearful/ tense",
+            "highlighted_evidence": "I am scared for my own safety and the safety of others"
+          },
+          "B-O": {
+            "Category": "(2) Fight or flight behavior",
+            "highlighted_evidence": "I use comedy as a mask to hide my insecurities and cripplingly low self esteem with jokes"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I use comedy as a mask to hide my insecurities and cripplingly low self esteem with jokes"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "my friends find me hilarious, when I open up, they think it\u2019s another joke or they don\u2019t take me seriously"
+          },
+          "D": {
+            "Category": "(4) Expectation that autonomy needs will not be met",
+            "highlighted_evidence": "Random thoughts of murder and violence are back, whenever I see a weapon, online or irl I get a small little vision for like .5 to 2 seconds of me, first person view typically, standing next to a gruesomely slaughtered and mutilated corpse of someone near me at the time or someone who caused me high stress that day, I am scared for my own safety and the safety of others, it is slowly going from random one off thoughts of \u201cwhat if I shot myself at the talent show, nah that\u2019s dumb\u201d To, Urges, small little urges to stab the pencil into his eye and snap it, I cannot vent anywhere else than here about it because 100% of I tell anyone I know irl the cops will be called, I have had thoughts of shooting the school up but have no intention of violence against anyone  Anyone else experiencing this"
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 23,
+      "post_id": "84da10b981",
+      "date": "24-01-2020, 01:42:05",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Shitty names\nOkay here are some shitty names in my opinion:  Key word my fucking opinion so if you\u2019re name is listed please don\u2019t whine in the comments \u201cboohoo me downvote you1!!1!1!1\u201d   Ok to start:  Cooper is a fucking dog name  Cleo sounds like my grandmother sneezing  Daniella is just ew  Precious, angel, or any other gross ass names are setting up your kid up for constant harassment   Mason is the best name, silence you shitty named peasants  Sara without an h is just no  Female mason as mayson, stop Named after states or cities Flower names  And finally, Jonah sounds like a retard trying to donut",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 24,
+      "post_id": "f446481601",
+      "date": "28-01-2020, 09:03:01",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Man spreading\nHello, man spreading is totally fine, to all you girls out there complaining about it, where the fuck do you want us to put it?",
+      "Well-being": 7,
+      "evidence": {
+        "adaptive-state": {
+          "Presence": 1
+        },
+        "maladaptive-state": {
+          "B-O": {
+            "Category": "(2) Fight or flight behavior",
+            "highlighted_evidence": "to all you girls out there complaining about it, where the fuck do you want us to put it?"
+          },
+          "C-O": {
+            "Category": "(4) Perception of the other as blocking autonomy needs",
+            "highlighted_evidence": "Man spreading\nHello, man spreading is totally fine, to all you girls out there complaining about it, where the fuck do you want us to put it?"
+          },
+          "Presence": 2
+        }
+      }
+    }
+  ]
+}

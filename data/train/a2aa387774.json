@@ -1,0 +1,323 @@
+{
+  "timeline_id": "a2aa387774",
+  "posts": [
+    {
+      "post_index": 1,
+      "post_id": "d6cfbd09bb",
+      "date": "12-09-2019, 20:39:34",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "My partner wants a dog and I have an involuntary response to them\nMy partner of 5 years had two elderly dogs when I first moved in.  They had some serious health problems and our home smelled like dog feces and urine for a good 2 years.  During that time I developed a deep repulsion to dog smell.  To me the fur, breath and feces all smell the same: revolting.  I actually am embarrassed to even touch a friendly looking dog for fear that when I smell my hands or the dog after, the wretching begins. It's like an involuntary dry heave.  My partner doesn't understand and deeply wants a dog and our therapist suggested therapy to see if I could get over this issue before writing off the idea of no dog forever.  Is this something a hypnotherapist can work on? Smell triggers and smell associations?",
+      "Well-being": 7,
+      "evidence": {
+        "adaptive-state": {
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "our therapist suggested therapy to see if I could get over this issue before writing off the idea of no dog forever."
+          },
+          "D": {
+            "Category": "(1) Relatedness",
+            "highlighted_evidence": "Is this something a hypnotherapist can work on? Smell triggers and smell associations?"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(10) Angry (aggression), disgust, contempt",
+            "highlighted_evidence": "I developed a deep repulsion to dog smell.  To me the fur, breath and feces all smell the same: revolting."
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "My partner doesn't understand and deeply wants a dog"
+          },
+          "D": {
+            "Category": "(4) Expectation that autonomy needs will not be met",
+            "highlighted_evidence": "My partner doesn't understand and deeply wants a dog and our therapist suggested therapy to see if I could get over this issue before writing off the idea of no dog forever."
+          },
+          "Presence": 2
+        }
+      }
+    },
+    {
+      "post_index": 2,
+      "post_id": "e3abde0a57",
+      "date": "12-09-2019, 23:27:28",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "My partner of 5 years wants a dog.\nWhen I first moved in he had 2 elderly mini poodles that were poorly trained but also suffered health ailments and our house continually smelled like dog urine and feces.   Eventually they passed from old age a year ago.  He wants another dog but I simply cannot deal with dog smell since living with them.  I will see a cute friendly dog and go to pet them but the slightest dog smell makes me dry heave.  Fur, dog breath, poop, it all smells the same revolting smell to me now.  I even stayed with my brother who had a dog and the few times I pet it, when I smelled the dog on my hands or in the house I had uncontrollable dry heaves.  We have met with a couples counsellor and my partner seems to think I am exaggerating but the counsellor suggested I may have to try something like hypnotherapy since it is now an involuntary reaction.   I am scared of hypnosis but feel he has given me an ultimatum.   We get a dog or I go.  He is 40 and I am 38 and we have a 3yo.  What to do??",
+      "Well-being": 7,
+      "evidence": {
+        "adaptive-state": {
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "We have met with a couples counsellor"
+          },
+          "D": {
+            "Category": "(1) Relatedness",
+            "highlighted_evidence": "What to do??"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(2) Anxious/ fearful/ tense",
+            "highlighted_evidence": "I am scared of hypnosis but feel he has given me an ultimatum"
+          },
+          "B-S": {
+            "Category": "(2) Self harm, neglect and avoidance",
+            "highlighted_evidence": "I may have to try something like hypnotherapy since it is now an involuntary reaction"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "my partner seems to think I am exaggerating"
+          },
+          "D": {
+            "Category": "(4) Expectation that autonomy needs will not be met",
+            "highlighted_evidence": "I am scared of hypnosis but feel he has given me an ultimatum.   We get a dog or I go"
+          },
+          "Presence": 3
+        }
+      }
+    },
+    {
+      "post_index": 3,
+      "post_id": "07f9ab6234",
+      "date": "17-09-2019, 23:26:09",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Weighted blanket\nAnyone had any success with using weighted blankets to help with symptoms?",
+      "Well-being": 7,
+      "evidence": {
+        "adaptive-state": {
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "Anyone had any success with using weighted blankets to help with symptoms?"
+          },
+          "D": {
+            "Category": "(1) Relatedness",
+            "highlighted_evidence": "Anyone had any success with using weighted blankets to help with symptoms?"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "Presence": 1
+        }
+      }
+    },
+    {
+      "post_index": 4,
+      "post_id": "a0208f4362",
+      "date": "22-09-2019, 13:39:01",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "BPD and hypnosis\nWondering if hypnotherapy can help with borderline personality disorder?",
+      "Well-being": 7,
+      "evidence": {
+        "adaptive-state": {
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "Wondering if hypnotherapy can help with borderline personality disorder?"
+          },
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "Wondering if hypnotherapy can help with borderline personality disorder"
+          },
+          "D": {
+            "Category": "(5) Competence, self esteem, self-care",
+            "highlighted_evidence": "Wondering if hypnotherapy can help with borderline personality disorder?"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "Presence": 1
+        }
+      }
+    },
+    {
+      "post_index": 5,
+      "post_id": "5c569f182c",
+      "date": "17-10-2019, 02:25:17",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Ativan and nothing?\nI was given a prescription for a few Ativan of 1.0 mg and I literally felt nothing when I took them.  Not a single thing.   Even when I dropped off the prescription the lady was like...these will certainly knock you out a bit.  Does this mean bc I felt nothing is my anxiety really high??",
+      "Well-being": 7,
+      "evidence": {
+        "adaptive-state": {
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "I was given a prescription for a few Ativan of 1.0 mg"
+          },
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "Does this mean bc I felt nothing is my anxiety really high??"
+          },
+          "D": {
+            "Category": "(1) Relatedness",
+            "highlighted_evidence": "is my anxiety really high??"
+          },
+          "Presence": 3
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(8) Apathic, don\u2019t care, blunted",
+            "highlighted_evidence": "literally felt nothing when I took them.  Not a single thing."
+          },
+          "Presence": 2
+        }
+      }
+    },
+    {
+      "post_index": 6,
+      "post_id": "070271e93e",
+      "date": "21-10-2019, 02:25:55",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "The song\nFiona Apples song has nothing to do with the storyline!? I was thinking there was hidden meaning all along!!",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 7,
+      "post_id": "f52c885142",
+      "date": "24-10-2019, 19:58:09",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Depression simply the side effect?\nI have wondered if depression is simply the side effect of anxiety.   As in you get so burned out from the anxiety the depression is the end result.  Thoughts?",
+      "Well-being": 7,
+      "evidence": {
+        "adaptive-state": {
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "I have wondered if depression is simply the side effect of anxiety.   As in you get so burned out from the anxiety the depression is the end result.  Thoughts?"
+          },
+          "D": {
+            "Category": "(1) Relatedness",
+            "highlighted_evidence": "Thoughts?"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "Presence": 1
+        }
+      }
+    },
+    {
+      "post_index": 8,
+      "post_id": "603fe0d9ee",
+      "date": "05-11-2019, 00:11:43",
+      "Switch": "S",
+      "Escalation": "E",
+      "post": "I had a bad year and I am very close\nI am very close to going into the barn and opening the door in the second floor and jumping down with a rope.   Like so close.   I have never tried suicide but I just can't see tolerate it anymore and nothing helps.   How long will it hurt? And I have nobody in my life other than my 3 yo but I am my mother and she ruined me and he is young enough that I wont ruin him.   I'm afraid it wont work and I will hurt for along time.  Do you go and sit there and think or just not think and do? I don't want to leave a note.  I have told a few people how I have been feeling and I'm just a broken record.  They don't want to listen anymore.   I am broken and cannot be put back together.  The wiring in my brain is faulty and I feel like I want it to be over but I am scared of the pain or of it failing.  I dont want to leave a note so that there is one less piece of me to remember.",
+      "Well-being": 2,
+      "evidence": {
+        "adaptive-state": {
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "I have told a few people how I have been feeling"
+          },
+          "D": {
+            "Category": "(5) Competence, self esteem, self-care",
+            "highlighted_evidence": "How long will it hurt?"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "I just can't see tolerate it anymore and nothing helps."
+          },
+          "B-S": {
+            "Category": "(2) Self harm, neglect and avoidance",
+            "highlighted_evidence": "I just can't see tolerate it anymore and nothing helps."
+          },
+          "B-O": {
+            "Category": "(2) Fight or flight behavior",
+            "highlighted_evidence": "he is young enough that I wont ruin him."
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I am broken and cannot be put back together."
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "They don't want to listen anymore."
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "I just can't see tolerate it anymore and nothing helps."
+          },
+          "Presence": 5
+        }
+      }
+    },
+    {
+      "post_index": 9,
+      "post_id": "55a1d3c52d",
+      "date": "05-11-2019, 02:27:05",
+      "Switch": "S",
+      "Escalation": "E",
+      "post": "My mom sued me and my baby had cancer\nIn the last 12 months I have really been a tough go of things.  Almost exactly 1 year ago I was served legal papers by my estranged mother.  She was suing me over a small inheritance my father left me 10 years ago.   Then a couple weeks later I found out I was pregnant.  My partner of 4 years and father to our 2 yo told me he wanted me to get an abortion and move out.   He carried a genetic mutation so I decided like with my son, to get genetic testing by way of CVS at 11 weeks.  We found out that the baby would be born with retinoblastoma.  I was devastated but didn't know what to do.   Would I raise the baby as a single mom? My partners mom was born with retinoblastoma and went blind.  She went on to have 4 children with it and 2 of them died in their 20s and early 30s from complications of it.   At 22 weeks I had a termination which was on my birthday.   It was horrible and I am haunted by it every day.  When he found out the baby girl had cancer he said he wanted to now keep it but by then the trust was broken.  I felt so upset that my fiance and father to my child would kick me out pregnant and want to abort.  But then magically change his mind.  I would have had to deliver early by 4 weeks and the baby would have undergone daily cancer treatments in a different city for 3 months.  I was very overwhelmed with not knowing what to do.  Plus onto of that my estranged mother sued me.  It ended up costing me $40 000 in legal fees but I sat in court on the witness stand and provided testimony.  It was so hard.  She had abused me my entire life and it wasnt until I had my son that I realized I didn't want her near him and had to cut her out.  She was so mad she did everything she could to punish me.  Including suing me.  I was so scared.  But in the end I won.  I stood up against her and she lost the lawsuit.   But now it's been a year and I was recently diagnosed with generalized anxiety disorder and derealization (which I have had for 15 years due to being around my abusive mother).   Tomorrow I start EMDR therapy and CBT course for 8 weeks.  Then I start my DBT program for 32 weeks. I am still with my partner but I am so scared to leave him  I love him even though he doesnt seem to treat me right.  I have no family anymore other than my son and I am really struggling.  I feel like I have lost everything really except my son but really, I see myself turning into my mother anyway and that scares me.  I want a better mother for him but I am not a strong person with no support.  Every day I regret my decision to terminate but I thought I could not do it alone.  I feel so scared to do anything.  If I am honest, I really just want to die.  I want to lie down and never wake up.   I just can't live with this pain",
+      "Well-being": 4,
+      "evidence": {
+        "adaptive-state": {
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "Tomorrow I start EMDR therapy and CBT course for 8 weeks.  Then I start my DBT program for 32 weeks"
+          },
+          "B-O": {
+            "Category": "(3) Autonomous or adaptive control behavior",
+            "highlighted_evidence": "I sat in court on the witness stand and provided testimony"
+          },
+          "C-O": {
+            "Category": "(1) Perception of the other as related",
+            "highlighted_evidence": "I love him"
+          },
+          "D": {
+            "Category": "(5) Competence, self esteem, self-care",
+            "highlighted_evidence": "I want a better mother for him"
+          },
+          "Presence": 3
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(2) Anxious/ fearful/ tense",
+            "highlighted_evidence": "I was very overwhelmed with not knowing what to do"
+          },
+          "B-O": {
+            "Category": "(4) Over controlled or controlling behavior",
+            "highlighted_evidence": "I am still with my partner but I am so scared to leave him"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I am not a strong person with no support.  Every day I regret my decision to terminate"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "She had abused me my entire life"
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "If I am honest, I really just want to die.  I want to lie down and never wake up.   I just can't live with this pain"
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 10,
+      "post_id": "761da764f0",
+      "date": "05-11-2019, 17:42:39",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Neat little package with a bow\nDoes anyone else feel that the finale was just a nearly wrapped package tied with a bow but it doesn't really resolve many things and glosses over some important issues? I feel that everyone loved the finale, and while I liked it, I feel like they just did a really good slight of hand trick on us! Everyone is happy, Noah did some self reflection and paid his dues..blah blah.  Is it really that easy? Is it really just easier to beg for forgiveness rather than ask for permission?? I feel like there are so many ways in which things were glossed over and yet because the finale was deemed to be beautiful and amazing therefore the season and one before this one that sucked just gets wiped away.  Maybe I'm hard to impress!!",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    }
+  ]
+}

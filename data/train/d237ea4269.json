@@ -1,0 +1,313 @@
+{
+  "timeline_id": "d237ea4269",
+  "posts": [
+    {
+      "post_index": 1,
+      "post_id": "8d91beb738",
+      "date": "06-08-2015, 10:21:35",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Anyone gotten depersonalisation from smoking weed?\nI have just quit weed because I feel like I may have developed depersonalisation from it, I used to suffer from it years ago but it gradually went away, since I quit I have felt anxious and everything that I felt years ago. Has this happened to anyone else?  I also have no appetite and can barely eat which is a big deal for me because I have had eating disorders over the years and it makes me scared I will end up in hospital again. Did anyone else lose their appetite after quitting and how long did it take to return? It makes me want to smoke again just so I can stomach food.",
+      "Well-being": 5,
+      "evidence": {
+        "adaptive-state": {
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "It makes me want to smoke again just so I can stomach food"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(2) Anxious/ fearful/ tense",
+            "highlighted_evidence": "since I quit I have felt anxious"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I also have no appetite and can barely eat which is a big deal for me because I have had eating disorders over the years"
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 2,
+      "post_id": "774eaac692",
+      "date": "12-08-2015, 11:21:35",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "When I eat I am so starving an later I feel sick.\nFor example when I eat a grilled cheese sandwich, I will eat it and be full but an hour or 2 later I am so starving I feel really sick and panicky. I have asked my gf and family and they all said that it doesn't happen to them so it's made me worry that I have a medical issue or something. Is it normal to be so hungry when just an hour before you felt full? I'm a 22 year old male btw.  EDIT: title is meant to say an hour later, sorry.",
+      "Well-being": 5,
+      "evidence": {
+        "adaptive-state": {
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "Is it normal to be so hungry when just an hour before you felt full?"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(2) Anxious/ fearful/ tense",
+            "highlighted_evidence": "it's made me worry that I have a medical issue or something."
+          },
+          "Presence": 3
+        }
+      }
+    },
+    {
+      "post_index": 3,
+      "post_id": "cd782f918f",
+      "date": "21-08-2015, 05:47:00",
+      "Switch": "0",
+      "Escalation": "E",
+      "post": "Help interpreting my 23andme results.\nHi guys, I have Anxiety and issues with my gut and the doctors can't seem to help me and SSRI drugs don't have much effect so I decided to see if 23andme could tell me anything, it's just that some of it is hard for me to figure out. Can someone here help me figure out what it all means and what supplements I should take? I am so desperate atm.  http://i.imgur.com/wYJrdUe.png",
+      "Well-being": 5,
+      "evidence": {
+        "adaptive-state": {
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "what supplements I should take?"
+          },
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "Can someone here help me figure out what it all means"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(2) Anxious/ fearful/ tense",
+            "highlighted_evidence": "I have Anxiety"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "it's just that some of it is hard for me to figure out"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "the doctors can't seem to help me and SSRI drugs don't have much effect"
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 4,
+      "post_id": "c9b9f50e94",
+      "date": "21-08-2015, 06:47:25",
+      "Switch": "0",
+      "Escalation": "E",
+      "post": "Can't handle the feelings in my head anymore.\nI have OCD, Panic disorder and GAD. I can't get a job because I can only leave the house for about 10 minutes at a time. SSRI drugs don't work they just give me migraines, the doctors don't seem to be able to help unless prescribing me things. I am stuck in this tiny town in the middle of nowhere in Australia and have no easy access to mental health services.   I am broke because I can't work and my gf and mother have to support me which makes me feel worse, eventually they will get sick of it and I'm sure I'll be on my own. Maybe it's just time to end it and finally stop the torture my mind goes through every single day.",
+      "Well-being": 4,
+      "evidence": {
+        "adaptive-state": {
+          "Presence": 1
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "Can't handle the feelings in my head anymore"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "eventually they will get sick of it and I'm sure I'll be on my own"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "the doctors don't seem to be able to help"
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "Maybe it's just time to end it and finally stop the torture my mind goes through every single day."
+          },
+          "Presence": 5
+        }
+      }
+    },
+    {
+      "post_index": 5,
+      "post_id": "00ddee31f6",
+      "date": "22-08-2015, 02:32:18",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Serotonin Syndrome from Curcumin and SSRI\nI have been taking longvida Curcumin with my 50mg of Zoloft the last week and have felt odd, really weird up and down with emotions and muscle twitches. I googled and realised Curcumin is an MAOI and then I found this thread on Longecity http://www.longecity.org/forum/topic/69489-escitalopramssri-curcumin-serotonin-syndrome/  I'm quite scared, I haven't taken the Curcumin today so will I be okay? is it even possible to get serotonin syndrome?",
+      "Well-being": 4,
+      "evidence": {
+        "adaptive-state": {
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "I have been taking longvida Curcumin with my 50mg of Zoloft the last week and have felt odd, really weird up and down with emotions and muscle twitches. I googled and realised Curcumin is an MAOI and then I found this thread on Longecity"
+          },
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "I haven't taken the Curcumin today so will I be okay? is it even possible to get serotonin syndrome?"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(2) Anxious/ fearful/ tense",
+            "highlighted_evidence": "I'm quite scared, I haven't taken the Curcumin today so will I be okay?"
+          },
+          "B-O": {
+            "Category": "(2) Fight or flight behavior",
+            "highlighted_evidence": "the last week and have felt odd, really weird up and down with emotions"
+          },
+          "Presence": 3
+        }
+      }
+    },
+    {
+      "post_index": 6,
+      "post_id": "5dd9b6a303",
+      "date": "25-08-2015, 05:38:36",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Can't handle what goes on in my head anymore.\nI have OCD, Panic disorder and GAD. I can't get a job because I can only leave the house for about 10 minutes at a time. SSRI drugs don't work they just give me migraines, the doctors don't seem to be able to help unless prescribing me things. I am stuck in this tiny town in the middle of nowhere in Australia and have no easy access to mental health services.  I am broke because I can't work and my gf and mother have to support me which makes me feel worse, eventually they will get sick of it and I'm sure I'll be on my own. Maybe it's just time to end it and finally stop the torture my mind goes through every single day. If I don't at least get out of the town I'm in soon I probably will have to.",
+      "Well-being": 4,
+      "evidence": {
+        "adaptive-state": {
+          "Presence": 1
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(2) Anxious/ fearful/ tense",
+            "highlighted_evidence": "Can't handle what goes on in my head anymore."
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I'm sure I'll be on my own"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": ", the doctors don't seem to be able to help"
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "Maybe it's just time to end it and finally stop the torture my mind goes through every single day."
+          },
+          "Presence": 5
+        }
+      }
+    },
+    {
+      "post_index": 7,
+      "post_id": "f2c0fdddf5",
+      "date": "27-08-2015, 04:26:05",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "NSFW Guy takes drugs and asks girlfriend to shit on him",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 8,
+      "post_id": "ea4dc37f4b",
+      "date": "04-09-2015, 00:09:48",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Abbott replacing NDIS board without telling them",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 9,
+      "post_id": "76db52cdfa",
+      "date": "05-09-2015, 03:27:56",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Todays edition of The Pyongyang Times",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 10,
+      "post_id": "d2097691e1",
+      "date": "12-09-2015, 05:11:56",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Why is GHB so hard to find in Australia?\nit's nowhere to be found online or offline, the only stuff online is shitty 1,4b.",
+      "Well-being": 5,
+      "evidence": {
+        "adaptive-state": {
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "Why is GHB so hard to find in Australia?\nit's nowhere to be found online or offline, the only stuff online is shitty 1,4b."
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "B-S": {
+            "Category": "(2) Self harm, neglect and avoidance",
+            "highlighted_evidence": "Why is GHB so hard to find in Australia?\nit's nowhere to be found online or offline"
+          },
+          "Presence": 2
+        }
+      }
+    },
+    {
+      "post_index": 11,
+      "post_id": "2104cda7af",
+      "date": "24-09-2015, 00:18:30",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Any RC drugs that are like Ethanol or GHB?\nI can't drink because of stomach issues, I was just wondering if there were RC's that I could maybe try",
+      "Well-being": 5,
+      "evidence": {
+        "adaptive-state": {
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "I was just wondering if there were RC's that I could maybe try"
+          },
+          "D": {
+            "Category": "(5) Competence, self esteem, self-care",
+            "highlighted_evidence": "I can't drink because of stomach issues, I was just wondering if there were RC's that I could maybe try"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "B-S": {
+            "Category": "(2) Self harm, neglect and avoidance",
+            "highlighted_evidence": "Any RC drugs that are like Ethanol or GHB?\nI can't drink because of stomach issues, I was just wondering if there were RC's that I could maybe try"
+          },
+          "Presence": 2
+        }
+      }
+    },
+    {
+      "post_index": 12,
+      "post_id": "605fbece38",
+      "date": "27-09-2015, 03:33:15",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Anyone tried Baclofen for anxiety?\nI have just ordered some because I'm desperate and I can't handle the sexual side effects of SSRIs, I am having panic attacks daily and besides Valium I have nothing to take for it, has anyone tried Baclofen?",
+      "Well-being": 4,
+      "evidence": {
+        "adaptive-state": {
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "Anyone tried Baclofen for anxiety?"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(2) Anxious/ fearful/ tense",
+            "highlighted_evidence": "I'm desperate and I can't handle the sexual side effects of SSRIs, I am having panic attacks daily and besides Valium I have nothing to take for it,"
+          },
+          "Presence": 2
+        }
+      }
+    }
+  ]
+}

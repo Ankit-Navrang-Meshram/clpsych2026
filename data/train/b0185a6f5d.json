@@ -1,0 +1,320 @@
+{
+  "timeline_id": "b0185a6f5d",
+  "posts": [
+    {
+      "post_index": 1,
+      "post_id": "b89e759e4a",
+      "date": "30-07-2015, 17:50:33",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Wtf",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 2,
+      "post_id": "8b57ae0c28",
+      "date": "30-07-2015, 22:43:43",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Suicide is brave",
+      "Well-being": 3,
+      "evidence": {
+        "adaptive-state": {
+          "Presence": 1
+        },
+        "maladaptive-state": {
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "Suicide is brave"
+          },
+          "Presence": 3
+        }
+      }
+    },
+    {
+      "post_index": 3,
+      "post_id": "0564126d36",
+      "date": "31-07-2015, 19:11:22",
+      "Switch": "S",
+      "Escalation": "0",
+      "post": "Anyone else hate being a Pisces?",
+      "Well-being": 5,
+      "evidence": {
+        "adaptive-state": {
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "Anyone else hate being a Pisces?"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "Anyone else hate being a Pisces"
+          },
+          "Presence": 2
+        }
+      }
+    },
+    {
+      "post_index": 4,
+      "post_id": "19192e9bde",
+      "date": "03-08-2015, 00:17:11",
+      "Switch": "0",
+      "Escalation": "E",
+      "post": "Anxiety being alone\nWhat do you do about when you live alone have no friends. No significant other no family and work by yourself?",
+      "Well-being": 4,
+      "evidence": {
+        "adaptive-state": {
+          "Presence": 1
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(2) Anxious/ fearful/ tense",
+            "highlighted_evidence": "Anxiety being alone\nWhat do you do about when you live alone have no friends. No significant other no family and work by yourself?"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "have no friends. No significant other no family"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "have no friends. No significant other"
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 5,
+      "post_id": "259d5f0d58",
+      "date": "03-08-2015, 18:41:14",
+      "Switch": "0",
+      "Escalation": "E",
+      "post": "Looking for someone who understand me and offer support in real life.\nI'm depressed. I suffer from anxiety. Struggle everyday to get out of bed and work and to see the point of life. No one seems to understand the agony life is. I have no children . I'm 40 and live alone. My boyfriend left me in January but continues to contact me. I miss him horribly everyday but struggling with the fact he left me and has lied to me.",
+      "Well-being": 3,
+      "evidence": {
+        "adaptive-state": {
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "Looking for someone who understand me and offer support in real life"
+          },
+          "C-O": {
+            "Category": "(1) Perception of the other as related",
+            "highlighted_evidence": "someone who understand me and offer support"
+          },
+          "D": {
+            "Category": "(1) Relatedness",
+            "highlighted_evidence": "Looking for someone who understand me and offer support"
+          },
+          "Presence": 3
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "I'm depressed. I suffer from anxiety. Struggle everyday to get out of bed and work and to see the point of life. No one seems to understand the agony life is."
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "struggling with the fact he left me and has lied to me"
+          },
+          "D": {
+            "Category": "(2) Expectation that relatedness needs will not be met",
+            "highlighted_evidence": "struggling with the fact he left me"
+          },
+          "Presence": 3
+        }
+      }
+    },
+    {
+      "post_index": 6,
+      "post_id": "a1207b0765",
+      "date": "04-08-2015, 21:53:10",
+      "Switch": "0",
+      "Escalation": "E",
+      "post": "Yearning for someone to talk to or be with when I have anxiety.\nBut everyone has their own lives. I can't cope being alone yet I live alone and find no understanding or solace in others company.",
+      "Well-being": 4,
+      "evidence": {
+        "adaptive-state": {
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "Yearning for someone to talk to or be with when I have anxiety"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(2) Anxious/ fearful/ tense",
+            "highlighted_evidence": "I have anxiety"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I can't cope being alone yet I live alone and find no understanding or solace in others company."
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "But everyone has their own lives"
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 7,
+      "post_id": "b8f63c06aa",
+      "date": "06-08-2015, 16:22:54",
+      "Switch": "0",
+      "Escalation": "E",
+      "post": "Morning Anxiety 101: Symptoms and Causes | Nitty Gritty of Anxiety - HealthyPlace",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 8,
+      "post_id": "aa0b023b32",
+      "date": "07-08-2015, 05:19:57",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "How do I know if therapy is working",
+      "Well-being": 4,
+      "evidence": {
+        "adaptive-state": {
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "How do I know if therapy is working"
+          },
+          "Presence": 3
+        },
+        "maladaptive-state": {
+          "Presence": 1
+        }
+      }
+    },
+    {
+      "post_index": 9,
+      "post_id": "eb2a5a0050",
+      "date": "09-08-2015, 17:30:18",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "40 year old female I'm Chicago with depression and anxiety. Childless. Single. Looking for friends who can relate.",
+      "Well-being": 4,
+      "evidence": {
+        "adaptive-state": {
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "Looking for friends who can relate"
+          },
+          "C-O": {
+            "Category": "(1) Perception of the other as related",
+            "highlighted_evidence": "Looking for friends who can relate"
+          },
+          "Presence": 3
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(2) Anxious/ fearful/ tense",
+            "highlighted_evidence": "anxiety"
+          },
+          "Presence": 3
+        }
+      }
+    },
+    {
+      "post_index": 10,
+      "post_id": "18968de87e",
+      "date": "12-08-2015, 17:13:48",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Can I take adderall and klonopin at same time",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 11,
+      "post_id": "12529eda45",
+      "date": "14-08-2015, 17:31:42",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Does anyone else forget things on klonopin?",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 12,
+      "post_id": "efb43f7c7f",
+      "date": "17-08-2015, 19:04:34",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Anxiety when alone\nBut when I have company I can't explain my feelings so I feel alone still",
+      "Well-being": 4,
+      "evidence": {
+        "adaptive-state": {
+          "Presence": 1
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(2) Anxious/ fearful/ tense",
+            "highlighted_evidence": "Anxiety when alone\nBut when I have company I can't explain my feelings so I feel alone still"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "when I have company I can't explain my feelings so I feel alone still"
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 13,
+      "post_id": "fbd72fa967",
+      "date": "21-08-2015, 17:27:49",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Nasty Pisces",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 14,
+      "post_id": "332f67d189",
+      "date": "22-08-2015, 02:16:54",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Pisces",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 15,
+      "post_id": "05ca22b7f7",
+      "date": "22-08-2015, 03:55:39",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Who needs a child",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    }
+  ]
+}

@@ -1,0 +1,752 @@
+{
+  "timeline_id": "8c5231d642",
+  "posts": [
+    {
+      "post_index": 1,
+      "post_id": "21d3c18c88",
+      "date": "25-09-2019, 03:25:11",
+      "Switch": "0",
+      "Escalation": "E",
+      "post": "How can anyone be happy? I literally don't understand it.\n[removed]",
+      "Well-being": 5,
+      "evidence": {
+        "adaptive-state": {
+          "Presence": 1
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "How can anyone be happy?"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "How can anyone be happy? I literally don't understand it."
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "How can anyone be happy? I literally don't understand it"
+          },
+          "Presence": 5
+        }
+      }
+    },
+    {
+      "post_index": 2,
+      "post_id": "c465c457fb",
+      "date": "26-09-2019, 00:56:28",
+      "Switch": "0",
+      "Escalation": "E",
+      "post": "Every day is the same. Wtf is the point of this\nLife sucks. Attempts to change just result in me embarrassing myself. Ugh",
+      "Well-being": 4,
+      "evidence": {
+        "adaptive-state": {
+          "Presence": 1
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "Every day is the same. Wtf is the point of this\nLife sucks."
+          },
+          "B-S": {
+            "Category": "(2) Self harm, neglect and avoidance",
+            "highlighted_evidence": "Attempts to change just result in me embarrassing myself"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "Attempts to change just result in me embarrassing myself."
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "Attempts to change just result in me embarrassing myself. Ugh"
+          },
+          "Presence": 5
+        }
+      }
+    },
+    {
+      "post_index": 3,
+      "post_id": "f2fb1fcee1",
+      "date": "27-09-2019, 23:03:51",
+      "Switch": "0",
+      "Escalation": "E",
+      "post": "Giving in...\nBeing sober feels so painful",
+      "Well-being": 3,
+      "evidence": {
+        "adaptive-state": {
+          "Presence": 1
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "Being sober feels so painful"
+          },
+          "B-S": {
+            "Category": "(2) Self harm, neglect and avoidance",
+            "highlighted_evidence": "Giving in..."
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "Giving in...\nBeing sober feels so painful"
+          },
+          "Presence": 5
+        }
+      }
+    },
+    {
+      "post_index": 4,
+      "post_id": "0d055b16a4",
+      "date": "05-10-2019, 03:28:57",
+      "Switch": "S",
+      "Escalation": "E",
+      "post": "Anyone else feel like everyone is excluding you/hates you?\nI'm in a training group at work and can't even make eye contact with people because I feel like I'm being judged so hard.  I rarely talk to my co-workers because I'm afraid of saying something cringey or embarrassing myself (which usually happens when I talk), but my supervisors made a point of me not talking and that I need to talk/participate more.   So today I tried to talk and have some humor but I found myself being ignored, or when I talked, someone else would talk over me.   We all met at the same time, and yet I'm already seeing my coworkers walk with eachother during lunch hour and no one ever invites me.   I just wish I could feel natural around people, and be a likeable person. Any time I talk to someone, I feel the need to micro-manage my facial expressions. I hate smiling because I smile so awkwardly. I hate people making eye contact with me. I can never think of things to talk about.   I haven't had any friends for 11 years and I'm just sick of social interaction feeling like work... I just want to be a normal person. But I'm not. It just feels like everyone in the world is in this special social club and I'm not allowed in.",
+      "Well-being": 5,
+      "evidence": {
+        "adaptive-state": {
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "today I tried to talk and have some humor"
+          },
+          "C-O": {
+            "Category": "(1) Perception of the other as related",
+            "highlighted_evidence": "my supervisors made a point of me not talking and that I need to talk/participate more"
+          },
+          "D": {
+            "Category": "(1) Relatedness",
+            "highlighted_evidence": "I just wish I could feel natural around people, and be a likeable person"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(14) Feel lonely",
+            "highlighted_evidence": ".   I haven't had any friends for 11 years and I'm just sick of social interaction feeling like work"
+          },
+          "B-S": {
+            "Category": "(2) Self harm, neglect and avoidance",
+            "highlighted_evidence": "to micro-manage my facial expressions. I hate smiling because I smile so awkwardly."
+          },
+          "B-O": {
+            "Category": "(2) Fight or flight behavior",
+            "highlighted_evidence": "I rarely talk to my co-workers"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I'm afraid of saying something cringey or embarrassing myself (which usually happens when I talk)"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "I found myself being ignored, or when I talked, someone else would talk over me"
+          },
+          "D": {
+            "Category": "(2) Expectation that relatedness needs will not be met",
+            "highlighted_evidence": "It just feels like everyone in the world is in this special social club and I'm not allowed in."
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 5,
+      "post_id": "706ed91461",
+      "date": "11-10-2019, 00:36:46",
+      "Switch": "S",
+      "Escalation": "0",
+      "post": "Almost went out with coworkers... but I didn't... it's really irritating.\nStarted my first adult job a little while ago.  Coworkers invited me out to a pub to play pool and drink. Which I've wanted to do for years. I've always wanted to have someone or people to have fun with. Especially in a pub cause drinking helps me not be completely antisocial.   Anyway I said that I can't cause I'm getting picked up.  Turns out my ride had to drive into town later on anyway so I could have gone... potentially made friends with my coworkers.... I'm so disappointed.",
+      "Well-being": 7,
+      "evidence": {
+        "adaptive-state": {
+          "C-O": {
+            "Category": "(1) Perception of the other as related",
+            "highlighted_evidence": "Coworkers invited me out to a pub to play pool and drink. Which I've wanted to do for years."
+          },
+          "D": {
+            "Category": "(1) Relatedness",
+            "highlighted_evidence": "I've always wanted to have someone or people to have fun with."
+          },
+          "Presence": 4
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "I'm so disappointed."
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "drinking helps me not be completely antisocial"
+          },
+          "Presence": 2
+        }
+      }
+    },
+    {
+      "post_index": 6,
+      "post_id": "27705efe2e",
+      "date": "19-10-2019, 02:11:38",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Is work supposed to suck...?\nBeen wanting an office job for ages after working lots of min wage jobs and I finally got one paying a livable wage (just barely) and absolutely HATE IT.   Idk where to go from here. I think about trucking but I hear that's a rough life and you work 70+ hours a week.   Everything feels like it either pays minimum wage, you work crazy long hours, or the job drives you insane.",
+      "Well-being": 6,
+      "evidence": {
+        "adaptive-state": {
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "I think about trucking"
+          },
+          "D": {
+            "Category": "(5) Competence, self esteem, self-care",
+            "highlighted_evidence": "Been wanting an office job for ages after working lots of min wage jobs and I finally got one paying a livable wage (just barely"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "absolutely HATE IT.   Idk where to go from here"
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "Everything feels like it either pays minimum wage, you work crazy long hours, or the job drives you insane."
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 7,
+      "post_id": "15d2c4e6be",
+      "date": "24-10-2019, 05:22:37",
+      "Switch": "S",
+      "Escalation": "E",
+      "post": "Anyone else feel like they are nothing....? Not sure how to explain it\nI don't consider myself someone that matters if that makes sense. Not in a self pity way, but like. I have barely any life experience, no friends. I haven't traveled, I'm chubby and unfit. I drink tons of alcohol to get rid of my loneliness/depression for a bit.   I feel like I don't even exist. Or it doesn't matter if I do or don't exist. I try to go through life just being blank, and imagining myself as an NPC in a videogame, but I hate it so much...   I hate saying that i don't matter because it sounds so cliche..",
+      "Well-being": 4,
+      "evidence": {
+        "adaptive-state": {
+          "Presence": 1
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "Anyone else feel like they are nothing"
+          },
+          "B-S": {
+            "Category": "(2) Self harm, neglect and avoidance",
+            "highlighted_evidence": "I drink tons of alcohol to get rid of my loneliness/depression for a bit."
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I don't consider myself someone that matters"
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "it doesn't matter if I do or don't exist."
+          },
+          "Presence": 5
+        }
+      }
+    },
+    {
+      "post_index": 8,
+      "post_id": "5d60117704",
+      "date": "26-10-2019, 17:53:28",
+      "Switch": "0",
+      "Escalation": "E",
+      "post": "No no no no no... night if drinking with coworkers. First time I've ever done it. It went so bad.. idk where to post this\nIdk where to post this but this is my go-to sub...   I'm so mad at myself. This was the first time I've ever gone out for drinks with coworkers . I got SOOOO drunk. So did my coworkers.   I ended up taking a taxi, but I somehow left my glasses in the taxi, I also somehow ended up at a different bar. I only remember cause the guy refused to serve me.   Me, being piss drunk and having no glasses, ended up walking into a TOTAL STRANGERS HOUSE. They were yelling at me and stuff. Ended up being escorted home by police...   I just... need encouraging words not to fucking kill myself at this point. I am such a piece of shit. My family was so worried. Fuck me...",
+      "Well-being": 4,
+      "evidence": {
+        "adaptive-state": {
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "need encouraging words not to fucking kill myself at this point."
+          },
+          "C-O": {
+            "Category": "(1) Perception of the other as related",
+            "highlighted_evidence": "My family was so worried"
+          },
+          "D": {
+            "Category": "(1) Relatedness",
+            "highlighted_evidence": "need encouraging words not to fucking kill myself at this point"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(12) Ashamed, guilty",
+            "highlighted_evidence": "First time I've ever done it. It went so bad.. idk where to post this\nIdk where to post this but this is my go-to sub...   I'm so mad at myself"
+          },
+          "B-S": {
+            "Category": "(2) Self harm, neglect and avoidance",
+            "highlighted_evidence": "I got SOOOO drunk"
+          },
+          "B-O": {
+            "Category": "(2) Fight or flight behavior",
+            "highlighted_evidence": "Me, being piss drunk and having no glasses, ended up walking into a TOTAL STRANGERS HOUSE"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I am such a piece of shit"
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 9,
+      "post_id": "ad237b9e67",
+      "date": "27-10-2019, 03:00:51",
+      "Switch": "0",
+      "Escalation": "E",
+      "post": "I can't do this anymore. Cops been to the house a couple times because of drinking. About to be kicked out... I need help\nLast night I went out with coworkers for drinks. We ended up drinking a lot and I was on an empty stomach. I don't remember much of the night but I do tend to get alcohol-induced psychosis when I get super drunk..   Someone called me a cab. Idk who did it. If it was the bar security or if it was a stranger on the street. I somehow told the cab driver to go to a different pub and I was talking nonsense to the waitress and bartender there. Like literally things that make no sense at all.   So then I left, and was feeling SO lost. I couldnt operate my phone, so i tried walking home. I ended up walking into someone else's house a few blocks down because I thought I lived there. The dude was swearing at me and the cops were called. I tried explaining what was happening but couldnt because of the psychosis. I was just so lost and couldn't get home.   So i ended up being escorted home by police... they talked to my aunt who I'm living with. I'm at the last straw... if anything like this happens again, I'm out..     I just got a betterhelp counselor and we are working on getting me to quit. I can't drink just a few. I'll drink until something bad happens..  Can't get over the shame... I feel so horrible.  I also left my belongings at the strangers house which the police gave to me today.      TLDR: went out for drinks with coworkers, got so drunk that I was having psychosis, managed to walk into a strangers house because I was lost and thought I lived there, and ended up being escorted home by police. Gonna be kicked out if it happens again... I can't get over the shame and guilt..",
+      "Well-being": 4,
+      "evidence": {
+        "adaptive-state": {
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "I just got a betterhelp counselor and we are working on getting me to quit"
+          },
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "I need help"
+          },
+          "D": {
+            "Category": "(5) Competence, self esteem, self-care",
+            "highlighted_evidence": "I can't do this anymore"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(12) Ashamed, guilty",
+            "highlighted_evidence": "Can't get over the shame... I feel so horrible."
+          },
+          "B-S": {
+            "Category": "(2) Self harm, neglect and avoidance",
+            "highlighted_evidence": "We ended up drinking a lot and I was on an empty stomach"
+          },
+          "B-O": {
+            "Category": "(2) Fight or flight behavior",
+            "highlighted_evidence": "I ended up walking into someone else's house a few blocks down because I thought I lived there."
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I'm at the last straw... if anything like this happens again, I'm out."
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "I can't drink just a few. I'll drink until something bad happens"
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 10,
+      "post_id": "fa10d94c50",
+      "date": "27-10-2019, 18:13:56",
+      "Switch": "S",
+      "Escalation": "E",
+      "post": "How do you deal with the shame..?\nI've done so many embarrassing and cringey and bad things when I'm drunk. (99% of the time I'm a harm to myself but family gets very worried)  I just want to hide. Lock myself in my bedroom forever. But I can't.. I gotta work and eat and stuff.   I can't deal with this shame. I'm trying to quit but every failure just ends up with more shame. Being escorted home by police because I walked into a strangers house because I got lost and was blackout drunk, I don't remember what I do half the time when drunk but I'm sure it's cringey and embarrassing.   It's difficult to not go and buy more alcohol right now to deal with the shame.",
+      "Well-being": 6,
+      "evidence": {
+        "adaptive-state": {
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "It's difficult to not go and buy more alcohol right now to deal with the shame."
+          },
+          "C-O": {
+            "Category": "(1) Perception of the other as related",
+            "highlighted_evidence": "family gets very worried"
+          },
+          "D": {
+            "Category": "(5) Competence, self esteem, self-care",
+            "highlighted_evidence": "How do you deal with the shame..?"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(12) Ashamed, guilty",
+            "highlighted_evidence": "just want to hide. Lock myself in my bedroom forever"
+          },
+          "B-S": {
+            "Category": "(2) Self harm, neglect and avoidance",
+            "highlighted_evidence": "I've done so many embarrassing and cringey and bad things when I'm drunk"
+          },
+          "B-O": {
+            "Category": "(2) Fight or flight behavior",
+            "highlighted_evidence": "I walked into a strangers house because I got lost and was blackout drunk"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I don't remember what I do half the time when drunk but I'm sure it's cringey and embarrassing."
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "99% of the time I'm a harm to myself"
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 11,
+      "post_id": "859577494d",
+      "date": "28-10-2019, 01:31:01",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Can I be sued for trespassing or anything...?\nI got super drunk on the weekend. To the point where I had psychosis and couldn't understand basic language. Someone would ask me a question and I'd answer with something totally unrelated.   I took a cab to a different bar and became lost. I ended up walking into someone else's house because I was so confused. I couldn't explain why I was there or what was happening because of the psychosis. They were swearing at me and everything and the cops were called. I did eventually tell them how sorry I was and that I drank too much and I'm lost. Kinda cringey drunk apologizing.  The police took me home and I apologized to them as well.    There was no  harm done. I'm finished drinking. Going to attend AA meetings as well. I'm scared I can be sued for trespassing though. I don't even know what they looked like or where they live...",
+      "Well-being": 6,
+      "evidence": {
+        "adaptive-state": {
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "I'm finished drinking. Going to attend AA meetings as well"
+          },
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "I did eventually tell them how sorry I was"
+          },
+          "D": {
+            "Category": "(5) Competence, self esteem, self-care",
+            "highlighted_evidence": "I'm finished drinking. Going to attend AA meetings as well."
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(2) Anxious/ fearful/ tense",
+            "highlighted_evidence": "I'm scared I can be sued for trespassing though"
+          },
+          "B-S": {
+            "Category": "(2) Self harm, neglect and avoidance",
+            "highlighted_evidence": "I got super drunk on the weekend. To the point where I had psychosis and couldn't understand basic language. Someone would ask me a question and I'd answer with something totally unrelated"
+          },
+          "B-O": {
+            "Category": "(2) Fight or flight behavior",
+            "highlighted_evidence": "I ended up walking into someone else's house because I was so confused. I couldn't explain why I was there or what was happening because of the psychosis."
+          },
+          "Presence": 3
+        }
+      }
+    },
+    {
+      "post_index": 12,
+      "post_id": "41c75ba081",
+      "date": "29-10-2019, 05:20:11",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Went to my first AA meeting and I sort of feel bad that I'm not as bad off as everyone else.\nI've had cringey moments, I've almost been arrested a few times, I'll drink till I black out every weekend, but man... some of those people have been to jail, spent years HEAVY drinking every single day... I was half of most of their ages though.   I just feel bad because I drink to deal with my emotions and that I'm truly lonely. No friends or anything. Some of those guys had drinking buddies or biker buddies they'd drink with and man that seems so cool. (Not the drinking but just experiencing that). I feel like such a baby",
+      "Well-being": 7,
+      "evidence": {
+        "adaptive-state": {
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "Went to my first AA meeting"
+          },
+          "C-S": {
+            "Category": "(1) Self-acceptance and compassion",
+            "highlighted_evidence": "I'm not as bad off as everyone else."
+          },
+          "C-O": {
+            "Category": "(1) Perception of the other as related",
+            "highlighted_evidence": "Some of those guys had drinking buddies or biker buddies they'd drink with and man that seems so cool"
+          },
+          "D": {
+            "Category": "(1) Relatedness",
+            "highlighted_evidence": "Some of those guys had drinking buddies or biker buddies they'd drink with and man that seems so cool. (Not the drinking but just experiencing that)"
+          },
+          "Presence": 4
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(14) Feel lonely",
+            "highlighted_evidence": "I'm truly lonely"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I feel like such a baby"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "but man... some of those people have been to jail, spent years HEAVY drinking every single day."
+          },
+          "Presence": 3
+        }
+      }
+    },
+    {
+      "post_index": 13,
+      "post_id": "9e92a0f583",
+      "date": "05-11-2019, 01:35:34",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Is anybody not depressed these days?\nI feel like no one gives a shit about depressed people because literally everyone is depressed",
+      "Well-being": 6,
+      "evidence": {
+        "adaptive-state": {
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "Is anybody not depressed these days?"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "Is anybody not depressed these days?"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "I feel like no one gives a shit about depressed people because literally everyone is depressed"
+          },
+          "D": {
+            "Category": "(2) Expectation that relatedness needs will not be met",
+            "highlighted_evidence": "I feel like no one gives a shit about depressed people"
+          },
+          "Presence": 3
+        }
+      }
+    },
+    {
+      "post_index": 14,
+      "post_id": "af016f649b",
+      "date": "07-11-2019, 13:44:09",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Just had a dream that reminded me about life 10 years ago\nNot sure if this really belongs on the sub, but as soon as I woke up, I was completely blasted with how different I was 10 years ago, and how different my family was.   I miss how things used to be.   Also technology. It's insane what we have now even compared to only 10 years ago. If I were to show my past self my phone, Nintendo switch, or my laptop 2 in 1, he would faint with excitement.   What happened to my will to live? I used to want to do things in life and I had dreams and a lot of excitement for life. Yet now, I barely care at all if I die. I never feel like I matter. I developed an alcohol problem and have almost died multiple times because of it. Man... it's just so bizarre how things change so quickly. 10 years feels like a lifetime ago",
+      "Well-being": 5,
+      "evidence": {
+        "adaptive-state": {
+          "A": {
+            "Category": "(5) Content, happy, joy, hopeful",
+            "highlighted_evidence": "It's insane what we have now even compared to only 10 years ago"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "I miss how things used to be."
+          },
+          "B-S": {
+            "Category": "(2) Self harm, neglect and avoidance",
+            "highlighted_evidence": "I developed an alcohol problem and have almost died multiple times because of it"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": ". I never feel like I matter"
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "I used to want to do things in life and I had dreams and a lot of excitement for life. Yet now, I barely care at all if I die"
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 15,
+      "post_id": "d05e479556",
+      "date": "10-11-2019, 08:16:58",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Depression is a horrible mental illness. It changes your perception of the world.\nI smoked some weed last night, and had the best high I've ever had.   I actually felt... normal. Like... clear. No depression or anxiety. I think I had a sample of what it's like to not have mental illness. I haven't felt that way since I was a child.   I've been on antidepressants and it's not the same. Antidepressants may block the sadness/anxiety. But it's not the same as not having the mental illness.   After experiencing that, I've really realized how my perception of reality has been so incredibly warped from these mental illnesses. I'm so envious of those who don't have it. I feel like it literally causes you to see the world differently.",
+      "Well-being": 5,
+      "evidence": {
+        "adaptive-state": {
+          "A": {
+            "Category": "(5) Content, happy, joy, hopeful",
+            "highlighted_evidence": "I actually felt... normal. Like... clear."
+          },
+          "D": {
+            "Category": "(5) Competence, self esteem, self-care",
+            "highlighted_evidence": "I'm so envious of those who don't have it."
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "No depression or anxiety. I think I had a sample of what it's like to not have mental illness. I haven't felt that way since I was a child."
+          },
+          "B-S": {
+            "Category": "(2) Self harm, neglect and avoidance",
+            "highlighted_evidence": "I smoked some weed last night, and had the best high I've ever had.   I actually felt... normal. Like... clear"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "It changes your perception of the world."
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "I'm so envious of those who don't have it."
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "After experiencing that, I've really realized how my perception of reality has been so incredibly warped from these mental illnesses. I'm so envious of those who don't have it. I feel like it literally causes you to see the world differently."
+          },
+          "Presence": 3
+        }
+      }
+    },
+    {
+      "post_index": 16,
+      "post_id": "066a58c2e9",
+      "date": "11-11-2019, 07:12:51",
+      "Switch": "S",
+      "Escalation": "0",
+      "post": "I was feeling amazing this weekend after not drinking. I think I'm starting to not enjoy alcohol.\nI had smoked some weed on Friday and felt amazing during that. And I continued to feel amazing during the weekend. I felt GOOD for once. It was so bizarre. No embarassing moments or hangovers.   I actually kinda forgot what it was like to drink. I then, just today, went out and bought a 6 pack of beer because.. I don't know why. Drank 4 of them and felt like garbage. I poured the last 2 cans into the sink. Why do I like that stuff? Or \"did\" like it. It tastes like crap, and being drunk makes me feel like crap.   I wasn't even drunk earlier, just buzzed and now I've got a mini-hangover. Like.. what's the point. I actually think I'm starting to hate alcohol. Which is awesome.",
+      "Well-being": 7,
+      "evidence": {
+        "adaptive-state": {
+          "A": {
+            "Category": "(11) Proud",
+            "highlighted_evidence": "I was feeling amazing this weekend after not drinking"
+          },
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "I was feeling amazing this weekend after not drinking."
+          },
+          "C-S": {
+            "Category": "(1) Self-acceptance and compassion",
+            "highlighted_evidence": "I think I'm starting to not enjoy alcohol."
+          },
+          "D": {
+            "Category": "(5) Competence, self esteem, self-care",
+            "highlighted_evidence": "I actually think I'm starting to hate alcohol. Which is awesome."
+          },
+          "Presence": 3
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "Drank 4 of them and felt like garbage. I poured the last 2 cans into the sink. Why do I like that stuff? Or \"did\" like it. It tastes like crap, and being drunk makes me feel like crap."
+          },
+          "B-S": {
+            "Category": "(2) Self harm, neglect and avoidance",
+            "highlighted_evidence": "then, just today, went out and bought a 6 pack of beer because.. I don't know why. Drank 4 of them"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "Why do I like that stuff? Or \"did\" like it. It tastes like crap, and being drunk makes me feel like crap."
+          },
+          "Presence": 2
+        }
+      }
+    },
+    {
+      "post_index": 17,
+      "post_id": "ff6e8ccd27",
+      "date": "15-11-2019, 01:00:00",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Realistic career with photography/photo editing/video editing/film? Seriously no idea what I want to do, but working in a call center has really taught me that I need to be doing something creative.   I'm making decent money right now. I know that careers do exist within film /photography, but is it really realistic? I hear so many mixed things. Some people say it's a great career. Some say there are no jobs.",
+      "Well-being": 8,
+      "evidence": {
+        "adaptive-state": {
+          "C-S": {
+            "Category": "(1) Self-acceptance and compassion",
+            "highlighted_evidence": "Seriously no idea what I want to do, but working in a call center has really taught me that I need to be doing something creative.   I'm making decent money right now."
+          },
+          "C-O": {
+            "Category": "(1) Perception of the other as related",
+            "highlighted_evidence": "but is it really realistic? I hear so many mixed things. Some people say it's a great career. Some say there are no jobs."
+          },
+          "D": {
+            "Category": "(5) Competence, self esteem, self-care",
+            "highlighted_evidence": "Realistic career with photography/photo editing/video editing/film? Seriously no idea what I want to do, but working in a call center has really taught me that I need to be doing something creative.   I'm making decent money right now. I know that careers do exist within film /photography,"
+          },
+          "Presence": 4
+        },
+        "maladaptive-state": {
+          "Presence": 1
+        }
+      }
+    },
+    {
+      "post_index": 18,
+      "post_id": "d33412e847",
+      "date": "20-11-2019, 01:59:25",
+      "Switch": "S",
+      "Escalation": "E",
+      "post": "My career/job is making me so fucking depressed\n22 years old and I've finally landed a job with a livable wage and I absolutely hate it. My family expects me to stick with it. I don't even know what I'd do otherwise. I wish I could do something artsy or something semi-fun at least. There is nothing even semi-enjoyable about this job.   Thinking about my future I just see... nothing. I don't know what to do anymore. I can't keep going with my life if this is it for me. People are supposed to spend a good portion of their lives at work and I don't understand how they don't off themselves if this is what a \"real job\" is supposed to be.",
+      "Well-being": 5,
+      "evidence": {
+        "adaptive-state": {
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "I've finally landed a job with a livable wage"
+          },
+          "D": {
+            "Category": "(3) Autonomy and adaptive control",
+            "highlighted_evidence": "I wish I could do something artsy or something semi-fun at least"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "My career/job is making me so fucking depressed"
+          },
+          "B-S": {
+            "Category": "(2) Self harm, neglect and avoidance",
+            "highlighted_evidence": "I've finally landed a job with a livable wage and I absolutely hate it."
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I don't even know what I'd do otherwise."
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "My family expects me to stick with it"
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "Thinking about my future I just see... nothing. I don't know what to do anymore"
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 19,
+      "post_id": "13b74994ce",
+      "date": "21-11-2019, 02:21:10",
+      "Switch": "0",
+      "Escalation": "E",
+      "post": "Is life SUPPOSED to be enjoyable?\nAlways hearing stories of older people talking about fun times when they were younger.   I'm 22 right now and it's always seemed so far-fetched. How do people even get in those fun situations? It seems like something you'd see in a movie.   I have almost no good memories in my life and now I'm at the point where I'm working full time at a job I hate so really considering killing myself but I'll likely try to become medicated enough to become docile and not care about how mundane my life is until I hopefully naturally die early (I drink a lot and don't take care of myself). I don't know how else I can handle it without killing myself.",
+      "Well-being": 4,
+      "evidence": {
+        "adaptive-state": {
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "but I'll likely try to become medicated"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "Is life SUPPOSED to be enjoyable?"
+          },
+          "B-S": {
+            "Category": "(2) Self harm, neglect and avoidance",
+            "highlighted_evidence": "I drink a lot and don't take care of myself"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I have almost no good memories in my life"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "Always hearing stories of older people talking about fun times when they were younger."
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "I don't know how else I can handle it without killing myself."
+          },
+          "Presence": 4
+        }
+      }
+    }
+  ]
+}

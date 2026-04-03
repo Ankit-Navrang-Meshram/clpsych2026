@@ -1,0 +1,304 @@
+{
+  "timeline_id": "46f4bb3ada",
+  "posts": [
+    {
+      "post_index": 1,
+      "post_id": "b840ef8ca5",
+      "date": "13-10-2019, 08:03:19",
+      "Switch": "0",
+      "Escalation": "E",
+      "post": "I\u2019m going to bed now\nI can\u2019t imagine myself alive next year. Should I just give up on school and everything else right now because I know I\u2019m going to die anyways. Not sure what I should do",
+      "Well-being": 2,
+      "evidence": {
+        "adaptive-state": {
+          "Presence": 1
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "Should I just give up on school and everything else right now because I know I\u2019m going to die anyways"
+          },
+          "B-S": {
+            "Category": "(2) Self harm, neglect and avoidance",
+            "highlighted_evidence": "I\u2019m going to bed now"
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "I can\u2019t imagine myself alive next year"
+          },
+          "Presence": 5
+        }
+      }
+    },
+    {
+      "post_index": 2,
+      "post_id": "220c16e374",
+      "date": "18-10-2019, 07:56:51",
+      "Switch": "0",
+      "Escalation": "E",
+      "post": "what I wish I could say to my parents\nI\u2019m not lazy. I have depression and anxiety and doctors literally told you the other day. Everything is hard for me right now. Even the things you\u2019re supposed do daily takes too much energy to do. I hope you can stop prioritizing school but me instead for a little while so I can heal. My thoughts are not silly or a teenage phase either and taking antidepressants won\u2019t cure everything immediately. I know you guys keep telling me other people have it worse than me but I can\u2019t help feeling like this. You made me promise you that I would go to school tomorrow but I honestly don\u2019t think I can. I\u2019m too scared to and thought of it makes me want to die. So please shut up about school just for a little while, please. I\u2019m sorry for being such a disappoint.",
+      "Well-being": 2,
+      "evidence": {
+        "adaptive-state": {
+          "C-S": {
+            "Category": "(1) Self-acceptance and compassion",
+            "highlighted_evidence": "My thoughts are not silly or a teenage phase"
+          },
+          "Presence": 1
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "Everything is hard for me right now"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I\u2019m sorry for being such a disappoint."
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "I hope you can stop prioritizing school but me instead for a little while so I can heal"
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "I\u2019m too scared to and thought of it makes me want to die"
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 3,
+      "post_id": "a24dc65ba5",
+      "date": "18-10-2019, 09:24:46",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "lololol",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 4,
+      "post_id": "40127b337b",
+      "date": "18-10-2019, 17:34:55",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "aww",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 5,
+      "post_id": "082f9ac618",
+      "date": "18-10-2019, 20:18:25",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "OHH",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 6,
+      "post_id": "be182f0924",
+      "date": "20-10-2019, 04:27:49",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "I could never",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 7,
+      "post_id": "eb2c89638d",
+      "date": "21-10-2019, 20:44:01",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "coach of the year",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 8,
+      "post_id": "26dc61f143",
+      "date": "21-10-2019, 22:09:34",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "If we remove all laws then the crime rate would be 0%",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 9,
+      "post_id": "1c66c359a2",
+      "date": "29-10-2019, 08:29:00",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Frickk im so freakin scared to go to school tomorrow but it\u2019s gonna be okay I can do it hopefully I can do this yep I can okokok I will I have to im gonna go for sure I know I can everything will be fine",
+      "Well-being": 5,
+      "evidence": {
+        "adaptive-state": {
+          "C-S": {
+            "Category": "(1) Self-acceptance and compassion",
+            "highlighted_evidence": "I know I can"
+          },
+          "D": {
+            "Category": "(5) Competence, self esteem, self-care",
+            "highlighted_evidence": "hopefully I can do this"
+          },
+          "Presence": 3
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(2) Anxious/ fearful/ tense",
+            "highlighted_evidence": "Frickk im so freakin scared to go to school tomorrow"
+          },
+          "Presence": 3
+        }
+      }
+    },
+    {
+      "post_index": 10,
+      "post_id": "068538dc83",
+      "date": "06-11-2019, 07:10:03",
+      "Switch": "S",
+      "Escalation": "0",
+      "post": "Y\u2019all my mom is hilarious she said \u201cjust be happy why are u like this everyone wants to be friends with you\u201d lol okay mom I\u2019ll do just that. after knowing about my suicide attempts she said \u201cyou\u2019re such a good girl y would u do that\u201d omg I\u2019m a good girl? Thanks 4 telling me I won\u2019t try to die anymor\n[removed]",
+      "Well-being": 3,
+      "evidence": {
+        "adaptive-state": {
+          "Presence": 1
+        },
+        "maladaptive-state": {
+          "B-S": {
+            "Category": "(2) Self harm, neglect and avoidance",
+            "highlighted_evidence": "Thanks 4 telling me I won\u2019t try to die anymor"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "omg I\u2019m a good girl"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "okay mom I\u2019ll do just that"
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 11,
+      "post_id": "391e9057c2",
+      "date": "18-11-2019, 10:09:51",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "People who don\u2019t have anyone to eat lunch at school with where do you go?\nI don\u2019t have anyone to eat with so I just go home but I\u2019m tired of having to walk home everyday since our lunch break is only 40mins and it takes around 7mins to walk home and back. Any ideas where else I could eat lunch",
+      "Well-being": 4,
+      "evidence": {
+        "adaptive-state": {
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "People who don\u2019t have anyone to eat lunch at school with where do you go"
+          },
+          "Presence": 3
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(14) Feel lonely",
+            "highlighted_evidence": "I don\u2019t have anyone to eat with"
+          },
+          "B-S": {
+            "Category": "(2) Self harm, neglect and avoidance",
+            "highlighted_evidence": "so I just go home"
+          },
+          "Presence": 3
+        }
+      }
+    },
+    {
+      "post_index": 12,
+      "post_id": "e36e46ced7",
+      "date": "05-12-2019, 12:50:33",
+      "Switch": "S",
+      "Escalation": "0",
+      "post": "felt like the psychiatrist was judging me because I told her I\u2019ve tried to commit suicide 2 times\nShe asked me a series of questions and then asked how many times have I tried to commit suicide and I said two. She repeated back \u201ctwo?\u201d and I said yeah. The tone she said it in sounded like \u201cpft only twice that\u2019s so less\u201d if you know what I mean. I could be remembering it wrong but I\u2019ve been thinking about it since the meeting. Is being suicidal for 2 years and only attempting it twice weird?",
+      "Well-being": 2,
+      "evidence": {
+        "adaptive-state": {
+          "A": {
+            "Category": "(3) Sad, emotional pain, grieving",
+            "highlighted_evidence": "only attempting it twice weird"
+          },
+          "Presence": 1
+        },
+        "maladaptive-state": {
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I\u2019ve been thinking about it since the meeting. Is being suicidal for 2 years and only attempting it twice weird?"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "felt like the psychiatrist was judging me because I told her I\u2019ve tried to commit suicide 2 times"
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 13,
+      "post_id": "79428ef266",
+      "date": "06-12-2019, 08:59:33",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "where\u2019s the rest of the gang",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 14,
+      "post_id": "984f9848fe",
+      "date": "07-12-2019, 10:41:19",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "I need a serotonin army",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 15,
+      "post_id": "41fe1222e8",
+      "date": "09-12-2019, 10:31:48",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "true dat",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    }
+  ]
+}

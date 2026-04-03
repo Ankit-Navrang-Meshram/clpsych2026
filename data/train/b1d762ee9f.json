@@ -1,0 +1,222 @@
+{
+  "timeline_id": "b1d762ee9f",
+  "posts": [
+    {
+      "post_index": 1,
+      "post_id": "04c33123ab",
+      "date": "22-12-2019, 23:45:40",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Spending Christmas alone, spoiled and depressed\n16yrold dude. I'm spending my Christmas with only my parents. Sure we may visit my other family members but no one of our family lives close. I have no partner to cuddle and buy gifts for. No friends I can see in person. Spending my Christmas with my gifts and my thoughts. (They're obviously not very positive) and I assume will only get worse the day after Christmas morning. It also is harder to make social connections in the first place considering my aspergers, severe social anxiety and yeah depression. I would give up everything I know just to live a normal teenage life, but thats only in my dreams.",
+      "Well-being": 4,
+      "evidence": {
+        "adaptive-state": {
+          "D": {
+            "Category": "(1) Relatedness",
+            "highlighted_evidence": "I would give up everything I know just to live a normal teenage life,"
+          },
+          "Presence": 1
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(14) Feel lonely",
+            "highlighted_evidence": "I'm spending my Christmas with only my parents. Sure we may visit my other family members but no one of our family lives close. I have no partner to cuddle and buy gifts for. No friends I can see in person. Spending my Christmas with my gifts and my thoughts."
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "spoiled and depressed\n16yrold dude."
+          },
+          "D": {
+            "Category": "(2) Expectation that relatedness needs will not be met",
+            "highlighted_evidence": "but thats only in my dreams."
+          },
+          "Presence": 5
+        }
+      }
+    },
+    {
+      "post_index": 2,
+      "post_id": "0330f965e7",
+      "date": "17-01-2020, 01:00:11",
+      "Switch": "0",
+      "Escalation": "E",
+      "post": "I feel like an imposter in my own body\n[removed]",
+      "Well-being": 4,
+      "evidence": {
+        "adaptive-state": {
+          "Presence": 1
+        },
+        "maladaptive-state": {
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I feel like an imposter in my own body"
+          },
+          "Presence": 3
+        }
+      }
+    },
+    {
+      "post_index": 3,
+      "post_id": "0c83222db2",
+      "date": "17-01-2020, 01:29:12",
+      "Switch": "0",
+      "Escalation": "E",
+      "post": "Nothing is Real\nI feel light headed 24/7. Nothing I do feels earned and everything that happens in life feels staged and fake, like a really elaborate tv show I've yet to realize I'm an actor in, or maybe the director hasn't shown up yet.  I've also been isolated without friends for so long my anxiety has seriously spiked to its highest. Been emotionally distant to everyone I know (and I do mean everyone) my sheer existence feels hollow. Like I'm just a miscalculation in someone else's story. Been away from a structured environment and new people for so long some strangers seem like serial killers.  I hate that I cant talk to anyone without feeling like everyone in the room is out to get me. Some people look and sound like reused actors. I dont feel in control of my life at all. Again, nothing feels earned and everything I do is just something that is done by someone else. This world is straight up not real. If it even is a world.  I'm also super critical on myself, half the time I think people are spying on me from outside my house and I'm pretty sure i have aspergers syndrome so maybe its something with that. Maybe I'm depressed because I've been on that rodeo before. I need some help Reddit because I don't want to live like this anymore and no one should have to. Hopefully this wont be seen as venting to the moderators. Love you if you all really exist and aren't bots.",
+      "Well-being": 4,
+      "evidence": {
+        "adaptive-state": {
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "I need some help Reddit"
+          },
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "need some help Reddit"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(2) Anxious/ fearful/ tense",
+            "highlighted_evidence": "my anxiety has seriously spiked to its highest."
+          },
+          "B-S": {
+            "Category": "(2) Self harm, neglect and avoidance",
+            "highlighted_evidence": "Nothing is Real\nI feel light headed 24/7."
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "Nothing I do feels earned and everything that happens in life feels staged and fake, like a really elaborate tv show I've yet to realize I'm an actor in, or maybe the director hasn't shown up yet."
+          },
+          "C-O": {
+            "Category": "(4) Perception of the other as blocking autonomy needs",
+            "highlighted_evidence": "half the time I think people are spying on me from outside my house"
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "I don't want to live like this anymore and no one should have to"
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 4,
+      "post_id": "8ba0d97bdf",
+      "date": "18-01-2020, 18:09:14",
+      "Switch": "S",
+      "Escalation": "E",
+      "post": "I have Asperger's syndrome and I just want to be a normal teenager\nThat's all I'm asking for, that's the reason I joined this subreddit. Being an aspie is like being an alien to your own species or humankind. Personally I find you guys charming and variously interesting people, but it sucks I can't just live as you guys do. I know about memes and internet culture to it's fullest, but I also have a hard time reading people's emotions IRL and understanding various cultural actions and I don't have any close friends. I would give up everything I know and own just to be a normal teenager. All I have are material possessions that serve no common purposeful functionality than to distract myself from the isolated hell I live in. I hope moderators don't take this post down, but I'm just venting wherever I can and I hope at least someone reading this can relate. No one would read this anyway, so if you excuse me ill be heading on my way back to the depression corner once again. Love you. :-)",
+      "Well-being": 6,
+      "evidence": {
+        "adaptive-state": {
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "that's the reason I joined this subreddit"
+          },
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "Personally I find you guys charming and variously interesting people"
+          },
+          "C-S": {
+            "Category": "(1) Self-acceptance and compassion",
+            "highlighted_evidence": "know about memes and internet culture to it's fullest"
+          },
+          "D": {
+            "Category": "(1) Relatedness",
+            "highlighted_evidence": "I just want to be a normal teenager\nThat's all I'm asking for"
+          },
+          "Presence": 3
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "back to the depression corner once again"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "but it sucks I can't just live as you guys do"
+          },
+          "D": {
+            "Category": "(2) Expectation that relatedness needs will not be met",
+            "highlighted_evidence": "No one would read this anyway, so if you excuse me ill be heading on my way back to the depression corner once again."
+          },
+          "Presence": 3
+        }
+      }
+    },
+    {
+      "post_index": 5,
+      "post_id": "ddcdd781c1",
+      "date": "20-01-2020, 22:35:06",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Reddit, Why?\n[removed]",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 6,
+      "post_id": "cc10d41989",
+      "date": "21-01-2020, 02:06:59",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Minimal Money Store wallpaper I made. That is all.",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 7,
+      "post_id": "4de6c71353",
+      "date": "30-01-2020, 04:15:13",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Blursed_Family",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 8,
+      "post_id": "0c526f8678",
+      "date": "14-02-2020, 00:49:52",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "PLAYING MINCERAFT.MAKING THINGS WITH REDSTONE.",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 9,
+      "post_id": "6820c93cfc",
+      "date": "14-02-2020, 11:26:43",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "lonely day",
+      "Well-being": 6,
+      "evidence": {
+        "adaptive-state": {
+          "Presence": 1
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(14) Feel lonely",
+            "highlighted_evidence": "lonely day"
+          },
+          "Presence": 2
+        }
+      }
+    }
+  ]
+}

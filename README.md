@@ -1,6 +1,7 @@
 # CLPsych 2026 Shared Task - Task 1
 
-This directory contains the submission code and models for **Task 1** of the CLPsych 2026 Shared Task. Task 1 focuses on predicting the ABCD taxonomy of self-state labels (Adaptive and Maladaptive states) and tracking regression/progression across patient timelines based on post texts.
+This directory contains the submission code and models for **Task 1** of the CLPsych 2026 Shared Task. 
+Task 1 focuses on predicting the ABCD taxonomy of self-state labels (Adaptive and Maladaptive states) and tracking regression/progression across patient timelines based on post texts.
 
 ## Directory Structure & Approaches
 

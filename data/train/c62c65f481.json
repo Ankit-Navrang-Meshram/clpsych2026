@@ -1,0 +1,598 @@
+{
+  "timeline_id": "c62c65f481",
+  "posts": [
+    {
+      "post_index": 1,
+      "post_id": "fb72e5a825",
+      "date": "24-10-2019, 05:16:00",
+      "Switch": "0",
+      "Escalation": "E",
+      "post": "I am high functioning and self-sacrificing so it feels like no one notices that I am a disaster screaming for help in an echo chamber. When it comes to my loved ones, I will do anything and everything in my power to make sure they feel loved and supported. I will jump through hoops to make their days better. I will notice even the slightest change in them and will go out on a limb for them to be happy even if it means it might slight myself. Anything for them. I listen to their problems that vary from mental illnesses, addiction to heartache etc. I make them feel heard, like someone gives a shit about them.   However when it comes to myself.. I feel alone. I feel really, really alone. It feels like no gives a shit that I am hurting or that I am falling apart. When it comes to my own mental illness, it\u2019s completely swept under the rug until I show behaviours they don\u2019t like and then it becomes my \u201cexcuse\u201d. When it comes to my addiction, it\u2019s not acknowledged. It\u2019s forgotten that I once spent all my days slipping down that bottle and doing everything in my power to numb myself. That I still fight the urge to rush into my cupboards and numb myself with the drugs I have there. Xanax, Ativan, Klonopin. To go to the liquor store and drink again. Maybe even mix the two. Anything to not feel this way. I slipped the other day and mixed an excessive amount of liquor and benzos to numb myself. My history of self harm is forgotten, and so is the tango I have danced with trying to kill my self which landed me in the hospital more times than I can count or how I have used food to torture my body. Abstaining or purging. The only form of control. I have managed to starve myself enough to lose 35 pounds in a couple of months. They encourage and congratulate my progress with cutting off toxic friends, family and even my SO but fail to be there when I need a hand. Fail to see when I\u2019m drowning. Fail to see when I\u2019m hurting. Fail to see that I\u2019m about to fall off the deep end for good.   I\u2019ve been high functioning for a long time,  and that may be the reason no one seems to bat an eye to my struggles. Even if they do see that I\u2019m sad or hurt, they don\u2019t acknowledge it and hope it goes away. I take my pills like I\u2019m supposed to and go to my doctor\u2019s visits so does that make me seem sane? I used to cry all the time but I was told my tears were manipulative so now I just... don\u2019t? If you don\u2019t cry, does that mean you shouldn\u2019t be taken seriously? I don\u2019t understand.   I keep ending back in this place and realization, that no matter what you do, you will be inevitably alone because no one will care about you the same way you do for them.  All I can think about is killing myself and I don\u2019t know how to make it stop. The only I I haven\u2019t is because I don\u2019t want to leave my children without a parent. I just want it all to stop. I keep screaming in an echo chamber for everything to stop.",
+      "Well-being": 2,
+      "evidence": {
+        "adaptive-state": {
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "I take my pills like I\u2019m supposed to and go to my doctor\u2019s visits"
+          },
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "When it comes to my loved ones, I will do anything and everything in my power to make sure they feel loved and supported. I will jump through hoops to make their days better. I will notice even the slightest change in them and will go out on a limb for them to be happy even if it means it might slight myself. Anything for them. I listen to their problems that vary from mental illnesses, addiction to heartache etc. I make them feel heard, like someone gives a shit about them"
+          },
+          "D": {
+            "Category": "(1) Relatedness",
+            "highlighted_evidence": "I don\u2019t want to leave my children without a parent"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(14) Feel lonely",
+            "highlighted_evidence": "I feel alone. I feel really, really alone"
+          },
+          "B-S": {
+            "Category": "(2) Self harm, neglect and avoidance",
+            "highlighted_evidence": "I slipped the other day and mixed an excessive amount of liquor and benzos to numb myself"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "It feels like no gives a shit that I am hurting or that I am falling apart. When it comes to my own mental illness, it\u2019s completely swept under the rug until I show behaviours they don\u2019t like and then it becomes my \u201cexcuse\u201d. When it comes to my addiction, it\u2019s not acknowledged."
+          },
+          "D": {
+            "Category": "(2) Expectation that relatedness needs will not be met",
+            "highlighted_evidence": "no matter what you do, you will be inevitably alone because no one will care about you the same way you do for them"
+          },
+          "Presence": 5
+        }
+      }
+    },
+    {
+      "post_index": 2,
+      "post_id": "9a1714671a",
+      "date": "24-10-2019, 05:37:43",
+      "Switch": "0",
+      "Escalation": "E",
+      "post": "The only reason I don\u2019t kill myself is because I don\u2019t want to leave my child without a parent.\nHowever sometimes I wonder if it might be better off if I killed myself so I don\u2019t spread all my toxicity to them and ruin them the way my parents ruined me.  It\u2019s hard to say if it\u2019s worse having a dead parent or a mentally ill one.",
+      "Well-being": 2,
+      "evidence": {
+        "adaptive-state": {
+          "B-O": {
+            "Category": "(3) Autonomous or adaptive control behavior",
+            "highlighted_evidence": "I don\u2019t want to leave my child without a parent."
+          },
+          "Presence": 1
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(12) Ashamed, guilty",
+            "highlighted_evidence": "It\u2019s hard to say if it\u2019s worse having a dead parent or a mentally ill one."
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "all my toxicity"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "my parents ruined me."
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "might be better off if I killed myself"
+          },
+          "Presence": 5
+        }
+      }
+    },
+    {
+      "post_index": 3,
+      "post_id": "4ab055ccc3",
+      "date": "03-11-2019, 00:50:54",
+      "Switch": "S",
+      "Escalation": "0",
+      "post": "Is there any difference in how you treat the relationship as them being with a guy vs them being with a girl?\nMy best friend came out as a lesbian, and she has a girlfriend now! I was wondering if the boundaries are any different when it comes to two girls being together vs a guy and a girl.   I know clear boundaries! I try to think to myself: \u201cIf it were my partner, how would I feel?\u201d I would never have a sleepover with her girlfriend or undress in front of her etc.   My best friend encouraged me to befriend her girlfriend outside of her so I have been. It just feels like the line gets blurry when it comes to having a friend who is a girl. I don\u2019t want to disrespect my friend and sometimes I feel like there can be a lot more jealousy in their relationship compared to past ones she has had. There have been instances where my friend seems upset with me or has gotten upset with me for doing things that she has done with me and my past ex-partners. For example: saying raunchy jokes around your best friend\u2019s partner.   I\u2019m sorry if this is a stupid question, I just am new to gay dating and so is my friend! I am bisexual as well but I have never been with a girl as of yet so I have no idea when it comes to any of this.",
+      "Well-being": 5,
+      "evidence": {
+        "adaptive-state": {
+          "A": {
+            "Category": "(7) Vigor / energetic",
+            "highlighted_evidence": "!"
+          },
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "I know clear boundaries! I try to think to myself: \u201cIf it were my partner, how would I feel?\u201d"
+          },
+          "C-S": {
+            "Category": "(1) Self-acceptance and compassion",
+            "highlighted_evidence": "My best friend"
+          },
+          "D": {
+            "Category": "(1) Relatedness",
+            "highlighted_evidence": "I just am new to gay dating and so is my friend! I am bisexual as well but I have never been with a girl as of yet so I have no idea when it comes to any of this."
+          },
+          "Presence": 4
+        },
+        "maladaptive-state": {
+          "B-O": {
+            "Category": "(2) Fight or flight behavior",
+            "highlighted_evidence": "I would never have a sleepover with her girlfriend or undress in front of her etc."
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I\u2019m sorry if this is a stupid question,"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "I feel like there can be a lot more jealousy in their relationship compared to past ones she has had"
+          },
+          "Presence": 3
+        }
+      }
+    },
+    {
+      "post_index": 4,
+      "post_id": "08fcf6bfdc",
+      "date": "04-11-2019, 01:40:14",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "I keep thinking that if I love people unconditionally that they will love me in return.. but that\u2019s not how it works. Is it?\n[removed]",
+      "Well-being": 4,
+      "evidence": {
+        "adaptive-state": {
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "I keep thinking that if I love people unconditionally that they will love me in return"
+          },
+          "C-O": {
+            "Category": "(1) Perception of the other as related",
+            "highlighted_evidence": "Is it"
+          },
+          "D": {
+            "Category": "(1) Relatedness",
+            "highlighted_evidence": "Is it?"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "but that\u2019s not how it works"
+          },
+          "D": {
+            "Category": "(2) Expectation that relatedness needs will not be met",
+            "highlighted_evidence": "but that\u2019s not how it works."
+          },
+          "Presence": 3
+        }
+      }
+    },
+    {
+      "post_index": 5,
+      "post_id": "8630dc9d72",
+      "date": "04-11-2019, 20:07:56",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Do not call me your \u201cfp\u201d and then treat me worst than everyone else in your life.\nMy best friend called me her \u201cfp\u201d. I know that I am not her favorite person, because she treats me the worst out of all her friends and everyone else in her life. I ALSO have BPD and I know I would never treat anyone, especially my \u201cfp\u201d the way that she treats me. This ain\u2019t it.",
+      "Well-being": 4,
+      "evidence": {
+        "adaptive-state": {
+          "C-S": {
+            "Category": "(1) Self-acceptance and compassion",
+            "highlighted_evidence": "I know I would never treat anyone, especially my \u201cfp\u201d the way that she treats me."
+          },
+          "Presence": 1
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(10) Angry (aggression), disgust, contempt",
+            "highlighted_evidence": "Do not call me your \u201cfp\u201d"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "treat me worst than everyone else in your life"
+          },
+          "D": {
+            "Category": "(2) Expectation that relatedness needs will not be met",
+            "highlighted_evidence": "This ain\u2019t it."
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 6,
+      "post_id": "2ee1a8cc9b",
+      "date": "16-11-2019, 00:53:08",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "I feel like everyone else has a \u201cperson\u201d except for me.\nWhether it\u2019s their boyfriend or girlfriend or even a best friend. It constantly feels like someone else has their own \u201cperson\u201d to turn to. It\u2019s weird because I have several friends and I do have a social life but I feel very lonely in a way that I cannot place. I have a child but I refuse to shove adulthood onto a child like my mother did to me.  I\u2019m not sure if this normal. I\u2019m not exactly depressed, I do everything that I need to do and even exercise. I just don\u2019t know how to deal with the loneliness.",
+      "Well-being": 5,
+      "evidence": {
+        "adaptive-state": {
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "I do everything that I need to do and even exercise"
+          },
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "I refuse to shove adulthood onto a child like my mother did to me"
+          },
+          "C-S": {
+            "Category": "(1) Self-acceptance and compassion",
+            "highlighted_evidence": "I have several friends and I do have a social life"
+          },
+          "Presence": 3
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(14) Feel lonely",
+            "highlighted_evidence": "I feel very lonely"
+          },
+          "C-O": {
+            "Category": "(4) Perception of the other as blocking autonomy needs",
+            "highlighted_evidence": "It constantly feels like someone else has their own \u201cperson\u201d to turn to"
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 7,
+      "post_id": "2da7a1893a",
+      "date": "16-11-2019, 05:10:28",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Euphoria explained midnight mania so well:",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 8,
+      "post_id": "4ee43d0000",
+      "date": "17-11-2019, 00:47:06",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Euphoria portrayed late night mania so well:",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 9,
+      "post_id": "7bc055e60d",
+      "date": "17-11-2019, 19:35:00",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "PPD:Post Party Depression I find that after a night of drinking, I feel like the world may as well explode or like somebody died. It doesn\u2019t matter if I said or did something stupid or not because either way I still feel anxious, depressed and restless.  I\u2019m not sure if it\u2019s normal for people to get this upset or anxious after a night of drinking but it has always deeply affected me like this. This is why I generally avoid it.  I hope this PPD (Post party depression) passes fast today.",
+      "Well-being": 5,
+      "evidence": {
+        "adaptive-state": {
+          "D": {
+            "Category": "(5) Competence, self esteem, self-care",
+            "highlighted_evidence": "I hope this PPD (Post party depression) passes fast today"
+          },
+          "Presence": 3
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "I find that after a night of drinking, I feel like the world may as well explode or like somebody died"
+          },
+          "B-O": {
+            "Category": "(2) Fight or flight behavior",
+            "highlighted_evidence": "I\u2019m not sure if it\u2019s normal for people to get this upset or anxious after a night of drinking but it has always deeply affected me like this. This is why I generally avoid it"
+          },
+          "Presence": 3
+        }
+      }
+    },
+    {
+      "post_index": 10,
+      "post_id": "eda70d3387",
+      "date": "17-11-2019, 22:21:06",
+      "Switch": "S",
+      "Escalation": "0",
+      "post": "F/24/5\u20193\u201d [155&gt;110](2 Years/24 Months) Went from being a 100 pounds to having a child and gaining a bunch of weight to losing weight through exercise/eating better. Finally starting to feel confident in my body. (Fixed title)",
+      "Well-being": 7,
+      "evidence": {
+        "adaptive-state": {
+          "A": {
+            "Category": "(5) Content, happy, joy, hopeful",
+            "highlighted_evidence": "Finally starting to feel confident"
+          },
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "losing weight through exercise/eating better."
+          },
+          "C-S": {
+            "Category": "(1) Self-acceptance and compassion",
+            "highlighted_evidence": "Finally starting to feel confident in my body"
+          },
+          "Presence": 4
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(12) Ashamed, guilty",
+            "highlighted_evidence": "Went from being a 100 pounds to having a child and gaining a bunch of weight"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "Went from being a 100 pounds to having a child and gaining a bunch of weight"
+          },
+          "Presence": 2
+        }
+      }
+    },
+    {
+      "post_index": 11,
+      "post_id": "7c9896a887",
+      "date": "25-11-2019, 04:10:18",
+      "Switch": "S",
+      "Escalation": "E",
+      "post": "Stopped taking my antipsychotic because I couldn\u2019t orgasm anymore..\n...and now I can\u2019t stop crying long enough to be to be able to feel even remotely sexually aroused.   I just can\u2019t win.",
+      "Well-being": 3,
+      "evidence": {
+        "adaptive-state": {
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "Stopped taking my antipsychotic because I couldn\u2019t orgasm anymore"
+          },
+          "Presence": 1
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "I just can\u2019t win."
+          },
+          "B-S": {
+            "Category": "(2) Self harm, neglect and avoidance",
+            "highlighted_evidence": "Stopped taking my antipsychotic because I couldn\u2019t orgasm anymore"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I can\u2019t stop crying long enough to be to be able to feel even remotely sexually aroused"
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "I just can\u2019t win"
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 12,
+      "post_id": "1d4a21617e",
+      "date": "25-11-2019, 04:53:00",
+      "Switch": "S",
+      "Escalation": "E",
+      "post": "How to deal with being discarded by another friend with BPD My best friend and I both have BPD. We used to joke about being each other\u2019s fps, and in the beginning it genuinely felt like she cared about me and my feelings.   However since she got together with her SO.. not so much. It\u2019s like I barely even exist to her and it feels like she doesn\u2019t care to put the effort in to check in, listen to my problems or be there for me. I thought that it was her depression and maybe if I just loved her through it that it would get better but it hasn\u2019t.  I feel used. I feel like I was just  a replacement or a filler friend until she found an SO to be with and now I\u2019m useless to her. It hurts because in some ways  she\u2019s still my fp but I\u2019m feeling that she doesn\u2019t care about me or even feel emotionally connected to me anymore.  How do you deal with being discarded?",
+      "Well-being": 6,
+      "evidence": {
+        "adaptive-state": {
+          "A": {
+            "Category": "(9) Justifiable anger/ assertive anger, justifiable outrage",
+            "highlighted_evidence": "I feel used"
+          },
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "How do you deal with being discarded?"
+          },
+          "D": {
+            "Category": "(1) Relatedness",
+            "highlighted_evidence": "How do you deal with being discarded?"
+          },
+          "Presence": 3
+        },
+        "maladaptive-state": {
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "It\u2019s like I barely even exist to her and it feels like she doesn\u2019t care to put the effort in to check in, listen to my problems or be there for me"
+          },
+          "D": {
+            "Category": "(2) Expectation that relatedness needs will not be met",
+            "highlighted_evidence": "I feel like I was just  a replacement or a filler friend until she found an SO to be with and now I\u2019m useless to her. It hurts because in some ways  she\u2019s still my fp but I\u2019m feeling that she doesn\u2019t care about me or even feel emotionally connected to me anymore"
+          },
+          "Presence": 3
+        }
+      }
+    },
+    {
+      "post_index": 13,
+      "post_id": "e93fe75071",
+      "date": "25-11-2019, 20:05:26",
+      "Switch": "0",
+      "Escalation": "E",
+      "post": "Should I [24F] say something to my friend [21F] or just leave it alone?\nMy best friend Julia and I have been good friends for over two years or so. I was there for her during her coming out as a lesbian and every obstacle that came her way, and continually picked her side when my ex would try to be rude towards her or make me cut her off because he was threatened by her. She moved away to another city for a few months in the summertime.  Recently Julia started dating a girl named Alicia. At the time she was still living in a different city and Alicia lived here. Julia encouraged Alicia and I to be best friends too so I started hanging out with Alicia. At first it was hunky dory and I felt really good, I had two best friends that wanted to hangout or Julia would call all the time and it was a good friend group.   Until it wasn\u2019t. Julia ended up moving to our city and everything changed. Suddenly BOTH Julia and Alicia barely talk to me and barely want to hangout. Julia has expressed to me that she\u2019s going through depression so I tried to be forgiving of it and try to understand from a viewpoint of someone who also suffers from mental illness.   However it\u2019s reached a ridiculous point. I have to push for a response from her, and when I am with her she is weirdly passive aggressive towards me (for example: I threw her a huge surprise party and spent over $200 on her and she keeps going off about how I wouldn\u2019t let her do party drugs in my house) and when I talk about my problems she looks annoyed or uninterested. However she can call me crying or go off about her problems for long periods of time where I actively listen and give feedback. I will always do little favours for her and I feel unappreciated. (Example: I was driving her and Alicia to her car and she turned up the music in my car to shut me and her girlfriend up when we were talking. ) It feels like nothing I do is good enough for her.   I understand that there is a honeymoon and sometimes isolation stage with new relationships but I\u2019m not sure if that is the case or if it is depression. She only wants to spend time with her girlfriend. She expressed fears of losing her friends from being with her girlfriend too much but continues to stay distant from me and others. I sort of feel used by both of them and like I was a filler friend until they had each other.   I was wondering if I should ask her if I have done something to bother her to make her act this way or voice my feelings? Or if I should leave it alone?   TLDR: Best friend and I were really close. She moved away but started dating a girl in my city and encouraged us to be friends. As soon as she moved back, her and her girlfriend have barely associated with me. When I do see her, she is passive aggressive and has no interest in my life or problems but will go off about her own. She has expressed that she is depressed but being a supportive friend hasn\u2019t helped, and she is unappreciative when I do things for her. Unsure if she\u2019s stuck in honeymoon stage or just really stuck in her depression. Should ask her if I have done something to bother her to make her act this way or voice my feelings? Or should I leave it alone?",
+      "Well-being": 7,
+      "evidence": {
+        "adaptive-state": {
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "I was there for her during her coming out as a lesbian and every obstacle that came her way"
+          },
+          "D": {
+            "Category": "(3) Autonomy and adaptive control",
+            "highlighted_evidence": "try to understand from a viewpoint of someone who also suffers from mental illness."
+          },
+          "Presence": 4
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "It feels like nothing I do is good enough for her"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "I will always do little favours for her and I feel unappreciated"
+          },
+          "D": {
+            "Category": "(2) Expectation that relatedness needs will not be met",
+            "highlighted_evidence": "I sort of feel used by both of them and like I was a filler friend until they had each other"
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 14,
+      "post_id": "e39f80d7b4",
+      "date": "26-11-2019, 06:07:00",
+      "Switch": "0",
+      "Escalation": "E",
+      "post": "DAE feel guilty for keeping their children away from Nparents? I have been several months NC with my Nmom after she told me she would kill herself and hopes that I blame it on myself and hate myself for the rest of my life for telling her that I would supervise the visits with her and my child after she kept bringing a meth head around him. The last time I seen her was when she showed up at my door crying saying: \u201cI\u2019m sorry but I did want to kill my self when you took him away from me.\u201d  Ever since I left, she has been having my youngest child sister messaging me asking: \u201cAre you going to keep the baby from mom forever.\u201d and continually tells my other adult sister (the scapegoat) that it is her fault that I have nothing to do with my Nmom.   I do not feel good about keeping my child from a family member, especially when we barely have any family that isn\u2019t abusive or toxic. However I refuse to expose my child to the abuse or allow him to be put into her clutches. She treats him much like my brother who is the golden child.   She recently went to a psychiatrist and is on medication for bipolar and allegedly getting therapy but I doubt that she is actually getting the help she needs because she is an expert at spinning stories and building a fake image. Her company is still as bad it was when I cut her off and she continues to abuse my adult sister and use her as a scapegoat. I truly don\u2019t believe she will ever change.  DAE feel guilty for keeping their children away from Nparents? How do you cope with it?",
+      "Well-being": 7,
+      "evidence": {
+        "adaptive-state": {
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "DAE feel guilty for keeping their children away from Nparents? How do you cope with it?"
+          },
+          "D": {
+            "Category": "(3) Autonomy and adaptive control",
+            "highlighted_evidence": "I do not feel good about keeping my child from a family member, especially when we barely have any family that isn\u2019t abusive or toxic. However I refuse to expose my child to the abuse or allow him to be put into her clutches"
+          },
+          "Presence": 3
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(12) Ashamed, guilty",
+            "highlighted_evidence": "DAE feel guilty for keeping their children away from Nparents?"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "She recently went to a psychiatrist and is on medication for bipolar and allegedly getting therapy but I doubt that she is actually getting the help she needs because she is an expert at spinning stories and building a fake image. Her company is still as bad it was when I cut her off and she continues to abuse my adult sister and use her as a scapegoat"
+          },
+          "D": {
+            "Category": "(2) Expectation that relatedness needs will not be met",
+            "highlighted_evidence": "I truly don\u2019t believe she will ever change"
+          },
+          "Presence": 3
+        }
+      }
+    },
+    {
+      "post_index": 15,
+      "post_id": "2e2ac8100c",
+      "date": "26-11-2019, 06:30:12",
+      "Switch": "S",
+      "Escalation": "E",
+      "post": "I feel used and like I was a filler person for my friend who also has BPD.\nI have this best friend who I\u2019ve been friends with for two years. In the beginning, she was everything you could dream of in a friend. She would genuinely care about hearing about me and my day, rush over if I was feeling sad or do little things like run and jump on me with a bunch of gifts for my birthday. We would sing songs together, hangout constantly, workout together and just be thicker than thieves.   Until she found a friend she liked better and potential love interest. Then she went to being cold and everything I did pissed her off. She would be passive aggressive and even aggressive towards me when we lived together. It was an absolute hell. She would be really mean to me and if I voiced my feelings then she would get mad about it.   And then things got better again when that person wasn\u2019t around, it genuinely felt like she was back to caring about me and my feelings. I kept thinking to myself that we could go back to the way things used to be. They never quite got back to the same but it was a start. I thought maybe it was because she was depressed and going through things.   Until she found her SO. Now she\u2019s constantly with her SO and if she does hangout with me then she acts disinterested or annoyed when I talk to her about my problems. Yet she will confide into me about her own and even said she \u201cweirdly is always fighting with her SO when she sees me.\u201d (Ouch, glad you can only find time for me when your SO is pissing you off or you need something). I have continually tried to make birthdays, Christmases and other holidays special for her and pouring my heart, soul and money into her to make things special and in return she focuses on the things I didn\u2019t do for her or things wouldn\u2019t allow her to do in my home. She sometimes makes snide comments about personal situations to me. When I do favours for her, she treats me with disregard. Even recently turning my music in my car up to shut me up when I\u2019m talking when doing her a favour by giving her a ride to her car after a night of drinking where I left her and her SO my liquor the night before. I can do no right with her.  It drives me fucking crazy that I am so bothered by someone who clearly doesn\u2019t feel an emotional connection to me or that I pathetically keep trying to appease her or show her that people do care about her because NOTHING I do is good enough. It doesn\u2019t feel like she cares about me or even cares to have me in her life.   I hate having her as an fp because whenever there\u2019s someone she considers better then she clings to them until it doesn\u2019t workout and THEN she suddenly cares about me. I know I need to stop and let it go and not get to me but it hurts. It hurts more than anything and I\u2019m tired of feeling like I will always come second best. I don\u2019t want her to be my fp and I hate that my shit brain won\u2019t let me detach. I\u2019m tired of hurting over someone who is probably not even giving me a second thought at this very moment.",
+      "Well-being": 3,
+      "evidence": {
+        "adaptive-state": {
+          "A": {
+            "Category": "(3) Sad, emotional pain, grieving",
+            "highlighted_evidence": "but it hurts"
+          },
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "I know I need to stop and let it go and not get to me"
+          },
+          "C-O": {
+            "Category": "(1) Perception of the other as related",
+            "highlighted_evidence": "She would genuinely care about hearing about me and my day, rush over if I was feeling sad or do little things like run and jump on me with a bunch of gifts for my birthday"
+          },
+          "Presence": 4
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(2) Anxious/ fearful/ tense",
+            "highlighted_evidence": "It drives me fucking crazy"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I pathetically keep trying to appease her"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "Then she went to being cold and everything I did pissed her off."
+          },
+          "D": {
+            "Category": "(2) Expectation that relatedness needs will not be met",
+            "highlighted_evidence": "someone who clearly doesn\u2019t feel an emotional connection"
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 16,
+      "post_id": "df2dc674f7",
+      "date": "19-12-2019, 22:42:00",
+      "Switch": "0",
+      "Escalation": "E",
+      "post": "I\u2019ve fallen into a depression that I can\u2019t seem to get out of. A lot has happened over the past few months that have affected me deeply. Went through a break up, lost one of my closest friends Tiera and then had my fp/best friend Julia betray me repeatedly and become best friends with Tiera, went no contact with narcissistic mother, built up debt and so much more. While trying to heal from all the events I have had to deal with, Tiera constantly going on tirades where she continually calls me a narcissist like my mother amongst other things online and to other people. (Despite knowing my trauma, diagnosis and having BPD herself.)  The thing is that I have fallen into a deep, dark depression that I can\u2019t seem to shake. Typically I would be able to ignore everything happening or attacks on my character but right now it\u2019s further devastated me and added onto my depression. I have a very shakey sense of self and find myself either crying or completely numb besides feeling fatigued and depressed. I still get up and go to work but I have a hard time finding interest in activities I used to like, like going to the gym or drawing. I went from feeling self confident to feeling like one of the ugliest things to ever exist and like my hair is a messy mop on top of my head. I barely want to look in the mirror anymore, refuse to look at pictures of myself and find it hard to find the motivation to even shower.  I feel like I don\u2019t even know who I am anymore but I\u2019m too depressed and exhausted to figure it out. I\u2019m able to force myself to get up and go to work but that\u2019s about it.   What can I do to break out of this depression, find my sense of self again or even a little motivation? How do you move past pain from losing individuals in your life and ignore the noise of those who hate you?",
+      "Well-being": 4,
+      "evidence": {
+        "adaptive-state": {
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "I\u2019m able to force myself to get up and go to work"
+          },
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "What can I do to break out of this depression, find my sense of self again or even a little motivation? How do you move past pain from losing individuals in your life and ignore the noise of those who hate you?"
+          },
+          "D": {
+            "Category": "(5) Competence, self esteem, self-care",
+            "highlighted_evidence": "What can I do to break out of this depression, find my sense of self again or even a little motivation?"
+          },
+          "Presence": 3
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "I have a very shakey sense of self and find myself either crying or completely numb besides feeling fatigued and depressed. I still get up and go to work but I have a hard time finding interest in activities I used to like, like going to the gym or drawing."
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I went from feeling self confident to feeling like one of the ugliest things to ever exist and like my hair is a messy mop on top of my head. I barely want to look in the mirror anymore, refuse to look at pictures of myself and find it hard to find the motivation to even shower.  I feel like I don\u2019t even know who I am anymore but I\u2019m too depressed and exhausted to figure it out"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "Tiera constantly going on tirades where she continually calls me a narcissist like my mother amongst other things online and to other people. (Despite knowing my trauma, diagnosis and having BPD herself.)"
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "The thing is that I have fallen into a deep, dark depression that I can\u2019t seem to shake."
+          },
+          "Presence": 5
+        }
+      }
+    },
+    {
+      "post_index": 17,
+      "post_id": "90f3b86417",
+      "date": "19-12-2019, 22:47:56",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "For those of you who have suffered from depression, how did you break out of it?",
+      "Well-being": 4,
+      "evidence": {
+        "adaptive-state": {
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "For those of you who have suffered from depression, how did you break out of it?"
+          },
+          "D": {
+            "Category": "(1) Relatedness",
+            "highlighted_evidence": "For those of you who have suffered from depression, how did you break out of it?"
+          },
+          "Presence": 3
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "For those of you who have suffered from depression,"
+          },
+          "Presence": 2
+        }
+      }
+    }
+  ]
+}

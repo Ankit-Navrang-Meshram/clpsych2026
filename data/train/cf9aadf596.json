@@ -1,0 +1,200 @@
+{
+  "timeline_id": "cf9aadf596",
+  "posts": [
+    {
+      "post_index": 1,
+      "post_id": "bad97c29fb",
+      "date": "12-08-2015, 21:02:53",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Is science?",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 2,
+      "post_id": "d6fe80e3d9",
+      "date": "15-08-2015, 18:27:45",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "What's the video where Ross videotaped everyone on the couch?",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 3,
+      "post_id": "72f8f5985f",
+      "date": "29-08-2015, 21:01:40",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Op is dead.\nAnd I'm not op.",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 4,
+      "post_id": "2dac873f61",
+      "date": "10-09-2015, 23:38:18",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "If I'm high and you're high, what does that make us?\n[removed]",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 5,
+      "post_id": "4981e8e95f",
+      "date": "16-09-2015, 17:54:55",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Me_irl",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 6,
+      "post_id": "6abead762e",
+      "date": "16-09-2015, 20:36:01",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Me_irl",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 7,
+      "post_id": "98645fd640",
+      "date": "23-09-2015, 21:18:19",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "What's the point? (15 m)( rant)\nI'm just young and terribly depressed. What's the point of life? What is there out there? If I killed myself, who would give a flying fuck about me? Sure I have friends but they'll get over me, right? What difference would it be if a 15 year old fuck-up from Missouri decided to take his own life. Somebody please answer me! Give me reasons! Please... Edit: I apologize for this everyone. I had a temporary mental breakdown. I thank you all who helped... Or tried to.",
+      "Well-being": 5,
+      "evidence": {
+        "adaptive-state": {
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": ": I apologize for this everyone."
+          },
+          "C-O": {
+            "Category": "(1) Perception of the other as related",
+            "highlighted_evidence": "Sure I have friends"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "What's the point? (15 m)( rant)\nI'm just young and terribly depressed"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "What difference would it be if a 15 year old fuck-up from Missouri decided to take his own life."
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "they'll get over me, right?"
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "What's the point of life? What is there out there? If I killed myself, who would give a flying fuck about me?"
+          },
+          "Presence": 5
+        }
+      }
+    },
+    {
+      "post_index": 8,
+      "post_id": "3beeb15f2c",
+      "date": "24-09-2015, 02:04:39",
+      "Switch": "S",
+      "Escalation": "0",
+      "post": "It looks like the universe is trying to tell me something.[rant]\nWell... There's this girl that I *really* like. I asked her to homecoming and she said yes. I asked her out 2 weeks after that, she said she wasn't over her ex which was my best friend ( yeah, leftovers what the fuck is it to you?). He CONSTANTLY ridiculed me for it. Then today, I had a complete mental breakdown with crying, suicidal thoughts, and posts to/r/suicidewatch . I took a nap, and then I woke up and felt the best I've ever felt I. the Past 4 months. I texted her,i and she told me that she can't go to homecoming with me because it would be \"awkward\". Fucking hilarious right? Like this is all some ducking elaborate prank where every girl who says she's interested in me, FUCKING goes back and fucks me over. Everything is going the exact opposite to plan! Hilarious, right? I just want to FUCKING laugh to my grave.",
+      "Well-being": 3,
+      "evidence": {
+        "adaptive-state": {
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "There's this girl that I *really* like. I asked her to homecoming"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(6) Mania",
+            "highlighted_evidence": "I just want to FUCKING laugh to my grave"
+          },
+          "B-S": {
+            "Category": "(2) Self harm, neglect and avoidance",
+            "highlighted_evidence": "Then today, I had a complete mental breakdown with crying, suicidal thoughts, and posts to/r/suicidewatch ."
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "Everything is going the exact opposite to plan!"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "Like this is all some ducking elaborate prank where every girl who says she's interested in me, FUCKING goes back and fucks me over."
+          },
+          "Presence": 5
+        }
+      }
+    },
+    {
+      "post_index": 9,
+      "post_id": "d1c4c523ea",
+      "date": "02-10-2015, 13:38:11",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "I would rather put an Alive rat down my pants",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 10,
+      "post_id": "438394d847",
+      "date": "07-10-2015, 16:59:03",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Me_irl",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 11,
+      "post_id": "01df34b6e9",
+      "date": "07-10-2015, 23:12:07",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Users from /r/writingprompts talk about their day.",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    }
+  ]
+}

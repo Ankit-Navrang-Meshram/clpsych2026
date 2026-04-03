@@ -1,0 +1,419 @@
+{
+  "timeline_id": "5da839acb5",
+  "posts": [
+    {
+      "post_index": 1,
+      "post_id": "d06936d838",
+      "date": "06-10-2019, 10:42:36",
+      "Switch": "0",
+      "Escalation": "E",
+      "post": "A heart\u2019s a heavy burden.\nI\u2019m at this point in my life currently where I\u2019m somehow stuck between feeling the ache of everything, and not feeling anything at all. I was taught from a young age that the \u201conly\u201d way to cope with all the hurt is to flip the switch and turn it off - and now all the switches and wires feel flipped and intertwined and I can\u2019t make sense of a single damn thing.  It\u2019s hard to talk to people about the mess of emotions I feel, or the jumbled thoughts I have. I know people care about me, at least some of the time, but not enough for me to feel okay with talking about the things that keep me up at night. It\u2019s a really lonely, isolating feeling to have. But god, I wish anyone cared more than the bare minimum. Enough to reach inside my chest and rip the hurt right from the comfortable place it rests, covered up by all the excuses and lies I use just to make it through each day.  There\u2019s so much that\u2019s happened this year, so much I\u2019ve let people get away with because my heart is just a little too big for blame and anger to hold onto. I\u2019m so drained though, and I\u2019m so sick of making myself feel small in hopes I\u2019ll fit into people\u2019s lives. And I\u2019m scared, because it hasn\u2019t gotten any better. I don\u2019t know if it will.  Writing all of this is pretty pointless, but at least if you tell it to the void, the void can\u2019t talk back and tell you to suck it up or stop complaining.",
+      "Well-being": 5,
+      "evidence": {
+        "adaptive-state": {
+          "C-S": {
+            "Category": "(1) Self-acceptance and compassion",
+            "highlighted_evidence": "my heart is just a little too big for blame and anger to hold onto"
+          },
+          "C-O": {
+            "Category": "(1) Perception of the other as related",
+            "highlighted_evidence": "I know people care about me, at least some of the time"
+          },
+          "D": {
+            "Category": "(1) Relatedness",
+            "highlighted_evidence": "I wish anyone cared more than the bare minimum."
+          },
+          "Presence": 3
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "I\u2019m somehow stuck between feeling the ache of everything, and not feeling anything at all."
+          },
+          "B-S": {
+            "Category": "(2) Self harm, neglect and avoidance",
+            "highlighted_evidence": "the \u201conly\u201d way to cope with all the hurt is to flip the switch and turn it off - and now all the switches and wires feel flipped and intertwined and I can\u2019t make sense of a single damn thing"
+          },
+          "B-O": {
+            "Category": "(2) Fight or flight behavior",
+            "highlighted_evidence": "It\u2019s hard to talk to people about the mess of emotions I feel, or the jumbled thoughts I have"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "reach inside my chest and rip the hurt right from the comfortable place it rests, covered up by all the excuses and lies I use just to make it through each day."
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "not enough for me to feel okay with talking about the things that keep me up at night. It\u2019s a really lonely, isolating feeling to have."
+          },
+          "D": {
+            "Category": "(2) Expectation that relatedness needs will not be met",
+            "highlighted_evidence": "I\u2019m so drained though, and I\u2019m so sick of making myself feel small in hopes I\u2019ll fit into people\u2019s lives. And I\u2019m scared, because it hasn\u2019t gotten any better. I don\u2019t know if it will."
+          },
+          "Presence": 5
+        }
+      }
+    },
+    {
+      "post_index": 2,
+      "post_id": "49866ff6f6",
+      "date": "11-10-2019, 05:39:48",
+      "Switch": "0",
+      "Escalation": "E",
+      "post": "Feeling like a waste of space.\nEvery time I go to make a post here I get annoyed with myself because honestly, who fucking cares lol. But I'm just drained and need an outlet to vent so here I am yet again.  I know everyone moves through life at different paces, and not everything is as good as it seems, even for people who are more fortunate than others. Even still, I feel like I'm not where I'm meant to be at all and it's slowly killing me. So many people I know are getting their shit together - getting in happy relationships and starting families, having their own homes, and living their best lives. And I know I shouldn't be so worried about that stuff at 23, but fuck. I've been dealt shitty cards from the start and I'm sick of not having anything good for myself. I'm sick of feeling like a shadow in this world.  On top of that, I'm getting increasingly lonely, and usually I can control this feeling and not let it get to me but we all know the role depression plays in making you feel isolated. It's so hard to make friends though. Every time I open up to  someone, or try to build a connection with them, in the end I'm not good enough and they leave. I've stopped reaching out to people because I'm so sick of that cycle repeating. I don't want to keep opening up my heart to people just for them to crush it.  In conclusion, people suck and so does life.",
+      "Well-being": 5,
+      "evidence": {
+        "adaptive-state": {
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "I'm just drained and need an outlet to vent so here I am yet again"
+          },
+          "D": {
+            "Category": "(5) Competence, self esteem, self-care",
+            "highlighted_evidence": "I'm sick of feeling like a shadow in this world."
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "feel like I'm not where I'm meant to be at all and it's slowly killing me."
+          },
+          "B-O": {
+            "Category": "(2) Fight or flight behavior",
+            "highlighted_evidence": "I've stopped reaching out to people because I'm so sick of that cycle repeating."
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "Feeling like a waste of space."
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "Every time I open up to  someone, or try to build a connection with them, in the end I'm not good enough and they leave."
+          },
+          "D": {
+            "Category": "(2) Expectation that relatedness needs will not be met",
+            "highlighted_evidence": "I've stopped reaching out to people because I'm so sick of that cycle repeating. I don't want to keep opening up my heart to people just for them to crush it.  In conclusion, people suck and so does life."
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 3,
+      "post_id": "fdfc4cd408",
+      "date": "12-10-2019, 08:11:43",
+      "Switch": "0",
+      "Escalation": "E",
+      "post": "Breaking point.\nI don\u2019t have anyone I can talk to about this. I try to go to people, try to open up to them, put myself in a vulnerable place and all it ever does is fuck me over and make the hurt of everything that much worse.  I feel sick to my stomach with guilt for feeling this way. My best friend lost someone she loved unexpectedly earlier this year, and I don\u2019t want her to lose another, but it\u2019s all I can feel and think about lately.  I\u2019ve tried to make good changes in my life. I\u2019ve gone to therapy. I went back to school. I tried making friends. I tried dating. In the end, nothing is enough. I\u2019m not enough. There\u2019s always something wrong, either with me or the timing and circumstances.  My heart feels shattered and I feel beside myself with it all. I don\u2019t see the point anymore. I\u2019m never going to have that life I dreamed of. I never asked for much. I just wanted something good to happen. I wanted to be good enough, deserving enough. But I have nothing and no one. Just this ache that won\u2019t go away.",
+      "Well-being": 4,
+      "evidence": {
+        "adaptive-state": {
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "I\u2019ve tried to make good changes in my life. I\u2019ve gone to therapy. I went back to school. I tried making friends. I tried dating."
+          },
+          "C-O": {
+            "Category": "(1) Perception of the other as related",
+            "highlighted_evidence": "My best friend lost someone she loved unexpectedly earlier this year, and I don\u2019t want her to lose another,"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "My heart feels shattered and I feel beside myself with it all. I don\u2019t see the point anymore"
+          },
+          "B-O": {
+            "Category": "(2) Fight or flight behavior",
+            "highlighted_evidence": "I try to go to people, try to open up to them, put myself in a vulnerable place and all it ever does is fuck me over and make the hurt of everything that much worse."
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I\u2019m not enough. There\u2019s always something wrong, either with me or the timing and circumstances"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "I don\u2019t have anyone I can talk to about this."
+          },
+          "D": {
+            "Category": "(2) Expectation that relatedness needs will not be met",
+            "highlighted_evidence": "I\u2019m never going to have that life I dreamed of. I never asked for much. I just wanted something good to happen. I wanted to be good enough, deserving enough. But I have nothing and no one. Just this ache that won\u2019t go away."
+          },
+          "Presence": 5
+        }
+      }
+    },
+    {
+      "post_index": 4,
+      "post_id": "930097b1c5",
+      "date": "20-10-2019, 01:46:18",
+      "Switch": "S",
+      "Escalation": "E",
+      "post": "drained.\ni don\u2019t really have the words right now for how i feel, except that it\u2019s miserable. i don\u2019t have anything or anyone to keep me going anymore, and i\u2019m still hung up over someone who couldn\u2019t care less if i was alive or dead. i\u2019m trying to keep my shit together because my best friend needs me, but i\u2019m just tired and things have only been getting worse. i don\u2019t think i\u2019ll be here come next year and i feel sick at the thought.",
+      "Well-being": 2,
+      "evidence": {
+        "adaptive-state": {
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "i\u2019m trying to keep my shit together"
+          },
+          "C-O": {
+            "Category": "(1) Perception of the other as related",
+            "highlighted_evidence": "i\u2019m trying to keep my shit together because my best friend needs me"
+          },
+          "D": {
+            "Category": "(1) Relatedness",
+            "highlighted_evidence": "i\u2019m trying to keep my shit together because my best friend needs me,"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "i don\u2019t really have the words right now for how i feel, except that it\u2019s miserable."
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "i\u2019m still hung up over someone who couldn\u2019t care less if i was alive or dead"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "i don\u2019t have anything or anyone to keep me going anymore, and i\u2019m still hung up over someone who couldn\u2019t care less if i was alive or dead."
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "i\u2019m just tired and things have only been getting worse. i don\u2019t think i\u2019ll be here come next year"
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 5,
+      "post_id": "6e909f106a",
+      "date": "23-10-2019, 22:38:05",
+      "Switch": "0",
+      "Escalation": "E",
+      "post": "Hitting like a train today.\nWe haven't spoken in several months, and it's not really getting any easier. It comes and goes in waves, and it hits hard when I least expect it. Today I gave that new song \"If The World Was Ending\" a listen and it shattered me on the spot; it's that easy for me to spiral into missing him, and I hate it.  I hate that I still miss him - not even romantically (okay maybe a little), but overall, his friendship and his presence in my life. It's such a shitty feeling to have the door slammed on you, so to speak. I know that closure is a tricky construct, and that sometimes you have to make it for yourself, but I'm really struggling in that regard. I truly feel like this is something I'll carry with me to my grave, and that eats away at me.  This month has been a real struggle overall. This time last year was the last time we were okay, before things completely broke apart. I broke contact and tried reaching out to him a couple of weeks ago, which was stupid of me and I know that, and he made it pretty clear he has no interest in ever speaking again. I know in the end it's for the best, but right now it's miserable and I wish I could turn back time.",
+      "Well-being": 3,
+      "evidence": {
+        "adaptive-state": {
+          "A": {
+            "Category": "(3) Sad, emotional pain, grieving",
+            "highlighted_evidence": "it's that easy for me to spiral into missing him, and I hate it.  I hate that I still miss him"
+          },
+          "C-S": {
+            "Category": "(1) Self-acceptance and compassion",
+            "highlighted_evidence": "I know in the end it's for the best,"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "I truly feel like this is something I'll carry with me to my grave, and that eats away at me."
+          },
+          "B-O": {
+            "Category": "(2) Fight or flight behavior",
+            "highlighted_evidence": "I broke contact and tried reaching out to him a couple of weeks ago"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "which was stupid of me and I know that,"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "he made it pretty clear he has no interest in ever speaking again."
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "I truly feel like this is something I'll carry with me to my grave, and that eats away at me"
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 6,
+      "post_id": "b7efbe6603",
+      "date": "02-11-2019, 07:57:18",
+      "Switch": "0",
+      "Escalation": "E",
+      "post": "This is killing me.\nI was looking through our old Discord chat *(stupid, I know),* and it just... kills me. He was by far the most supportive person in my life for all the months we were together. Not even my best friend comes close to being as sincere and sweet as he was. No one has ever made me feel even a fraction of the way he did.   Any new ideas I had, he encouraged me and gave input. If I was feeling down or sick, he'd stream cartoons for us to watch together until I felt better. He always sent me new songs because he knew I'd be stubborn and play old ones on repeat all day otherwise. He sent the best damn memes and made me laugh more than anyone ever did. And when we called, it was always so comfortable and we'd talk for ages about every little thing. He never complained if I babbled on like an idiot.  This is fucking me up and I can't get past it at all. I don't know what to do. I always just cry it out and then sleep it off, but the cycle repeats and I'm growing weaker. When he left he said I'd find someone like him again, but God, there's only one him and I can never get that back.",
+      "Well-being": 3,
+      "evidence": {
+        "adaptive-state": {
+          "A": {
+            "Category": "(3) Sad, emotional pain, grieving",
+            "highlighted_evidence": "I was looking through our old Discord chat *(stupid, I know),* and it just... kills me."
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "the cycle repeats and I'm growing weaker."
+          },
+          "B-S": {
+            "Category": "(2) Self harm, neglect and avoidance",
+            "highlighted_evidence": "I always just cry it out and then sleep it off,"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "He was by far the most supportive person in my life for all the months we were together."
+          },
+          "D": {
+            "Category": "(2) Expectation that relatedness needs will not be met",
+            "highlighted_evidence": "there's only one him and I can never get that back."
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 7,
+      "post_id": "da20343212",
+      "date": "03-11-2019, 06:41:08",
+      "Switch": "S",
+      "Escalation": "E",
+      "post": "Miserable and guilty.\nMy best friend\u2019s birthday is tomorrow and all I can think about is how badly I want to end my life, but I can\u2019t because I can\u2019t do that to her.  I feel so empty and beside myself.",
+      "Well-being": 1,
+      "evidence": {
+        "adaptive-state": {
+          "C-O": {
+            "Category": "(1) Perception of the other as related",
+            "highlighted_evidence": "but I can\u2019t because I can\u2019t do that to her."
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(12) Ashamed, guilty",
+            "highlighted_evidence": "Miserable and guilty.\nMy best friend\u2019s birthday is tomorrow and all I can think about is how badly I want to end my life, but I can\u2019t because I can\u2019t do that to her"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I feel so empty and beside myself"
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "all I can think about is how badly I want to end my life,"
+          },
+          "Presence": 3
+        }
+      }
+    },
+    {
+      "post_index": 8,
+      "post_id": "30d8f4338e",
+      "date": "04-11-2019, 09:15:38",
+      "Switch": "0",
+      "Escalation": "E",
+      "post": "I hate it more than anything.\nI\u2019m so sick of having to pretend I\u2019m okay because it\u2019s more convenient for everyone around me. \u201cYou seem better\u201d is the biggest load of shit. I\u2019m not better, I\u2019m so far from it. I\u2019ve just gotten better at making you think I\u2019m okay, because then I don\u2019t have to hear that I\u2019m being difficult or stupid or irrational.  I just want to leave this fucked up world behind. I\u2019m over it all.",
+      "Well-being": 1,
+      "evidence": {
+        "adaptive-state": {
+          "Presence": 1
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(10) Angry (aggression), disgust, contempt",
+            "highlighted_evidence": "hate it more than anything."
+          },
+          "B-O": {
+            "Category": "(4) Over controlled or controlling behavior",
+            "highlighted_evidence": "I\u2019m so sick of having to pretend I\u2019m okay because it\u2019s more convenient for everyone around me"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I\u2019m not better, I\u2019m so far from it."
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "\u201cYou seem better\u201d is the biggest load of shit"
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "I just want to leave this fucked up world behind. I\u2019m over it all."
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 9,
+      "post_id": "422dd6f5c4",
+      "date": "07-11-2019, 05:47:48",
+      "Switch": "0",
+      "Escalation": "E",
+      "post": "It\u2019s never going to get better is it?\nEvery single day is the same. I can go out and convince everyone, including myself, that I\u2019m okay. But then I come home and the heavy feelings set in and I fall apart.  I\u2019ve been losing sleep because my mind won\u2019t shut off. I just keep thinking about how much better things were before, but then questioning if they were ever really better at all.  I\u2019m tired of falling apart every night and having to put myself back together every morning. I\u2019m tired of being around people who have better lives than me. I\u2019m tired of being bitter and angry at the world.  I want to die, but I don\u2019t. I want everything to stop, but it isn\u2019t. I want things to change, but they haven\u2019t.  I just want to feel safe again.",
+      "Well-being": 2,
+      "evidence": {
+        "adaptive-state": {
+          "D": {
+            "Category": "(5) Competence, self esteem, self-care",
+            "highlighted_evidence": "I want things to change,"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "But then I come home and the heavy feelings set in and I fall apart."
+          },
+          "B-S": {
+            "Category": "(2) Self harm, neglect and avoidance",
+            "highlighted_evidence": "I\u2019ve been losing sleep because my mind won\u2019t shut off"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "I\u2019m tired of being around people who have better lives than me."
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "It\u2019s never going to get better is it?"
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 10,
+      "post_id": "8bf58653ec",
+      "date": "19-11-2019, 05:31:26",
+      "Switch": "0",
+      "Escalation": "E",
+      "post": "It\u2019s getting worse.\nI realized today that his birthday\u2019s coming up in a few weeks, which really puts into perspective how much time has passed since we were last okay. Before everything crashed and burned. I\u2019ve been numb this whole year, just floating through time because reality is miserable and I can\u2019t face it, but I\u2019m starting to more and more lately and I\u2019m miserable for it.  Holidays and family events were always the worst for him, for both of us really. I miss how we\u2019d help each other through it, being the strength for each other that we needed. All I feel now is weak, like a fragile shell of a girl I used to be.  There\u2019s so much I wish I could say to him. Losing the opportunity to spend my life with him is painful, but nothing beats the pain of losing the friendship we had. He was my very best friend and I\u2019ll never get that back, and it kills me every god damn day. I\u2019ll never feel that good or whole again.  I don\u2019t think time is healing anything.",
+      "Well-being": 1,
+      "evidence": {
+        "adaptive-state": {
+          "A": {
+            "Category": "(3) Sad, emotional pain, grieving",
+            "highlighted_evidence": "I miss how we\u2019d help each other through it, being the strength for each other that we needed"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(8) Apathic, don\u2019t care, blunted",
+            "highlighted_evidence": "\u2019ve been numb this whole year, just floating through time because reality is miserable and I can\u2019t face it"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "All I feel now is weak, like a fragile shell of a girl I used to be"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "There\u2019s so much I wish I could say to him. Losing the opportunity to spend my life with him is painful, but nothing beats the pain of losing the friendship we had. He was my very best friend"
+          },
+          "D": {
+            "Category": "(2) Expectation that relatedness needs will not be met",
+            "highlighted_evidence": "I\u2019ll never get that back, and it kills me every god damn day. I\u2019ll never feel that good or whole again.  I don\u2019t think time is healing anything."
+          },
+          "Presence": 4
+        }
+      }
+    }
+  ]
+}

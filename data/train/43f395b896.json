@@ -1,0 +1,264 @@
+{
+  "timeline_id": "43f395b896",
+  "posts": [
+    {
+      "post_index": 1,
+      "post_id": "07324d9cc0",
+      "date": "13-12-2020, 12:58:37",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "How does it feel for birds to lay eggs?\nDo they feel an urge, like they have to poop? Do they have to strain or push the egg, or is it more involuntary? Does it hurt?",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 2,
+      "post_id": "0e3bef4a89",
+      "date": "16-12-2020, 01:35:59",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Found in a cat group on Facebook",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 3,
+      "post_id": "3148fd6e42",
+      "date": "18-12-2020, 13:12:09",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Why do sandwiches taste better cut diagonally?",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 4,
+      "post_id": "7b7d1e3cbd",
+      "date": "20-12-2020, 13:07:00",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Feeling nervous about getting the COVID vaccine I have a fuckton of allergies. Never had anaphylaxis but I do have a few drug allergies and I know anaphylaxis is a rare but possible side effect of the vaccine. When the time comes for me to get it, I'm really nervous about having a delayed reaction and dying when I get home or something. I think I'm going to ask if there's any way for me to hang out onsite for a little while after the vaccine to make sure I don't have a reaction, but even then, there's always the small risk that a reaction could show up a little later. I live alone. No one would be there to help me if I couldn't breathe or talk.   But I also don't want to die of COVID. So I have to do this. I know the risk is so, so small - significantly smaller than my risk of getting COVID and experiencing life-threatening complications - but that doesn't make me feel any better.   Has anyone had it yet?",
+      "Well-being": 8,
+      "evidence": {
+        "adaptive-state": {
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "Has anyone had it yet?"
+          },
+          "C-S": {
+            "Category": "(1) Self-acceptance and compassion",
+            "highlighted_evidence": "But I also don't want to die of COVID. So I have to do this."
+          },
+          "Presence": 3
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(2) Anxious/ fearful/ tense",
+            "highlighted_evidence": "I'm really nervous about having a delayed reaction and dying when I get home or something."
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "I know the risk is so, so small - significantly smaller than my risk of getting COVID and experiencing life-threatening complications - but that doesn't make me feel any better"
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 5,
+      "post_id": "4f92e325b0",
+      "date": "22-12-2020, 22:18:23",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "My promotion is going to end in February after 3 billing periods\nI just got a letter in the mail that my promo rate is ending in February. I just upgraded at the end of November so I'll have had the promo for only 3 months. I was kind of under the impression that my promo rate would last for the duration of my new contract. Is that not the case?",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 6,
+      "post_id": "2f6ddc5cfe",
+      "date": "02-01-2021, 13:15:03",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "What are you supposed to do if you find a car broken into?\nMy city has a huge problem with auto theft, burglary, and vandalism. Like, you pretty much can't own a car here without it being broken into at some point. Today I noticed a car in my apartment complex's parking lot with the window shattered, the door open, and some stuff on the ground. I felt so bad and wanted to do something, but I'm not sure if there's anything I could have done. I had no way to contact the owner and didn't want to risk implicating myself in any way so I just left it alone. Is that what you're supposed to do? Really sucks for whoever that happened to. \ud83d\ude15",
+      "Well-being": 8,
+      "evidence": {
+        "adaptive-state": {
+          "A": {
+            "Category": "(9) Justifiable anger/ assertive anger, justifiable outrage",
+            "highlighted_evidence": "I felt so bad and wanted to do something"
+          },
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "Is that what you're supposed to do? Really sucks for whoever that happened to."
+          },
+          "Presence": 4
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(2) Anxious/ fearful/ tense",
+            "highlighted_evidence": "didn't want to risk implicating myself in any way"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "My city has a huge problem with auto theft, burglary, and vandalism"
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "but I'm not sure if there's anything I could have done"
+          },
+          "Presence": 2
+        }
+      }
+    },
+    {
+      "post_index": 7,
+      "post_id": "bebf00051c",
+      "date": "08-01-2021, 01:56:00",
+      "Switch": "S",
+      "Escalation": "0",
+      "post": "Do you think it's fair to say the past year has been traumatic? I feel permanently changed by everything that's happened this past year. I am exhausted. I feel bitter and angry and sad. I have never hated people the way I do now. There are times that I feel like going outside and just screaming at the sky until I can't anymore. And I feel gaslit by the people around me who want to pretend that nothing is wrong.   I'm very lucky that the events of this year haven't had a huge direct impact on me - I have a job and a place to live, my loved ones are alive. But it feels like everything else is just a giant fucking nightmare. All I want to do is sleep and pretend I don't exist. I don't think I'm ever going to be completely okay after this, even if things do someday become \"normal\" again, whatever that even means.",
+      "Well-being": 6,
+      "evidence": {
+        "adaptive-state": {
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "Do you think it's fair to say the past year has been traumatic? I feel permanently changed by everything that's happened this past year."
+          },
+          "C-S": {
+            "Category": "(1) Self-acceptance and compassion",
+            "highlighted_evidence": "I'm very lucky that the events of this year haven't had a huge direct impact on me - I have a job and a place to live, my loved ones are alive."
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "But it feels like everything else is just a giant fucking nightmare. All I want to do is sleep and pretend I don't exist. I don't think I'm ever going to be completely okay after this, even if things do someday become \"normal\" again, whatever that even means."
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "I have never hated people the way I do now."
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "I don't think I'm ever going to be completely okay after this, even if things do someday become \"normal\" again, whatever that even means."
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 8,
+      "post_id": "633a7a79b4",
+      "date": "11-01-2021, 04:00:17",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Anyone else get super uncomfortable at clubs or parties where people are trying to hook up?\nA lot of if is just due to me being an introvert but I hate pretty much any social event where it's expected that people are going to be hooking up. I don't even want to talk to people I don't know because I don't want anyone getting the wrong idea.",
+      "Well-being": 7,
+      "evidence": {
+        "adaptive-state": {
+          "Presence": 1
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(2) Anxious/ fearful/ tense",
+            "highlighted_evidence": "Anyone else get super uncomfortable at clubs or parties where people are trying to hook up"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "A lot of if is just due to me being an introvert but I hate pretty much any social event where it's expected that people are going to be hooking up"
+          },
+          "D": {
+            "Category": "(2) Expectation that relatedness needs will not be met",
+            "highlighted_evidence": "I don't even want to talk to people I don't know because I don't want anyone getting the wrong idea"
+          },
+          "Presence": 3
+        }
+      }
+    },
+    {
+      "post_index": 9,
+      "post_id": "6f064e2e2d",
+      "date": "16-01-2021, 06:53:00",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "I just started my second semester back at college and I already feel overwhelmed I'm only attending part time right now while I work part time and I already feel like I'm in over my head. I dropped out of uni 3 years ago when I realized I wasn't happy with my career prospects and now I'm trying to get an associate's in health information technology. I'm taking intro to anatomy and physiology, the a&amp;p lab, and medical terminology. I feel so rusty. It's been 10 years since I've taken biology and chemistry in high school. Chapter 1 hasn't been too bad so far, but this is just the beginning, and I still have so much work left to do.  It's extra hard because I've been pretty depressed lately because, well, everything around me is depressing. I sleep way too much and when I'm awake my brain feels like mush. I thought starting a new, stimulating challenge would help to perk me up and pull my head out of the fog but instead I just feel like I'm staring up at a mountain of work I can't keep up with.",
+      "Well-being": 7,
+      "evidence": {
+        "adaptive-state": {
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "I dropped out of uni 3 years ago when I realized I wasn't happy with my career prospects and now I'm trying to get an associate's in health information technology."
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "It's extra hard because I've been pretty depressed lately because, well, everything around me is depressing. I sleep way too much and when I'm awake my brain feels like mush."
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I already feel overwhelmed I'm only attending part time right now while I work part time and I already feel like I'm in over my head."
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "Chapter 1 hasn't been too bad so far, but this is just the beginning, and I still have so much work left to do."
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 10,
+      "post_id": "2e0463374c",
+      "date": "18-01-2021, 03:59:40",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "WHERE ARE YOUR SHOES?? FREEZE TO DEATH, DUMBFUCK",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 11,
+      "post_id": "9192291064",
+      "date": "29-01-2021, 02:42:00",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Those who've tested positive after receiving both doses of the vaccine, what was your experience?\nDid you have symptoms? How severe were your symptoms, and how long did they last?  I'm just curious. Just got my first dose of the moderna vaccine. I know with the flu vaccine you're less likely to experience severe symptoms or complications if you do get the flu, but the COVID vaccines haven't been around long enough to have that kind of data  yet.",
+      "Well-being": 8,
+      "evidence": {
+        "adaptive-state": {
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "Those who've tested positive after receiving both doses of the vaccine, what was your experience?\nDid you have symptoms? How severe were your symptoms, and how long did they last? I'm just curious."
+          },
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "Just got my first dose of the moderna vaccine. I know with the flu vaccine you're less likely to experience severe symptoms or complications if you do get the flu"
+          },
+          "Presence": 3
+        },
+        "maladaptive-state": {
+          "Presence": 1
+        }
+      }
+    }
+  ]
+}

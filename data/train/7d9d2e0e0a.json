@@ -1,0 +1,151 @@
+{
+  "timeline_id": "7d9d2e0e0a",
+  "posts": [
+    {
+      "post_index": 1,
+      "post_id": "a33649e870",
+      "date": "26-06-2015, 01:14:00",
+      "Switch": "0",
+      "Escalation": "E",
+      "post": "I'm tired. Hey. First post on reddit, I really need something like this right now.  I'm a 14 male. My mother's had an extremely difficult childhood, and while she is possibly my best friend, sometimes it's hard to cope up with her. It's rare these days, but at times she simply loses her shit and starts shouting at me. Having similiar personalities I shout at her as well, and it gets all fucked up. My father's got an extremely possessive mother who still treats him like a baby, and only recently he began separating from her.. and he's 54.  That said, I'm tired of going to sleep thinking about suicide, cutting, how lonely I am, how much I fail at life, how better off would everyone be if I just disappeared, how stupid and pointless are my \"problems\", how everyone gets on with life easily while I hardly want to exit my home.. I'm lazy. I'm lazy as fuck. I pass my days in my room, playing videogames. Last time I got out was 3-4 days ago, can't remember exactly. I went to a friend (which is hard and new for me, since I hadn't had friends for three years) and chatted (which is also hard because my favorite hobby is of course gaming and I'm not able to talk about it, I simply freeze). Even there I had times where I thought about how inadequate (inadeguate? how's it written?) I am. And sincerely, I'm fed up.  It's been like these for years. High school was a blessing for me: new classmates, a school not near home. Middle school was hell: I made one, two friends there, but in the last year I was completely alone and hated pretty much everything. I started hanging out with my best friends only recently, mainly because for a long while I was the victim of the bad jokes in my group, and that just made me want to escape reality more. I've gone to a psychologist for two years. Recently I can't even go there, let alone talk. Everytime I go there I curl up into a ball and shut up, mainly due to the awkward silence between conversations, because honestly I don't know what to talk about. We've discussed my problems thousands of times, and I can't see a way to improve my situation anymore. That's about it.. just needed to vent to someone that wasn't going to tell me I simply don't want to be happy or shit like that. Which I believe to be true, actually, but I'd still prefer not thinking it's true. Thanks for reading.",
+      "Well-being": 4,
+      "evidence": {
+        "adaptive-state": {
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "I went to a friend (which is hard and new for me, since I hadn't had friends for three years) and chatted (which is also hard because my favorite hobby is of course gaming and I'm not able to talk about it, I simply freeze)"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "And sincerely, I'm fed up.  It's been like these for years."
+          },
+          "B-S": {
+            "Category": "(2) Self harm, neglect and avoidance",
+            "highlighted_evidence": "I pass my days in my room, playing videogames. Last time I got out was 3-4 days ago, can't remember exactly"
+          },
+          "B-O": {
+            "Category": "(2) Fight or flight behavior",
+            "highlighted_evidence": "I've gone to a psychologist for two years. Recently I can't even go there, let alone talk. Everytime I go there I curl up into a ball and shut up"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I'm tired of going to sleep thinking about suicide, cutting, how lonely I am, how much I fail at life, how better off would everyone be if I just disappeared, how stupid and pointless are my \"problems\", how everyone gets on with life easily while I hardly want to exit my home.. I'm lazy. I'm lazy as fuck."
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "It's rare these days, but at times she simply loses her shit and starts shouting at me. Having similiar personalities I shout at her as well, and it gets all fucked up. My father's got an extremely possessive mother who still treats him like a baby, and only recently he began separating from her.. and he's 54."
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "We've discussed my problems thousands of times, and I can't see a way to improve my situation anymore. That's about it.."
+          },
+          "Presence": 5
+        }
+      }
+    },
+    {
+      "post_index": 2,
+      "post_id": "7f22000b69",
+      "date": "27-06-2015, 01:13:00",
+      "Switch": "S",
+      "Escalation": "E",
+      "post": "I'm tired of being alone.\nI'm 14. I've been struggling with suicidal thoughts  since the first year of Middle school. I was the weird elitist kid with one elitist friend, then I realized what shitty person I was and became alone. I've always had a love for writing and wrote about my death often in writing tests. I had no friends for two and a half years, my old ones loved to pick on me. In high school it got better and it got terribly worse. I found some friends, one betrayed me, the other told me she self harmed and it destroyed me. Such a happy and kind person.. and finally I started cutting until my mother - who had a terrible childhood and is in psychological therapy since 20 years - found out. I still have scars.  My psychologist and I came to a dead end and I can't muster the strength to go again, I'll curl up into a ball again anyway. I hardly wash myself and pass my days in front of my PC, mainly because I have no social experience whatsoever and have no idea how to chat or hang out. My only hobby is videogaming,'I'm ashamed of it and can't talk about it, the other topics that interest me are \"boring\"  and anyways I'm terrible at talking. And I'm fed up. Every night I stare at my window and wonder what would happen if I ran and jumped. I think about cutting everyday, every fucking second. I can hardly go out without feeling terrible and when I do I think about jumping in the street. I feel the only reason I don't do anything is because my mother would kill herself, which I've been afraid of more than once. The relationship with my father isn't that great too so she's one of the few I trust. I'd say she's my best friend.  I' tired of being the silent, why kid that talks to one guy normally and the rest with anxiety. I'm tired of being scared of physical contact and getting startled by a hug. I'm tired of being unable to find the courage to go out or even wash my hair. I just want to die, since I can't do the most basic things in life.  Sorry for bad english, not a native speaker and on phone.",
+      "Well-being": 1,
+      "evidence": {
+        "adaptive-state": {
+          "C-O": {
+            "Category": "(1) Perception of the other as related",
+            "highlighted_evidence": "I'd say she's my best friend."
+          },
+          "D": {
+            "Category": "(1) Relatedness",
+            "highlighted_evidence": "I'm tired of being alone"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "I think about cutting everyday, every fucking second. I can hardly go out without feeling terrible and when I do I think about jumping in the street"
+          },
+          "B-S": {
+            "Category": "(2) Self harm, neglect and avoidance",
+            "highlighted_evidence": "I started cutting"
+          },
+          "B-O": {
+            "Category": "(2) Fight or flight behavior",
+            "highlighted_evidence": "I had no friends for two and a half years, my old ones loved to pick on me. In high school it got better and it got terribly worse. I found some friends, one betrayed me, the other told me she self harmed and it destroyed me"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I realized what shitty person I was and became alone."
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "one betrayed me, the other told me she self harmed and it destroyed me"
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "My psychologist and I came to a dead end and I can't muster the strength to go again, I'll curl up into a ball again anyway"
+          },
+          "Presence": 5
+        }
+      }
+    },
+    {
+      "post_index": 3,
+      "post_id": "19d25bdb6b",
+      "date": "03-08-2015, 21:51:51",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "EU4: How do I Ironman?\nI have played a weak 169 hours. I own every DLC (except for graphical/music packs, but w/e) and always strive to play Ironman because I can't help but cheat if I can.  My problem is: in every game I start, I can hardly go on more than 35 years before believing the game is lost and quitting (my maximum was 148-somethingsomething with Tuscany, and was even going pretty well). I then restart as some other random country and it repeats.  I wanted to try a country out of Europe but I lack any kind of interest in them. I'd prefer to fulfill my secret imperialist wishes and commit mass genocide, but usually it is I that gets beaten into a bloody pulp.  So I ask: How do you keep up your interest? How do you restrain from going ALT+F4 at the first loss?  Thanks for reading c: Please point out any errors I've made.",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 4,
+      "post_id": "bb5153d82d",
+      "date": "11-08-2015, 14:14:32",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "For Italy, the Emperor, and the Terrible, Terrible Cartographers' Guild\nhttp://imgur.com/gallery/MqvR2lP/ &lt;-- Map link. Syr_Enigma can't into Reddit.  Tuscany into Italy. My first \"Iron\"man run. More like Bronzeman, since I played with easy AI, player bonuses and no lucky nations. :P  The funniest run I've had. Commonwealth PU'd France in 1606, if I recall correctly, and never lost their grip. Attempted a small war to take back part of the Italian region.. I'm lucky PLC loved me. White Peaced out of that suicide run.  Colonized in Brazil, Canada, Oceania and Australia. The first colony acquired most of their wealth and provinces from various wars with Portugal, Spain and England.  Ottomans were beaten to a bloody pulp. What remained of their Kebabiphate was once more ruined by the Particularists. That's what they get for taking Constantinople.  Suez canal was incredibly easy to built. Started it around 1810 and finished it around 1815.. way easier than I thought it would've been. Had three or four events, it was built in the end about 150 days late. Although I never used it.  Planning to convert this to Vic2 as soon as I own it. The Italian Reich has to go on. Hail Emperor Ferdinando IV Rossi!  I'm not sure if it's good or bad though. Try to guess my subjects. Although I don't know if one of them can be guessed. Oh well. Is it a good run, for someone with 215 hours? ^^  P.S. Sadly, the Italian Cartographers' Guild's fundings were cut in order to reach maximum technology. Thus, the few remaining workers couldn't produce the amazing maps seen in the other subreddits. I suck with Gimp.",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 5,
+      "post_id": "d628a515dd",
+      "date": "17-08-2015, 17:39:02",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Testy Test Test. pls is of work",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 6,
+      "post_id": "693d5b4017",
+      "date": "18-08-2015, 20:28:28",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "What am I missing?",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    }
+  ]
+}

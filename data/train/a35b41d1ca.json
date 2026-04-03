@@ -1,0 +1,192 @@
+{
+  "timeline_id": "a35b41d1ca",
+  "posts": [
+    {
+      "post_index": 1,
+      "post_id": "fead6ca59c",
+      "date": "12-03-2020, 20:29:28",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "First recovery tattoo",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 2,
+      "post_id": "7a8badf50f",
+      "date": "16-03-2020, 01:10:00",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "After 8 years of struggling with self harm I am starting to cover my older scars. Hoping one day to be totally clean but baby steps for now x",
+      "Well-being": 6,
+      "evidence": {
+        "adaptive-state": {
+          "A": {
+            "Category": "(5) Content, happy, joy, hopeful",
+            "highlighted_evidence": "After 8 years of struggling with self harm I am starting to cover my older scars. Hoping one day to be totally clean but baby steps for now x"
+          },
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "After 8 years of struggling with self harm I am starting to cover my older scars"
+          },
+          "C-S": {
+            "Category": "(1) Self-acceptance and compassion",
+            "highlighted_evidence": "After 8 years of struggling with self harm I am starting to cover my older scars. Hoping one day to be totally clean but baby steps for now"
+          },
+          "D": {
+            "Category": "(5) Competence, self esteem, self-care",
+            "highlighted_evidence": "After 8 years of struggling with self harm I am starting to cover my older scars. Hoping one day to be totally clean but baby steps for now x"
+          },
+          "Presence": 5
+        },
+        "maladaptive-state": {
+          "Presence": 1
+        }
+      }
+    },
+    {
+      "post_index": 3,
+      "post_id": "b5b5b8896c",
+      "date": "29-03-2020, 00:31:56",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Never seeing my boyfriend... Am I in a spiral?\nI don't know what to do. My boyfriend is my absolute world and supports me so much with my mental health. I can't see him due to quarantine as we don't live together. Video calls aren't the same and I also can't see my 4 pets that live with him. We both still live with our parents so can't move in.  I'm crying almost every night. Nothing brings me joy. All events and coping mechanisms have been taken aware due to this awful virus and without his support regularly (due to difficult working hours) I feel lost.  Also my job won't let me in due to my mum being high risk and I'm here carer yet I'm a key worker. I feel so useless to this whole situation and just want to disappear.  No one will read this far. I give up... I thought I recovered but hadn't.",
+      "Well-being": 5,
+      "evidence": {
+        "adaptive-state": {
+          "C-S": {
+            "Category": "(1) Self-acceptance and compassion",
+            "highlighted_evidence": "I'm here carer yet I'm a key worker"
+          },
+          "C-O": {
+            "Category": "(1) Perception of the other as related",
+            "highlighted_evidence": "My boyfriend is my absolute world and supports me so much with my mental health"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "I'm crying almost every night. Nothing brings me joy."
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I feel so useless to this whole situation"
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "and just want to disappear.  No one will read this far. I give up... I thought I recovered but hadn't."
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 4,
+      "post_id": "165fc88687",
+      "date": "31-03-2020, 01:04:00",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "First deeper cuts and first on my arms. Always felt guilty not scaring more previously",
+      "Well-being": 4,
+      "evidence": {
+        "adaptive-state": {
+          "Presence": 1
+        },
+        "maladaptive-state": {
+          "B-S": {
+            "Category": "(2) Self harm, neglect and avoidance",
+            "highlighted_evidence": "First deeper cuts and first on my arms"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "Always felt guilty not scaring more previously"
+          },
+          "Presence": 5
+        }
+      }
+    },
+    {
+      "post_index": 5,
+      "post_id": "bf8667a104",
+      "date": "01-04-2020, 13:50:49",
+      "Switch": "S",
+      "Escalation": "0",
+      "post": "Just been put on Venlafaxine and Quetiapine. What's your experience?\nNothing you say is going to change my plans on doing as my psychologist has adviced but what are your experiences with these medications? Why were you put on them? I've been put on these with no diagnosis, is that normal?  Cheers guys, stay strong and stay safe",
+      "Well-being": 6,
+      "evidence": {
+        "adaptive-state": {
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "Cheers guys, stay strong and stay safe"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I've been put on these with no diagnosis, is that normal?"
+          },
+          "Presence": 2
+        }
+      }
+    },
+    {
+      "post_index": 6,
+      "post_id": "555632f15c",
+      "date": "01-04-2020, 22:26:06",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Am I the only one who records like 10 second clips at a gig and actuallt rewatches them? Hate people who film the whole thing\n[removed]",
+      "Well-being": 6,
+      "evidence": {
+        "adaptive-state": {
+          "C-S": {
+            "Category": "(1) Self-acceptance and compassion",
+            "highlighted_evidence": "Am I the only one who records like 10 second clips at a gig and actuallt rewatches them"
+          },
+          "Presence": 1
+        },
+        "maladaptive-state": {
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "Hate people who film the whole thing"
+          },
+          "Presence": 1
+        }
+      }
+    },
+    {
+      "post_index": 7,
+      "post_id": "9f0d9513f8",
+      "date": "03-04-2020, 22:36:29",
+      "Switch": "S",
+      "Escalation": "0",
+      "post": "Coming to terms with my alcohol addiction. Starting 2 new antidepressants and meds to help my hallucinating. Coping working in admin for NHS; no one thanks the ones doing the paperwork or on the front desk :/",
+      "Well-being": 4,
+      "evidence": {
+        "adaptive-state": {
+          "C-S": {
+            "Category": "(1) Self-acceptance and compassion",
+            "highlighted_evidence": "Coming to terms with my alcohol addiction."
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "Coming to terms with my alcohol addiction"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "no one thanks the ones doing the paperwork or on the front desk"
+          },
+          "Presence": 3
+        }
+      }
+    }
+  ]
+}

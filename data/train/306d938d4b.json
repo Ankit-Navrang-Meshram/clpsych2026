@@ -1,0 +1,220 @@
+{
+  "timeline_id": "306d938d4b",
+  "posts": [
+    {
+      "post_index": 1,
+      "post_id": "308b0c2c6c",
+      "date": "19-05-2015, 02:40:50",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Twitchy tonight. Lost my job a few months back, have an investigatory interview tomorrow to get my license and job back. Any tips to be cool as ice when I have to be?\nI've been on meds for the anxiety, but I can see the sleepless night coming already. Any ideas to calm myself down? 1000 kettlebell swings? 15 miles on the excercycle? Ideas?",
+      "Well-being": 5,
+      "evidence": {
+        "adaptive-state": {
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "Any ideas to calm myself down? 1000 kettlebell swings? 15 miles on the excercycle? Ideas?"
+          },
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "Any tips to be cool as ice when I have to be?"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(2) Anxious/ fearful/ tense",
+            "highlighted_evidence": "Twitchy tonight."
+          },
+          "Presence": 2
+        }
+      }
+    },
+    {
+      "post_index": 2,
+      "post_id": "ab6b2a2c94",
+      "date": "24-05-2015, 03:11:01",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Vac700 finally costs me some clothing.\nLast week, the blind cap became stuck, and removed the piston rod entirely when I unscrewed it to fill the pen. I gently got it loose, lubricated the threads with silicone, and it worked well for a week.   Today, on going to draw back the piston to clear the pen for cleaning, it did the same and sent a load of Noodler's Black all over my pants. I think the piston rod and blind cap need replaced. If it sticks once, okay. Twice and a pair of shorts?  I've emailed TWSBI to ask about replacement parts. We'll see.",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 3,
+      "post_id": "60dda53794",
+      "date": "28-05-2015, 21:46:52",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "The Message From The Lungs- a Thai hospital extracted carbon deposits from smokers' lungs and used it to make ink. Smoking cessation programs had a 500% increase.",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 4,
+      "post_id": "2e602497dc",
+      "date": "04-06-2015, 22:40:52",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "My wife just got a Jeopardy! audition!\nIt'll be her third. She's easily smarter than I am, and I'm no slouch. Can't wait!",
+      "Well-being": 7,
+      "evidence": {
+        "adaptive-state": {
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "She's easily smarter than I am"
+          },
+          "C-S": {
+            "Category": "(1) Self-acceptance and compassion",
+            "highlighted_evidence": "I'm no slouch"
+          },
+          "Presence": 3
+        },
+        "maladaptive-state": {
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "She's easily smarter than I am"
+          },
+          "Presence": 2
+        }
+      }
+    },
+    {
+      "post_index": 5,
+      "post_id": "8ed62bfe3c",
+      "date": "09-06-2015, 20:56:15",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "[Image] Forget stardust. You are iron.",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 6,
+      "post_id": "a036b42063",
+      "date": "16-06-2015, 19:09:57",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "NHL13 appears to be basically dead, I've heard good things about 14, bad about 15. Should I wait for 16 or go with 14?\nI play the wheels off of the NHL series when I get them- I went from NHL10 to 13 after getting the Leafs 3 straight Cup wins, just to prove I could. Got about 200 hours in it at this point.  I've had 13 since pre-order, but have just started to mess around with HUT after a couple Detroit Cup runs. Hence, I'm starting late.  Is the trade pool basically dead? I've been putting up stuff at fire sale prices- 6-10 game contracts for 100 pucks and barely getting any nibbles, and my team sucks. I simply can't rack up enough pucks to get a gold pack and start to improve.  I'm looking at 14, but I fear the trading is just as dead. I've heard they broke a lot of things in 15 (at least there was a lot of complaining on Twitter), so I don't know if that's worth it.  Should I hold on for 16, and go 10-13-16, or is 14 alive enough to be worthwhile?",
+      "Well-being": 7,
+      "evidence": {
+        "adaptive-state": {
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "Should I wait for 16 or go with 14?"
+          },
+          "C-S": {
+            "Category": "(1) Self-acceptance and compassion",
+            "highlighted_evidence": "I play the wheels off of the NHL series when I get them- I went from NHL10 to 13 after getting the Leafs 3 straight Cup wins, just to prove I could."
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "C-O": {
+            "Category": "(4) Perception of the other as blocking autonomy needs",
+            "highlighted_evidence": "I've heard they broke a lot of things in 15 (at least there was a lot of complaining on Twitter), so I don't know if that's worth it"
+          },
+          "Presence": 1
+        }
+      }
+    },
+    {
+      "post_index": 7,
+      "post_id": "16b71683aa",
+      "date": "16-06-2015, 19:20:53",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Feel free to call me an idiot, but how do you shuffle these?\nI have a stock Rider-Waite-Smith deck, and I can't comfortably shuffle it. I've medium hands- size 8 rings, 8 1/2 gloves.  I was basically raised with a deck of cards in my hands. Euchre in Scouts, poker in high school, Gin against my grandmother. I can bridge, riffle shuffle, you name it, but I can't shuffle this deck.  Any pointers?",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 8,
+      "post_id": "740b3971ec",
+      "date": "18-06-2015, 04:15:14",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Kids spraypainted my car. I got most off with rubbing compound, but there's some heavier paint on the mirror (painted side) that won't come off, any recommendations?\nNear as I can tell it's just straight Krylon or similar. I figure Bar Keeper's should take it off the window, I just need to get it off the mirror. I could go insurance, but with a $500 deductible I know we'd be on the hook for all of it.",
+      "Well-being": 7,
+      "evidence": {
+        "adaptive-state": {
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "I got most off with rubbing compound"
+          },
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "any recommendations"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "Presence": 1
+        }
+      }
+    },
+    {
+      "post_index": 9,
+      "post_id": "2cd210a244",
+      "date": "24-06-2015, 02:21:41",
+      "Switch": "S",
+      "Escalation": "0",
+      "post": "11 years of depression off and on, and I can't help but believe this time gets me. The date after the dash just isn't written yet.\nAnyone else feel this way? It feels like I'm just marking time to my death sometimes, if I ever had the courage to do it.",
+      "Well-being": 4,
+      "evidence": {
+        "adaptive-state": {
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "Anyone else feel this way?"
+          },
+          "Presence": 1
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "11 years of depression off and on, and I can't help but believe this time gets me."
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 10,
+      "post_id": "b54af65eab",
+      "date": "15-07-2015, 02:38:41",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Any Avengers Alliance players? Just starting out, could use some allies.\nName in game is my handle here, if you play.",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 11,
+      "post_id": "1b1b036c2e",
+      "date": "15-07-2015, 04:26:12",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Need allies, anyone looking to play?\nMy handle is the same as here, add away!",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    }
+  ]
+}

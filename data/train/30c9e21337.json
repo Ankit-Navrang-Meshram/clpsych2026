@@ -1,0 +1,408 @@
+{
+  "timeline_id": "30c9e21337",
+  "posts": [
+    {
+      "post_index": 1,
+      "post_id": "d5257cfb2a",
+      "date": "25-02-2015, 22:45:41",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "FUCK LIFE.\nJust FUCK IT. I fucking hate life. It's so fucking pointless to live. I want everyone to just die. the whole planet to just get obliterated. Fucking bullshit is what all of this is. A big ass fucking farce. I hate life so much. I wish GOD, I FUCKING WISH I HAD THE FUCKING BALLS TO FUCKING SLICE MY WRISTS AND JUST END MY OWN LIFE AT THE VERY FUCKING LEAST. FUCKING BULL SHIT.",
+      "Well-being": 4,
+      "evidence": {
+        "adaptive-state": {
+          "Presence": 1
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(10) Angry (aggression), disgust, contempt",
+            "highlighted_evidence": "I fucking hate life."
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I FUCKING WISH I HAD THE FUCKING BALLS"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "I want everyone to just die"
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "I FUCKING WISH I HAD THE FUCKING BALLS TO FUCKING SLICE MY WRISTS AND JUST END MY OWN LIFE AT THE VERY FUCKING LEAST"
+          },
+          "Presence": 5
+        }
+      }
+    },
+    {
+      "post_index": 2,
+      "post_id": "6c32177ac7",
+      "date": "27-02-2015, 17:20:28",
+      "Switch": "S",
+      "Escalation": "0",
+      "post": "[Hello] Excited to join in!\nHi! I'm Alison and I have a kitty named Osita. I wish I could jump right into gifting, because it's hella fun, but no moolah as of now for that. On the extremely bright side, I *should* be starting a job soon (I'm in the hiring process... why is it taking so long though -_-;;), so one day I'll have the cash to join the gifting fun. I really do enjoy gifting communities. I can't wait to get to know you guys, I know you're all lovely people :) Also ask me anything and I'll give you my best answer.",
+      "Well-being": 8,
+      "evidence": {
+        "adaptive-state": {
+          "A": {
+            "Category": "(5) Content, happy, joy, hopeful",
+            "highlighted_evidence": "Excited to join in!"
+          },
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "I *should* be starting a job soon (I'm in the hiring process"
+          },
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "I can't wait to get to know you guys"
+          },
+          "C-S": {
+            "Category": "(1) Self-acceptance and compassion",
+            "highlighted_evidence": "I really do enjoy gifting communities."
+          },
+          "C-O": {
+            "Category": "(1) Perception of the other as related",
+            "highlighted_evidence": "I know you're all lovely people :)"
+          },
+          "D": {
+            "Category": "(3) Autonomy and adaptive control",
+            "highlighted_evidence": "so one day I'll have the cash to join the gifting fun"
+          },
+          "Presence": 5
+        },
+        "maladaptive-state": {
+          "Presence": 1
+        }
+      }
+    },
+    {
+      "post_index": 3,
+      "post_id": "7b64ddc0c2",
+      "date": "07-03-2015, 16:50:54",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "And then he disabled his account.",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 4,
+      "post_id": "4956757c08",
+      "date": "30-03-2015, 19:30:39",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "I'm having an off day.\nI'm on mobile and my thoughts are scattered so bear with me if you decide to read this.   I sort of decided on my own that I'll be fighting depression my whole life. I'm going to be on meds forever, be in and out of therapy, and (I hate to admit it) probably end up hospitalized again at some point. So my battle is to stay stable for as much as I can. I've been doing pretty good for a few months, but inexplicably, today I'm not feeling well. I got out of bed 15 minutes before I had to leave for work even though the alarm was set for an hour earlier. I zoned out a little while driving. I feel the 'fog' lightly looming around me. Do you know what I'm talking about? That awful haze that envelops you when you're depressed and just mutes you from feeling anything.. I don't want it to get worse. I tried to reach out to a friend last night for comfort. I was lonely and needed to connect with someone. But she was saying all the wrong things. things I didn't want to hear. things that just made me boil with anger. And all she was doing was being... positive... Positivity is so sickening and unbelievable and aggravating when I get depressed. anyway. I'm going back to work now. I hope this haze doesn't last too long.",
+      "Well-being": 6,
+      "evidence": {
+        "adaptive-state": {
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": ". I'm going back to work now."
+          },
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "tried to reach out to a friend last night for comfort. I was lonely and needed to connect with someone"
+          },
+          "C-S": {
+            "Category": "(1) Self-acceptance and compassion",
+            "highlighted_evidence": "I've been doing pretty good for a few months"
+          },
+          "C-O": {
+            "Category": "(1) Perception of the other as related",
+            "highlighted_evidence": "all she was doing was being... positive"
+          },
+          "D": {
+            "Category": "(5) Competence, self esteem, self-care",
+            "highlighted_evidence": "I hope this haze doesn't last too long."
+          },
+          "Presence": 4
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "today I'm not feeling well"
+          },
+          "B-S": {
+            "Category": "(2) Self harm, neglect and avoidance",
+            "highlighted_evidence": "I got out of bed 15 minutes before I had to leave for work even though the alarm was set for an hour earlier. I zoned out a little while driving."
+          },
+          "B-O": {
+            "Category": "(2) Fight or flight behavior",
+            "highlighted_evidence": "But she was saying all the wrong things. things I didn't want to hear."
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I'm going to be on meds forever, be in and out of therapy, and (I hate to admit it) probably end up hospitalized again at some point"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "she was saying all the wrong things. things I didn't want to hear. things that just made me boil with anger."
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "sort of decided on my own that I'll be fighting depression my whole life. I'm going to be on meds forever, be in and out of therapy, and (I hate to admit it) probably end up hospitalized again at some point. So my battle is to stay stable for as much as I can."
+          },
+          "Presence": 5
+        }
+      }
+    },
+    {
+      "post_index": 5,
+      "post_id": "f1ea3c60f3",
+      "date": "10-04-2015, 18:34:30",
+      "Switch": "S",
+      "Escalation": "E",
+      "post": "BPD or depression\nI don't know if it's BPD or depression but I'm feeling suicidal and very very lonely. my friends all tell me they love me and miss me but somehow it's not enough. I want attention and I guess I'm getting it when they say they love me but it's not *just* right so I'm left longing for something I can't even identify. I'm starting to feel like I should give my cat away because I'm doing a shitty job taking care of her. my family picks up the slack but I still feel that if Im not the one feeding her everyday, I don't deserve to keep her. I also want one less thing to worry about if I kill myself. it reminds me of how giving one's possessions away is a warning sin of suicide lol. I guess my cat is the only important thing in my life.   anyway. I don't know my loneliness is a BPD thing or a depression thing. I honestly don't understand my diagnosis of BPD anyway.",
+      "Well-being": 3,
+      "evidence": {
+        "adaptive-state": {
+          "C-O": {
+            "Category": "(1) Perception of the other as related",
+            "highlighted_evidence": "my friends all tell me they love me and miss me"
+          },
+          "D": {
+            "Category": "(1) Relatedness",
+            "highlighted_evidence": "I want attention"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "don't know if it's BPD or depression but I'm feeling suicidal and very very lonely."
+          },
+          "B-O": {
+            "Category": "(2) Fight or flight behavior",
+            "highlighted_evidence": "I'm starting to feel like I should give my cat away because I'm doing a shitty job taking care of her"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I don't deserve to keep her."
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "but somehow it's not enough"
+          },
+          "D": {
+            "Category": "(2) Expectation that relatedness needs will not be met",
+            "highlighted_evidence": "I'm left longing for something I can't even identify"
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 6,
+      "post_id": "d3fb3d6a73",
+      "date": "10-04-2015, 18:44:30",
+      "Switch": "S",
+      "Escalation": "E",
+      "post": "Medication side effects\nIs constant acne and weight gain worth the better mood? I mean, logically it does seem to be worth it, but I really really really don't want to gain any more weight and constantly breaking out is painful for my skin and my (already nonexistant) ego. and while my mood gets better on the med, it doesn't bring me enough motivation to work out so that I can keep the pounds off. I just want to die and not have to worry about life.",
+      "Well-being": 5,
+      "evidence": {
+        "adaptive-state": {
+          "A": {
+            "Category": "(5) Content, happy, joy, hopeful",
+            "highlighted_evidence": "my mood gets better on the med,"
+          },
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "Medication side effects"
+          },
+          "C-S": {
+            "Category": "(1) Self-acceptance and compassion",
+            "highlighted_evidence": "Is constant acne and weight gain worth the better mood? I mean, logically it does seem to be worth it,"
+          },
+          "D": {
+            "Category": "(5) Competence, self esteem, self-care",
+            "highlighted_evidence": "I really really really don't want to gain any more weight"
+          },
+          "Presence": 3
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "I just want to die"
+          },
+          "B-S": {
+            "Category": "(2) Self harm, neglect and avoidance",
+            "highlighted_evidence": "it doesn't bring me enough motivation to work out so that I can keep the pounds off"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "constantly breaking out is painful for my skin and my (already nonexistant) ego."
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "I just want to die and not have to worry about life."
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 7,
+      "post_id": "e1588076f5",
+      "date": "11-04-2015, 21:11:25",
+      "Switch": "S",
+      "Escalation": "E",
+      "post": "I want to die.\nmost of my week has been spent lying in bed pretending to not exist and fantasizing about suicide. my life is fine. I'm working part time while I'm off school this semester, I'm trying to stay on track for my career, I have friends that say they love me, my family says they love me, I have a home, food, water, but I still feel incomplete. is it my depression doing this me? regardless of what is causing it, I still feel this way and I just want to die. I have a method and just need a location. but even then I'm just being picky with my location. I could honestly do it anywhere I think.   yeah, I just want to die. every action I do is prefaced by the thought 'I want to die'. when I lie in bed, I think about ways to die. I wish I could make it stop. I don't have it in me to make efforts to distract myself from these thoughts. and that idea in itself is a depressing one to me. is my whole life just going to consist of trying to distract myself from suicide? like how is that living? its not. I would rather not live. I would rather die.  sometimes I think to myself I should have killed myself back in high school. maybe I should kill myself now instead of regretting living even more in the future.  I don't know what I'm doing by posting here. I just want to talk about these suicidal feelings, I guess. sigh. I wish someone would just kill me. I would be grateful.",
+      "Well-being": 2,
+      "evidence": {
+        "adaptive-state": {
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "I'm trying to stay on track for my career,"
+          },
+          "C-S": {
+            "Category": "(1) Self-acceptance and compassion",
+            "highlighted_evidence": "my life is fine."
+          },
+          "C-O": {
+            "Category": "(1) Perception of the other as related",
+            "highlighted_evidence": "I have friends that say they love me, my family says they love me,"
+          },
+          "D": {
+            "Category": "(5) Competence, self esteem, self-care",
+            "highlighted_evidence": "I wish I could make it stop."
+          },
+          "Presence": 3
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "fantasizing about suicide"
+          },
+          "B-S": {
+            "Category": "(2) Self harm, neglect and avoidance",
+            "highlighted_evidence": "most of my week has been spent lying in bed pretending to not exist"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I don't have it in me to make efforts to distract myself from these thoughts"
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "is my whole life just going to consist of trying to distract myself from suicide? like how is that living? its not. I would rather not live. I would rather die"
+          },
+          "Presence": 5
+        }
+      }
+    },
+    {
+      "post_index": 8,
+      "post_id": "fa779f6297",
+      "date": "12-04-2015, 15:59:31",
+      "Switch": "S",
+      "Escalation": "E",
+      "post": "I want to hire someone to kill me\nlol. how much do you think I'll need?  edit: instead of making new posts I'm just gonna add to this. depression fucking sucks. I'm  a little pissed off. like. I understood having depression when I was wrought with anxiety and stress and life was fucking shit but like.. life is fine right now. like why the fuck do I have this overwhelming need to plan my suicide or die??? like fuck this shit. I just wanna tell everyone that I'm depressed in hopes they'll have some kind of advice or conversation that will maybe pull me out of this mindset ROAR. AHSIDHSLDBSODHC. well at least I'm angry right now. it's preferable to being a useless shit stain that mopes all day.",
+      "Well-being": 4,
+      "evidence": {
+        "adaptive-state": {
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "I just wanna tell everyone that I'm depressed"
+          },
+          "C-S": {
+            "Category": "(1) Self-acceptance and compassion",
+            "highlighted_evidence": "life is fine right now."
+          },
+          "D": {
+            "Category": "(1) Relatedness",
+            "highlighted_evidence": "I just wanna tell everyone that I'm depressed in hopes they'll have some kind of advice or conversation that will maybe pull me out of this mindset"
+          },
+          "Presence": 3
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "depression fucking sucks"
+          },
+          "B-S": {
+            "Category": "(2) Self harm, neglect and avoidance",
+            "highlighted_evidence": "I want to hire someone to kill me\nlol. how much do you think I'll need?"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I'm angry right now. it's preferable to being a useless shit stain that mopes all day."
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "I have this overwhelming need to plan my suicide or die???"
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 9,
+      "post_id": "0966f70863",
+      "date": "12-04-2015, 17:59:43",
+      "Switch": "0",
+      "Escalation": "E",
+      "post": "abandonment?\nI don't do the thing where people with BPD will do everything they can to stop perceived or real abandonment. or maybe I do but I can't tell so hear me out. ive been sort of hanging out with this guy Ive been crushing on but he doesn't really seem that into me. after a week of this, I'm suddenly thinking about suicide a lot. for no good reason it seems. am I reacting to being possibly abandoned by the guy? also its weird because I know it will not do anything to stop him from ditching me. in fact, if he straight up told me to leave him alone, I'd agonize over it for a few days but eventually get over it. being left hanging and in the unknown is what really gets me.. anyway idk I just had to ramble about it.",
+      "Well-being": 5,
+      "evidence": {
+        "adaptive-state": {
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "ive been sort of hanging out with this guy Ive been crushing on"
+          },
+          "D": {
+            "Category": "(1) Relatedness",
+            "highlighted_evidence": "just had to ramble about it."
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "I'm suddenly thinking about suicide a lot"
+          },
+          "B-O": {
+            "Category": "(2) Fight or flight behavior",
+            "highlighted_evidence": "am I reacting to being possibly abandoned by the guy?"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "he doesn't really seem that into me."
+          },
+          "D": {
+            "Category": "(2) Expectation that relatedness needs will not be met",
+            "highlighted_evidence": "I know it will not do anything to stop him from ditching me."
+          },
+          "Presence": 3
+        }
+      }
+    },
+    {
+      "post_index": 10,
+      "post_id": "21a1a953dd",
+      "date": "13-04-2015, 22:39:19",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "[Thanks] chaveyf16 for the preppy. i love fountain pens!",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 11,
+      "post_id": "f551c7083d",
+      "date": "16-04-2015, 21:15:52",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "[THANKS] imawifebitch, my nails are gonna look SO cool thanks to you :3",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    }
+  ]
+}

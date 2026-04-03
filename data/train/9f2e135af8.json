@@ -1,0 +1,498 @@
+{
+  "timeline_id": "9f2e135af8",
+  "posts": [
+    {
+      "post_index": 1,
+      "post_id": "273bec13c6",
+      "date": "17-12-2019, 16:07:51",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "An interesting title",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 2,
+      "post_id": "5e7cb1a1e8",
+      "date": "18-12-2019, 10:11:44",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Not a gun gang meme",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 3,
+      "post_id": "1020287008",
+      "date": "19-12-2019, 12:22:59",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "True story.",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 4,
+      "post_id": "b790ab6147",
+      "date": "22-12-2019, 13:19:57",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Depressive phase has started.\nGlad I caught it early on so I'm prepared now.  But the mania was a good ride too.. I'll miss it. Oh boy here we go again.  *Hello darkness my old friend*",
+      "Well-being": 5,
+      "evidence": {
+        "adaptive-state": {
+          "A": {
+            "Category": "(5) Content, happy, joy, hopeful",
+            "highlighted_evidence": "Glad I caught it early"
+          },
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "Glad I caught it early on so I'm prepared now"
+          },
+          "C-S": {
+            "Category": "(1) Self-acceptance and compassion",
+            "highlighted_evidence": "I'm prepared"
+          },
+          "Presence": 3
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "Depressive phase has started."
+          },
+          "Presence": 2
+        }
+      }
+    },
+    {
+      "post_index": 5,
+      "post_id": "0caa572cc9",
+      "date": "22-12-2019, 20:44:03",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Haha look",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 6,
+      "post_id": "9d8b1a9e9d",
+      "date": "24-12-2019, 20:50:43",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Elon Musk keeps his phone wallpaper as plain dark black.\nThat way when you open it there's less of a mental distraction.",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 7,
+      "post_id": "511cd1164e",
+      "date": "28-12-2019, 15:09:03",
+      "Switch": "S",
+      "Escalation": "0",
+      "post": "Which of two teachers should I ask for an LoR?\nMy English teachers who's obviously great with English and *loves* me saying I'm one in a million  *OR*  My Computer Science teacher who still likes me but not more than others (and I just got the highest in the last exam), and also she's the head of department of Computer Science  I'm an Indian applying at Ashoka University for Computer Science, and that University is pretty new but really selective and renowned for implementing Western techniques of universities more than any other in the country possibly.",
+      "Well-being": 8,
+      "evidence": {
+        "adaptive-state": {
+          "A": {
+            "Category": "(13) Feel loved, belong",
+            "highlighted_evidence": "My English teachers who's obviously great with English and *loves* me saying I'm one in a million"
+          },
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "I'm an Indian applying at Ashoka University for Computer Science,"
+          },
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "Which of two teachers should I ask for an LoR?"
+          },
+          "C-O": {
+            "Category": "(1) Perception of the other as related",
+            "highlighted_evidence": "My English teachers who's obviously great with English and *loves* me saying I'm one in a million"
+          },
+          "D": {
+            "Category": "(5) Competence, self esteem, self-care",
+            "highlighted_evidence": "I'm an Indian applying at Ashoka University for Computer Science, and that University is pretty new but really selective"
+          },
+          "Presence": 5
+        },
+        "maladaptive-state": {
+          "Presence": 1
+        }
+      }
+    },
+    {
+      "post_index": 8,
+      "post_id": "9827b51aff",
+      "date": "29-12-2019, 18:58:49",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "*an old 2019 meme* showing up one one last time before the decade ends",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 9,
+      "post_id": "a21751ed17",
+      "date": "03-01-2020, 18:26:46",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "It's everyday bro",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 10,
+      "post_id": "f5e9547241",
+      "date": "05-01-2020, 10:14:33",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "The memes that never die.",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 11,
+      "post_id": "e91616170f",
+      "date": "06-01-2020, 14:34:55",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Saved my best friend's life\nAlright so me and her met 4 years ago and I can't possibly explain how much she meant to me and how I literally grew into her personality  But for this year I felt like she was ignoring and estranging herself from me (which broke my heart but also taught me lessons of tough love, but that's a story for another day).   Here's a post I made about it sometime ago:-  https://www.reddit.com/r/teenagers/comments/e08sd6/formerish_best_friend_distancing_herself_from_me/?utm_medium=android_app&amp;utm_source=share  But yesterday night (she is halfway across the world from me rn), she- she confided in me. She told me about everything that had been bothering her. Her parents are arguing and may divorce each other, her mother hates her and even physically hits her, and her dad won't let her go to college next year if her mom leaves...   All of this, naturally, took a toll on her. You can't imagine the terror I myself felt when she told me all this. I did know about it but that was years ago, and I felt disqualified as a friend to support her in this with her distancing from me and all.   But yesterday night she came clean. And she was suicidal. She threatened me about jumping into the Thames right then. But it was me, who touched her heart. In a world where no one understood us, we understood each other. I saved her life.   And the best part - for a person who puts up a tough act and has deep trust issues - she thanked me. She told me she was grateful to have me. And she'd do the same for me.   She's still my friend. I'm not all alone.   Anyway I just had to tell someone about this, you guys seemed ideal. This has been me, and till next time, peace!",
+      "Well-being": 7,
+      "evidence": {
+        "adaptive-state": {
+          "A": {
+            "Category": "(11) Proud",
+            "highlighted_evidence": "I saved her life.   And the best part - for a person who puts up a tough act and has deep trust issues - she thanked me."
+          },
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "Saved my best friend's"
+          },
+          "C-S": {
+            "Category": "(1) Self-acceptance and compassion",
+            "highlighted_evidence": "I'm not all alone."
+          },
+          "C-O": {
+            "Category": "(1) Perception of the other as related",
+            "highlighted_evidence": "In a world where no one understood us, we understood each other"
+          },
+          "D": {
+            "Category": "(1) Relatedness",
+            "highlighted_evidence": "Anyway I just had to tell someone about this, you guys seemed ideal."
+          },
+          "Presence": 4
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(14) Feel lonely",
+            "highlighted_evidence": "felt like she was ignoring and estranging herself from me (which broke my heart"
+          },
+          "B-O": {
+            "Category": "(2) Fight or flight behavior",
+            "highlighted_evidence": "I felt disqualified as a friend to support her in this with her distancing from me and all."
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I did know about it but that was years ago, and I felt disqualified as a friend to support her in this with her distancing from me and all."
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "she was ignoring and estranging herself from me"
+          },
+          "Presence": 3
+        }
+      }
+    },
+    {
+      "post_index": 12,
+      "post_id": "a2bbc9a071",
+      "date": "07-01-2020, 11:26:58",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "An ad on Instagram I came across",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 13,
+      "post_id": "eefa7380e0",
+      "date": "11-01-2020, 18:29:52",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "My little guy giving y'all a hug",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 14,
+      "post_id": "cdd560200e",
+      "date": "12-01-2020, 15:50:26",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Got your nose",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 15,
+      "post_id": "1ed34d0d08",
+      "date": "14-01-2020, 00:36:04",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "How do you small talk?",
+      "Well-being": 7,
+      "evidence": {
+        "adaptive-state": {
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "How do you small talk?"
+          },
+          "D": {
+            "Category": "(1) Relatedness",
+            "highlighted_evidence": "How do you small talk?"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "Presence": 1
+        }
+      }
+    },
+    {
+      "post_index": 16,
+      "post_id": "01e090b5f5",
+      "date": "14-01-2020, 02:47:56",
+      "Switch": "S",
+      "Escalation": "0",
+      "post": "Had everything I wanted but turns out that's not what I wanted\nI had everything. I had great friends. People who care about me. I had the love of my life. I had good relations. I was happy. But deep inside, I still felt empty. It's as if I was in pain for so long, I got addicted to it. I made it my home. And even though I had everything I ever wanted in that pain, despite having it all, I chose to go back to the pain just because it was the only thing now that comforted me and made me feel ok.",
+      "Well-being": 5,
+      "evidence": {
+        "adaptive-state": {
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "But deep inside, I still felt empty."
+          },
+          "B-S": {
+            "Category": "(2) Self harm, neglect and avoidance",
+            "highlighted_evidence": "I chose to go back to the pain"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "It's as if I was in pain for so long, I got addicted to it"
+          },
+          "D": {
+            "Category": "(6) Expectation that competence needs will not be met",
+            "highlighted_evidence": "even though I had everything I ever wanted in that pain, despite having it all, I chose to go back to the pain"
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 17,
+      "post_id": "87c7bed09a",
+      "date": "16-01-2020, 07:22:30",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Legends will be in crisis they said.",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 18,
+      "post_id": "1ef5670213",
+      "date": "16-01-2020, 08:42:33",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Fart rights",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 19,
+      "post_id": "84b5299a1a",
+      "date": "16-01-2020, 13:16:04",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "How will they beat the villains now without any motivational speech telling Barry to run faster?",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 20,
+      "post_id": "c91c90959f",
+      "date": "16-01-2020, 14:13:27",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "I don't mean to brag but..\nI got 2 Reddit followers",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 21,
+      "post_id": "6643b41c74",
+      "date": "17-01-2020, 12:22:11",
+      "Switch": "S",
+      "Escalation": "0",
+      "post": "Almost fucking died.\nFirst anyone else hallucinates? I did twice before. I can tell it's not real, but I just see a person who I'm thinking of in a negative context. Like if I feel guilty for something I did to someone, my guilt and perception will appear in the form of the person I'm thinking of, staring silently into my soul from the corner of the room. Now this had already happened twice before, but both the times I was calm and looking at them.   Yesterday night I was chatting with my friend about all this and I brought up a person who I shouted really bad at once. The next thing - she only with her head is staring at me from the corner. The head wasn't gorily cut off or anything it was just that I simply didn't focus on the limbs.   I tried to look away. Move. Even text her about this. But I couldn't. And the more I tried, the worse it got.   My eyes were fixated on hers. I was hyper manic throughout the day and it was one of the best days of my life till that point. But then I was having a full on panic attack. My hands and legs were violently shaking. My teeth were clattering. I was really cold yet the blanket was at my legs and I still couldn't pull it. I got a fever.   I really felt like I was dying.",
+      "Well-being": 3,
+      "evidence": {
+        "adaptive-state": {
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "Yesterday night I was chatting with my friend about all this"
+          },
+          "D": {
+            "Category": "(1) Relatedness",
+            "highlighted_evidence": "First anyone else hallucinates?"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(2) Anxious/ fearful/ tense",
+            "highlighted_evidence": ". My hands and legs were violently shaking. My teeth were clattering. I was really cold"
+          },
+          "B-S": {
+            "Category": "(2) Self harm, neglect and avoidance",
+            "highlighted_evidence": "I was hyper manic throughout the day and it was one of the best days of my life till that point. But then I was having a full on panic attack. My hands and legs were violently shaking. My teeth were clattering. I was really cold yet the blanket was at my legs and I still couldn't pull it"
+          },
+          "B-O": {
+            "Category": "(2) Fight or flight behavior",
+            "highlighted_evidence": "I brought up a person who I shouted really bad at once"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "if I feel guilty for something I did to someone, my guilt and perception will appear in the form of the person I'm thinking of, staring silently into my soul from the corner of the room"
+          },
+          "D": {
+            "Category": "(4) Expectation that autonomy needs will not be met",
+            "highlighted_evidence": "I tried to look away. Move. Even text her about this. But I couldn't. And the more I tried, the worse it got"
+          },
+          "Presence": 5
+        }
+      }
+    },
+    {
+      "post_index": 22,
+      "post_id": "5b3768a101",
+      "date": "17-01-2020, 13:52:35",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "MEMES \ud83d\udc4f ARE \ud83d\udc4f ART \ud83d\udc4f\nThey're a great outlet, people get to show off their creativity, anyone can do it, and it's only good if it makes people laugh.   Also everyone gets to express themselves through the power of memes.",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 23,
+      "post_id": "1b0157cc83",
+      "date": "22-01-2020, 15:18:46",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "100 days!\nCould've relapsed several times when the only thing I could think of was cutting, but I didn't.   Here's to more",
+      "Well-being": 4,
+      "evidence": {
+        "adaptive-state": {
+          "A": {
+            "Category": "(11) Proud",
+            "highlighted_evidence": "100 days!\nCould've relapsed several times when the only thing I could think of was cutting, but I didn't.   Here's to more"
+          },
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "100 days!\nCould've relapsed several times when the only thing I could think of was cutting, but I didn't."
+          },
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "Could've relapsed several times when the only thing I could think of was cutting, but I didn't.   Here's to more"
+          },
+          "D": {
+            "Category": "(3) Autonomy and adaptive control",
+            "highlighted_evidence": "Could've relapsed several times when the only thing I could think of was cutting, but I didn't.   Here's to more"
+          },
+          "Presence": 3
+        },
+        "maladaptive-state": {
+          "Presence": 1
+        }
+      }
+    },
+    {
+      "post_index": 24,
+      "post_id": "c1613932ea",
+      "date": "26-01-2020, 14:15:10",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "I siszoned the girl who brozoned me for 4 years (it's all chill though) AMA",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 25,
+      "post_id": "17a31e26ce",
+      "date": "07-02-2020, 12:29:20",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "I wish that every time someone roasted someone else for using light mode, they'd lose their eyes and live the rest of their lives in dark mode.",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    }
+  ]
+}

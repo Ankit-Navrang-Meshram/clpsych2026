@@ -1,0 +1,484 @@
+{
+  "timeline_id": "8e0a58cfbd",
+  "posts": [
+    {
+      "post_index": 1,
+      "post_id": "e1d9b01e68",
+      "date": "16-07-2021, 22:05:19",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "I almost gave my kitten a Disney name but decided on a different name but now I regret it because apparently she loves Disney movies",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 2,
+      "post_id": "ccef65d7dc",
+      "date": "19-07-2021, 09:40:11",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Finley the Disney watching kitten strikes again- this time with Frozen. Sorry for the bad lighting I had just turned off the lights in my room.",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 3,
+      "post_id": "a0f7385634",
+      "date": "21-07-2021, 02:20:54",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Someone opened this fried chicken container to take a piece out at Safeway",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 4,
+      "post_id": "2ef5b06d92",
+      "date": "23-07-2021, 17:25:05",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Vets shouldn\u2019t offer declawing. If your a vet then that means you love animals but why would someone who loves animals support declawing. Declawing is awful\nReading about how awful declawing is for your cat is heartbreaking and it blows my mind that these vets who claim they love animals would do something like this just because someone decides to get a cat and not want their furniture scratched. Easy solution - get your cats nails trimmed regularly and you can even buy nail caps for your cats. Trying to find a place for a spay clinic to spay for my kitten who was found in a parking lot and so many of these clinics support declawing it\u2019s so awful. Finally found a place that doesn\u2019t and will spay and has good reviews - it\u2019s $50 more than the other places but I\u2019m glad they don\u2019t declaw.",
+      "Well-being": 9,
+      "evidence": {
+        "adaptive-state": {
+          "A": {
+            "Category": "(5) Content, happy, joy, hopeful",
+            "highlighted_evidence": "I\u2019m glad"
+          },
+          "B-O": {
+            "Category": "(3) Autonomous or adaptive control behavior",
+            "highlighted_evidence": "Vets shouldn\u2019t offer declawing"
+          },
+          "C-O": {
+            "Category": "(1) Perception of the other as related",
+            "highlighted_evidence": "Finally found a place that doesn\u2019t and will spay and has good reviews"
+          },
+          "Presence": 4
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(2) Anxious/ fearful/ tense",
+            "highlighted_evidence": "it blows my mind"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "why would someone who loves animals support declawing"
+          },
+          "D": {
+            "Category": "(2) Expectation that relatedness needs will not be met",
+            "highlighted_evidence": "Trying to find a place for a spay clinic to spay for my kitten who was found in a parking lot and so many of these clinics support declawing it\u2019s so awful."
+          },
+          "Presence": 2
+        }
+      }
+    },
+    {
+      "post_index": 5,
+      "post_id": "ab71b7b975",
+      "date": "28-07-2021, 04:42:34",
+      "Switch": "S",
+      "Escalation": "0",
+      "post": "I wish my parents would get a divorce\nMy mom is constantly in a horrible mood - and then she takes it out on my dad and puts him in a bad mood. He does so much for her- he constantly cooks for her - every meal too. He brings her coffee in bed each day. He will run her errands for take her car to get washed, will do her laundry for her, buys her flowers, takes her on vacations like Hawaii several times in a year and other things and so much more and she rarely says thank you or even nods a bit of appreciation for him. She will demand to take his more expensive car if she doesn\u2019t want to drive her basic car because she feels the need to impress her friends but then complains how much money his truck cost to fill up and how many miles it has on it. She endlessly complains about his dog. She complains about his family and friends but then has no problem hanging with them when they are around. I feel like the only reason they got married is because they had me  accidentally and then my sister accidentally so felt they had to get married since they had two kids together but I truly think they should have never been married. She seems to be in a bad mood almost every night because the littlest things piss her off. Someone could cut her off and she would come home mad and yelling at my dad and at us kids. I wish she wasn\u2019t always so angry and could take anger management classes but if you know my mom you don\u2019t even want to mention how angry she gets because she\u2019ll get angry at you. I\u2019ve been on the other side of her anger - she\u2019s beaten me till I bleed just because she was in a bad mood and took it out on me. I just think my dad would be happier if didn\u2019t have to stay with her.",
+      "Well-being": 6,
+      "evidence": {
+        "adaptive-state": {
+          "D": {
+            "Category": "(3) Autonomy and adaptive control",
+            "highlighted_evidence": "I just think my dad would be happier if didn\u2019t have to stay with her"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(12) Ashamed, guilty",
+            "highlighted_evidence": "I feel like the only reason they got married is because they had me  accidentally and then my sister accidentally so felt they had to get married"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "she rarely says thank you or even nods a bit of appreciation for him. She will demand to take his more expensive car if she doesn\u2019t want to drive her basic car because she feels the need to impress her friends but then complains how much money his truck cost to fill up and how many miles it has on it. She endlessly complains about his dog. She complains about his family and friends but then has no problem hanging with them when they are around."
+          },
+          "D": {
+            "Category": "(4) Expectation that autonomy needs will not be met",
+            "highlighted_evidence": "but if you know my mom you don\u2019t even want to mention how angry she gets because she\u2019ll get angry at you. I\u2019ve been on the other side of her anger - she\u2019s beaten me till I bleed just because she was in a bad mood and took it out on me."
+          },
+          "Presence": 5
+        }
+      }
+    },
+    {
+      "post_index": 6,
+      "post_id": "165477732e",
+      "date": "29-07-2021, 15:45:00",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "My mom hates me. I\u2019m the family disappointment. I wish people didn\u2019t make fun of me constantly. My family all hates me on my dads moms side. Well not all but most. I know they talk bad about me behind my back and even make snide and rude comments to my face. They take advances of my niceness and always willing to pay for meals and such. My mom hates me- calls me a waste of life, gives me no time, constantly talking to me a nasty and condescending tone but treats my younger 3 siblings like they  are the best things ever.",
+      "Well-being": 6,
+      "evidence": {
+        "adaptive-state": {
+          "D": {
+            "Category": "(1) Relatedness",
+            "highlighted_evidence": "I wish people didn\u2019t make fun of me constantly"
+          },
+          "Presence": 3
+        },
+        "maladaptive-state": {
+          "B-O": {
+            "Category": "(4) Over controlled or controlling behavior",
+            "highlighted_evidence": "my niceness and always willing to pay for meals and such"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I\u2019m the family disappointment"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "My family all hates me on my dads moms side. Well not all but most. I know they talk bad about me behind my back and even make snide and rude comments to my face. They take advances of my niceness and always willing to pay for meals and such. My mom hates me- calls me a waste of life, gives me no time, constantly talking to me a nasty and condescending tone"
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 7,
+      "post_id": "2af5e23800",
+      "date": "09-08-2021, 04:33:45",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Does anyone else want to cry for Mittens from Bolt?\n[removed]",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 8,
+      "post_id": "b5c35dcdf0",
+      "date": "12-08-2021, 18:14:00",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "I\u2019m not having kids because of the way my mom is. She\u2019s currently on her way home and I\u2019m sitting on my bed terrified of her to come home and shaking and crying I have a new kitten who we rescued from a parking lot. I was downstairs sending an email for work and she started to climb the curtains - I immediately go to get up to stop her and spray her with water and just as I\u2019m about to her the thing comes down. My mom isn\u2019t home but I know she\u2019ll be pissed. I tried telling my dad to let me know what it needs to get fixed and I\u2019d run to Lowe\u2019s but he didn\u2019t answer me and said it\u2019s not that big of a deal and that he would fix it when he has the time. It might not be a big deal to him but I know my mom is going to come home pissed off yelling at me and possibly beat me. I\u2019ve been scared of my mom for as long as I can remember. She gets mad at the slightest things and goes off on whoever is closest. She\u2019s beaten me several times until I bleed and all for the littlest things. I\u2019m sitting on my bed scared and shaking and crying for when she comes home. I\u2019ve been asked when I want kids and I always say I\u2019m not sure and the reason is because I don\u2019t want kids. I used to want 6 but after I turned 16 I realized I don\u2019t know how to be a good mom because of the way my mom has been to me. What if I turn out like her and overreact at everything and beat my kids. What if I tell my kids they are a waste of life like she\u2019s done to me.",
+      "Well-being": 6,
+      "evidence": {
+        "adaptive-state": {
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "I tried telling my dad to let me know what it needs to get fixed"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(2) Anxious/ fearful/ tense",
+            "highlighted_evidence": "I\u2019m sitting on my bed terrified of her to come home and shaking and crying"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I realized I don\u2019t know how to be a good mom because of the way my mom has been to me. What if I turn out like her and overreact at everything and beat my kids. What if I tell my kids they are a waste of life like she\u2019s done to me."
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "I know my mom is going to come home pissed off yelling at me and possibly beat me. I\u2019ve been scared of my mom for as long as I can remember. She gets mad at the slightest things and goes off on whoever is closest. She\u2019s beaten me several times until I bleed and all for the littlest things. I\u2019m sitting on my bed scared and shaking and crying for when she comes home."
+          },
+          "D": {
+            "Category": "(4) Expectation that autonomy needs will not be met",
+            "highlighted_evidence": "m sitting on my bed scared and shaking and crying for when she comes home. I"
+          },
+          "Presence": 5
+        }
+      }
+    },
+    {
+      "post_index": 9,
+      "post_id": "17e3ab4983",
+      "date": "13-08-2021, 20:44:05",
+      "Switch": "S",
+      "Escalation": "E",
+      "post": "Am I over reacting? Is it stupid for me to be upset or is it okay for me to be a little upset at my aunt.\n3 years ago my great grandma ( my aunts grandma ) died. Ever since she died I\u2019ve wanted a memorial tattoo for her because we were so close. Talked to each other on the phone twice a week, I went multiple times to see her and didn\u2019t go on other vacations because I wanted to spend time with my grandma. I remember her birthday, sent birthday and Christmas gifts. I sent other little gifts just because and she did the same for me ( of course I never expected gifts in return ) . We were so close. I booked a flight for a Wednesday afternoon to say my final goodbyes and she died Monday so I was two days to late and it tore me to pieces. Anyway I have a birthday card I found the day before my birthday the year she died- it was the perfect angel sign. On it said \u201c All my love, gram ( and then my grandmas name ) so ever since then I\u2019ve decided I wanted that tattooed I just haven\u2019t gotten it yet because I haven\u2019t found someone where I live and I can\u2019t decide between ankle or wrist. My aunt asked me a while back for my grandmas name in writing because she had really pretty curly cursive writing so I sent her one from a book I had that just said \u201cLove, Grandma ( and then grandmas name ) well earlier this week she text me asking for the photo again. I recently moved so I no longer had that photo but just had a photo of the \u201cAll my love \u201c quote I wanted so I cropped it to just the Gram and my grandmas name. She immediately messaged back asking if it said Love, or anything so I told her what it said without sending a photo and explained how that was what I was getting tattooed on me but I could send her a picture of the whole card and she could piece together Love, Grandma. She replies back she wants the \u201call my love \u201c portion too for her tattoo now. I\u2019m irritated because I just told her I wanted that for my tattoo, it has extremely special meaning to me, and to top it all off my aunt constantly acts like she was the best granddaughter to my grandma but when my grandma was still alive she used to always complain the only time my aunt called was when she wanted something , she rarely came and visited her. My cousins all say the same thing about my aunt so it just irks me that right after I mention I am getting it tattooed she ask for the same piece for her tattoo. Part of me wants to tell her to just find her own card that has my grandmas writing. My aunt only seems to text me when she wants something and I know when I was younger she used to make fun of me. I realize now today all this time she acted close to me was always for some benefit for her. Maybe I\u2019m over reacting",
+      "Well-being": 8,
+      "evidence": {
+        "adaptive-state": {
+          "A": {
+            "Category": "(3) Sad, emotional pain, grieving",
+            "highlighted_evidence": "it tore me to pieces"
+          },
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "didn\u2019t go on other vacations because I wanted to spend time with my grandma"
+          },
+          "C-O": {
+            "Category": "(1) Perception of the other as related",
+            "highlighted_evidence": "we were so close. Talked to each other on the phone twice a week, I went multiple times to see her and didn\u2019t go on other vacations because I wanted to spend time with my grandma."
+          },
+          "D": {
+            "Category": "(1) Relatedness",
+            "highlighted_evidence": "or is it okay for me to be a little upset at my aunt"
+          },
+          "Presence": 3
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(10) Angry (aggression), disgust, contempt",
+            "highlighted_evidence": "I\u2019m irritated"
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "Am I over reacting? Is it stupid for me to be upset or is it okay for me to be a little upset at my aunt."
+          },
+          "C-O": {
+            "Category": "(4) Perception of the other as blocking autonomy needs",
+            "highlighted_evidence": "My aunt only seems to text me when she wants something and I know when I was younger she used to make fun of me. I realize now today all this time she acted close to me was always for some benefit for her."
+          },
+          "D": {
+            "Category": "(2) Expectation that relatedness needs will not be met",
+            "highlighted_evidence": "Maybe I\u2019m over reacting"
+          },
+          "Presence": 3
+        }
+      }
+    },
+    {
+      "post_index": 10,
+      "post_id": "9e1e871d2d",
+      "date": "13-08-2021, 20:53:00",
+      "Switch": "0",
+      "Escalation": "E",
+      "post": "I\u2019m so annoyed at my aunt right now. It\u2019s probably a lame reason but I\u2019m sick and tired of her poor me attitude and getting what she wants when she only contacts people for something she wants. 3 years ago my great grandma ( my aunts grandma ) died. Ever since she died I\u2019ve wanted a memorial tattoo for her because we were so close. Talked to each other on the phone twice a week, I went multiple times to see her and didn\u2019t go on other vacations because I wanted to spend time with my grandma. I remember her birthday, sent birthday and Christmas gifts. I sent other little gifts just because and she did the same for me ( of course I never expected gifts in return ) . We were so close. I booked a flight for a Wednesday afternoon to say my final goodbyes and she died Monday so I was two days to late and it tore me to pieces. Anyway I have a birthday card I found the day before my birthday the year she died- it was the perfect angel sign. On it said \u201c All my love, gram ( and then my grandmas name ) so ever since then I\u2019ve decided I wanted that tattooed I just haven\u2019t gotten it yet because I haven\u2019t found someone where I live and I can\u2019t decide between ankle or wrist. My aunt asked me a while back for my grandmas name in writing because she had really pretty curly cursive writing so I sent her one from a book I had that just said \u201cLove, Grandma ( and then grandmas name ) well earlier this week she text me asking for the photo again. I recently moved so I no longer had that photo but just had a photo of the \u201cAll my love \u201c quote I wanted so I cropped it to just the Gram and my grandmas name. She immediately messaged back asking if it said Love, or anything so I told her what it said without sending a photo and explained how that was what I was getting tattooed on me but I could send her a picture of the whole card and she could piece together Love, Grandma. She replies back she wants the \u201call my love \u201c portion too for her tattoo now. I\u2019m irritated because I just told her I wanted that for my tattoo, it has extremely special meaning to me, and to top it all off my aunt constantly acts like she was the best granddaughter to my grandma but when my grandma was still alive she used to always complain the only time my aunt called was when she wanted something , she rarely came and visited her. My cousins all say the same thing about my aunt so it just irks me that right after I mention I am getting it tattooed she ask for the same piece for her tattoo. Part of me wants to tell her to just find her own card that has my grandmas writing. My aunt only seems to text me when she wants something and I know when I was younger she used to make fun of me. I realize now today all this time she acted close to me was always for some benefit for her. Maybe I\u2019m over reacting",
+      "Well-being": 8,
+      "evidence": {
+        "adaptive-state": {
+          "A": {
+            "Category": "(9) Justifiable anger/ assertive anger, justifiable outrage",
+            "highlighted_evidence": "My cousins all say the same thing about my aunt so it just irks me that right after I mention I am getting it tattooed she ask for the same piece for her tattoo."
+          },
+          "B-O": {
+            "Category": "(3) Autonomous or adaptive control behavior",
+            "highlighted_evidence": "I recently moved so I no longer had that photo but just had a photo of the \u201cAll my love \u201c quote I wanted so I cropped it to just the Gram and my grandmas name. She immediately messaged back asking if it said Love, or anything so I told her what it said without sending a photo and explained how that was what I was getting tattooed on me but I could send her a picture of the whole card and she could piece together Love, Grandma"
+          },
+          "D": {
+            "Category": "(3) Autonomy and adaptive control",
+            "highlighted_evidence": "Part of me wants to tell her to just find her own card that has my grandmas writing. My aunt only seems to text me when she wants something and I know when I was younger she used to make fun of me. I realize now today all this time she acted close to me was always for some benefit for her"
+          },
+          "Presence": 4
+        },
+        "maladaptive-state": {
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "Maybe I\u2019m over reacting"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "I\u2019m sick and tired of her poor me attitude and getting what she wants when she only contacts people for something she wants."
+          },
+          "Presence": 3
+        }
+      }
+    },
+    {
+      "post_index": 11,
+      "post_id": "fc48cac7d4",
+      "date": "24-08-2021, 00:38:01",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Why is it so hard for people to have the common sense to RSVP?\n[removed]",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 12,
+      "post_id": "9b28c094dc",
+      "date": "27-08-2021, 01:11:00",
+      "Switch": "S",
+      "Escalation": "0",
+      "post": "I just want to go one day without being made fun or being joked about. I just want one day where I don\u2019t feel like the family disappointment I sew so I get made fun of for sewing and things I make get made fun of, I eat and I get made fun of for eating and get called fat. I love my dogs and cats and post pictures and get made fun of the fact I stay home with my animals instead of going out. I didn\u2019t get the best grades when I was school and that was a huge family joke and still is with some people - little did they know I didn\u2019t get straight A\u2019s because I was always tired because I stayed up most of the night due to the fact that was the only time I got time by myself to do things without being made fun, yelled at, emotionally abused or whatever because everyone was asleep so I would watch tv in my room with my dog. I get made fun of because I have a speech issue and my R\u2019s don\u2019t always come out that strong. I always put on a brave face too and laugh along because if I ever for a second stood up for myself they would make fun of me for being sensitive. I\u2019m tired. I\u2019m tired of being the family joke and disappointment. I\u2019m tired of being so nice to everyone and getting treated like crap. I\u2019m tired that I forgive too easily.",
+      "Well-being": 6,
+      "evidence": {
+        "adaptive-state": {
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "I sew so I get made fun of for sewing and things I make"
+          },
+          "D": {
+            "Category": "(1) Relatedness",
+            "highlighted_evidence": "I just want to go one day without being made fun or being joked about"
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(4) Depressed, despair, hopeless",
+            "highlighted_evidence": "I\u2019m tired. I\u2019m tired of being the family joke and disappointment."
+          },
+          "B-O": {
+            "Category": "(4) Over controlled or controlling behavior",
+            "highlighted_evidence": "I always put on a brave face too and laugh along because if I ever for a second stood up for myself they would make fun of me for being sensitive. I\u2019m tired. I\u2019m tired of being the family joke and disappointment. I\u2019m tired of being so nice to everyone and getting treated like crap. I\u2019m tired that I forgive too easily."
+          },
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "I\u2019m tired. I\u2019m tired of being the family joke and disappointment. I\u2019m tired of being so nice to everyone and getting treated like crap. I\u2019m tired that I forgive too easily."
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": ". I just want one day where I don\u2019t feel like the family disappointment I sew so I get made fun of for sewing and things I make get made fun of, I eat and I get made fun of for eating and get called fat. I love my dogs and cats and post pictures and get made fun of the fact I stay home with my animals instead of going out. I didn\u2019t get the best grades when I was school and that was a huge family joke and still is with some people -"
+          },
+          "D": {
+            "Category": "(2) Expectation that relatedness needs will not be met",
+            "highlighted_evidence": "if I ever for a second stood up for myself they would make fun of me for being sensitive"
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 13,
+      "post_id": "15caaaf01a",
+      "date": "30-08-2021, 06:06:22",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "As cute as she is turning around and seeing this sight is definitely unexpected",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 14,
+      "post_id": "38d96d969f",
+      "date": "30-08-2021, 15:38:49",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "What makes someone constantly late? Why is it so hard for them to be on time ?",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 15,
+      "post_id": "735ce15a00",
+      "date": "31-08-2021, 12:32:50",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Does anybody in here sew? I have a bunch of fabric I won\u2019t be using that I\u2019d sell for super cheap like $2 or $3 a yard",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 16,
+      "post_id": "e61bec2fa8",
+      "date": "03-09-2021, 13:45:04",
+      "Switch": "S",
+      "Escalation": "0",
+      "post": "Yes your baby is cute and yes I don\u2019t mind watching him but why the heck am I watching him if he\u2019s sick\nA family friend needed help with her baby. I actually think her baby is cute and I\u2019ve been around him a couple times. I don\u2019t hate babies and kids ( well okay some of them I can\u2019t be around for long ) but I like this baby and the best part is at the end of the day I just get to hand him back to his mom. I was supposed to see the baby all week but he ended up getting RSV. No biggie the mom canceled a couple days ago but now I\u2019m supposed to go hang with him today. According to google RSV is contagious for 3-8 days. He\u2019s only been diagnosed with it 2 or 3 days ago. I feel pressured to not say no but I also don\u2019t want to get sick especially before I go out of town next week. His mom says he\u2019s feeling a lot better so not sure if it\u2019s still contagious or not. I\u2019m just ranting because if it was my kid I would just tell whoever was supposed to watch him today \u201c hey it\u2019s Friday no point in coming over for just one day this week when my work week is almost over, can we try again a different day next week when he\u2019s feeling better or when you get back from your trip?\u201d",
+      "Well-being": 8,
+      "evidence": {
+        "adaptive-state": {
+          "B-O": {
+            "Category": "(1) Relating behavior",
+            "highlighted_evidence": "I don\u2019t mind watching him"
+          },
+          "C-S": {
+            "Category": "(1) Self-acceptance and compassion",
+            "highlighted_evidence": "I don\u2019t hate babies and kids ( well okay some of them I can\u2019t be around for long ) but I like this baby and the best part is at the end of the day I just get to hand him back to his mom."
+          },
+          "Presence": 2
+        },
+        "maladaptive-state": {
+          "A": {
+            "Category": "(10) Angry (aggression), disgust, contempt",
+            "highlighted_evidence": "I\u2019m just ranting"
+          },
+          "B-O": {
+            "Category": "(4) Over controlled or controlling behavior",
+            "highlighted_evidence": "but why the heck am I watching him if he\u2019s sick"
+          },
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "I\u2019m just ranting because if it was my kid I would just tell whoever was supposed to watch him today \u201c hey it\u2019s Friday no point in coming over for just one day this week when my work week is almost over, can we try again a different day next week when he\u2019s feeling better or when you get back from your trip?\u201d"
+          },
+          "Presence": 4
+        }
+      }
+    },
+    {
+      "post_index": 17,
+      "post_id": "25347e7b71",
+      "date": "06-09-2021, 12:45:43",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Anytime I flush my toilet the water rises and then I just have to let it sit and it goes back down. Any ideas on how to unclog this?\n[removed]",
+      "Well-being": null,
+      "evidence": {
+        "adaptive-state": {},
+        "maladaptive-state": {}
+      }
+    },
+    {
+      "post_index": 18,
+      "post_id": "2024ff7e10",
+      "date": "07-09-2021, 01:40:25",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "Why do some people not make enough food when having people over?\n[removed]",
+      "Well-being": 7,
+      "evidence": {
+        "adaptive-state": {
+          "Presence": 1
+        },
+        "maladaptive-state": {
+          "C-O": {
+            "Category": "(2) Perception of the other as detached or over attached",
+            "highlighted_evidence": "Why do some people not make enough food when having people over?"
+          },
+          "Presence": 2
+        }
+      }
+    },
+    {
+      "post_index": 19,
+      "post_id": "6a83b4e29f",
+      "date": "07-09-2021, 14:35:11",
+      "Switch": "0",
+      "Escalation": "0",
+      "post": "For those of you who struggle to say no to people how did you overcome it and be more comfortable saying no and standing up for yourself?",
+      "Well-being": 6,
+      "evidence": {
+        "adaptive-state": {
+          "B-S": {
+            "Category": "(1) Self care and improvement",
+            "highlighted_evidence": "how did you overcome it"
+          },
+          "D": {
+            "Category": "(5) Competence, self esteem, self-care",
+            "highlighted_evidence": "how did you overcome it"
+          },
+          "Presence": 3
+        },
+        "maladaptive-state": {
+          "C-S": {
+            "Category": "(2) Self criticism",
+            "highlighted_evidence": "For those of you who struggle to say no to people"
+          },
+          "Presence": 2
+        }
+      }
+    }
+  ]
+}
