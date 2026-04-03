@@ -7,25 +7,25 @@ This repository contains the submission code and models for **Task 1** of the CL
 
 ## Challenge Description & Overview
 
-The CLPsych 2026 Shared Task builds upon the longitudinal modeling paradigms introduced in previous years (2022, 2025), which focused on detecting changes in individuals' mental states and well-being as reflected in social media timelines[cite: 4]. The 2026 task further advances this work by emphasizing the identification of key self-state elements that lead up to dynamic mental state changes over time[cite: 5]. 
+The CLPsych 2026 Shared Task builds upon the longitudinal modeling paradigms introduced in previous years (2022, 2025), which focused on detecting changes in individuals' mental states and well-being as reflected in social media timelines. The 2026 task further advances this work by emphasizing the identification of key self-state elements that lead up to dynamic mental state changes over time. 
 
-The task is grounded in the **MIND framework**, which conceptualizes self-states as structured combinations of four components (ABCD)[cite: 7]:
-* **Affect (A):** Emotional tone or mood[cite: 11].
-* **Behavior (B-S, B-O):** Actions or tendencies directed inward (toward self) or outward (toward others)[cite: 12].
-* **Cognition (C-S, C-O):** Beliefs, interpretations, and appraisals toward the self and others[cite: 13].
-* **Desire (D):** Motivations, needs, wishes, and expectations[cite: 14].
+The task is grounded in the **MIND framework**, which conceptualizes self-states as structured combinations of four components (ABCD):
+* **Affect (A):** Emotional tone or mood.
+* **Behavior (B-S, B-O):** Actions or tendencies directed inward (toward self) or outward (toward others).
+* **Cognition (C-S, C-O):** Beliefs, interpretations, and appraisals toward the self and others.
+* **Desire (D):** Motivations, needs, wishes, and expectations.
 
-The core objective of the shared task is to develop computational models capable of identifying these adaptive and maladaptive self-state dimensions, characterizing their presence, and summarizing self-state sequences leading to critical mental health changes across social media timelines[cite: 9].
+The core objective of the shared task is to develop computational models capable of identifying these adaptive and maladaptive self-state dimensions, characterizing their presence, and summarizing self-state sequences leading to critical mental health changes across social media timelines.
 
 ## Task Breakdown
 
 Our models are designed to tackle the two primary subtasks of Task 1:
 
 ### Task 1.1: Dominant ABCD Subelement Identification
-Given a post, the objective is to identify which predefined ABCD subelements are meaningfully expressed[cite: 37]. A self-state is either adaptive or maladaptive[cite: 29]. If multiple subelements within the same element and valence are expressed, the models must predict only the single most dominant, central, and emphasized subelement[cite: 41].
+Given a post, the objective is to identify which predefined ABCD subelements are meaningfully expressed. A self-state is either adaptive or maladaptive. If multiple subelements within the same element and valence are expressed, the models must predict only the single most dominant, central, and emphasized subelement.
 
 ### Task 1.2: Self-State Presence Rating
-For each identified adaptive and maladaptive self-state, the models estimate the psychological centrality and experiential influence of that state on a scale of 1 to 5[cite: 55, 65]. A score of 1 indicates the state is not present, while a 5 indicates it highly shapes and defines the overall experience[cite: 61]. This is treated as a regression task evaluated using the RMSE metric[cite: 70].
+For each identified adaptive and maladaptive self-state, the models estimate the psychological centrality and experiential influence of that state on a scale of 1 to 5. A score of 1 indicates the state is not present, while a 5 indicates it highly shapes and defines the overall experience. This is treated as a regression task evaluated using the RMSE metric.
 
 ---
 
@@ -48,8 +48,8 @@ Each model subdirectory adheres to a standardized execution interface containing
 
 * **`train.py`**: Executes the main training loops.
 * **`test.py` / `predict.py`**: Runs inference on the test datasets to generate the required `task1_pred.json` output format.
-* **`evaluate_task1.py`**: Computes the official CLPsych 2026 metrics for Task 1. This includes calculating Precision, Recall, and Macro/Micro F1 for element presence and subelement classification, as well as MAE, RMSE, Quadratic Weighted Kappa (QWK), and Spearman correlation for the presence ratings[cite: 83, 84, 95].
-* **`validate_submission.py`**: Validates the output JSON schema against the official Shared Task requirements, ensuring no post text is accidentally included in the final submission[cite: 110, 111].
+* **`evaluate_task1.py`**: Computes the official CLPsych 2026 metrics for Task 1. This includes calculating Precision, Recall, and Macro/Micro F1 for element presence and subelement classification, as well as MAE, RMSE, Quadratic Weighted Kappa (QWK), and Spearman correlation for the presence ratings.
+* **`validate_submission.py`**: Validates the output JSON schema against the official Shared Task requirements, ensuring no post text is accidentally included in the final submission.
 * **`code.ipynb`**: Jupyter Notebooks providing interactive, end-to-end code walkthroughs.
 
 ## Requirements & Setup
@@ -66,4 +66,4 @@ The codebase relies on modern deep learning libraries, specifically tailored for
 
 ## Submission Formatting Note
 
-As per the task guidelines, our inference scripts output a single `task1_pred.json` file containing a JSON array of per-post prediction objects[cite: 133]. To comply with privacy requirements, all original post text fields (e.g., "post", "text", "body") are stripped from the final JSON outputs prior to submission[cite: 131].
+As per the task guidelines, our inference scripts output a single `task1_pred.json` file containing a JSON array of per-post prediction objects. To comply with privacy requirements, all original post text fields (e.g., "post", "text", "body") are stripped from the final JSON outputs prior to submission.
