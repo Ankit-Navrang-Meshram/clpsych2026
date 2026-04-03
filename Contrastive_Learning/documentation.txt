@@ -31,4 +31,89 @@ Usage
   full_emb  = np.concatenate([post.post_embedding, extra_emb])
 
 
-  
+---------------------------------------------------------------------------------
+SelfStateEncoder
+===================================================
+
+DistilBERT backbone + two heads:
+
+encode()      → L2-normalised (B, embedding_dim) — used for contrastive loss
+                and as the final embedding during inference.
+
+forward()     → (embedding, logits) where logits (B, 32) feeds the auxiliary
+                BCE multi-label classification loss during training.
+
+Parameters
+----------
+embedding_dim : dimensionality of the output space (default 128)
+dropout       : dropout applied inside the projection head
+freeze_n_layers : freeze the first N DistilBERT transformer layers
+                    (0 = train all, 6 = freeze all).
+                    Useful when labelled data is scarce.
+
+
+-----------------------------------------------------------------------------------
+SelfStateContrastiveDataset
+==============================================================
+Wraps a list of Timelines and produces (text, label_vec, presence_weight)
+samples for every annotated post that has at least one sub-element present.
+
+presence_w is the arithmetic mean of the adaptive and maladaptive
+presence scores (each 1-5).  It is used inside the collated batch as a
+per-sample weight for the BCE auxiliary loss so that weakly-present labels
+have less influence.
+
+Parameters
+----------
+timelines       : list of Timeline objects (already loaded + embedded)
+tokenizer       : HuggingFace fast tokeniser (DistilBertTokenizerFast)
+max_length      : token truncation length (default 128)
+annotated_only  : skip unannotated posts (default True)
+min_labels      : skip posts with fewer than this many active labels
+
+
+
+---------------------------------------------------------------------------------
+SelfStateEmbedder
+==================================================================
+Thin inference wrapper around a trained SelfStateEncoder.
+
+Produces fixed-size numpy vectors to be appended to PostEmbedder output.
+
+Example
+-------
+    # PostEmbedder already gives post.post_embedding (e.g. 1_634-dim)
+    embedder = SelfStateEmbedder("self_state_encoder.pt", device="cpu")
+
+    post_emb  = post.post_embedding                          # (D_post,)
+    state_emb = embedder.embed(post.text)                    # (128,)
+    full_emb  = np.concatenate([post_emb, state_emb])        # (D_post + 128,)
+
+
+
+---------------------------------------------------------------------------------
+SelfStateContrastiveTrainer
+=============================================================================
+
+Trains SelfStateEncoder with a combined objective:
+
+    L = α · L_contrastive  +  β · L_BCE
+
+L_contrastive (MultiLabelSupConLoss) handles the metric-learning signal,
+making the embedding space geometry reflect self-state similarity.
+
+L_BCE (BCEWithLogitsLoss, presence-weighted) ensures the embeddings retain
+the discriminative signal needed to classify individual sub-elements.
+
+Parameters
+----------
+model               : SelfStateEncoder instance
+device              : "cuda" | "cpu" | "mps"
+lr                  : learning rate for the backbone
+head_lr_multiplier  : separate LR scale for projection + classifier heads
+contrastive_weight  : α (default 0.7)
+bce_weight          : β (default 0.3)
+temperature         : τ for contrastive loss
+pos_threshold       : Jaccard ≥ this → positive pair
+neg_threshold       : Jaccard <  this → negative pair
+warmup_epochs       : linear-warmup then cosine-anneal schedule

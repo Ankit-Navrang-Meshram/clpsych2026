@@ -11,12 +11,6 @@ from typing import Dict, List, Optional, Tuple
 import numpy as np
 import torch
 from torch.utils.data import Dataset, DataLoader
-# from post_embedder import PostEmbedder
-
-
-# WV_MODEL_PATH  = "./wiki-news-300d-1M.vec"
-# device = "cuda" if torch.cuda.is_available() else "cpu"
-# PostEmbedder = PostEmbedder(wv_model_path=WV_MODEL_PATH, device=device)
 
 ABCD_TAXONOMY = {
     "A": {
@@ -231,7 +225,7 @@ class Post:
     pred_switch_label:     str = "0"
     pred_escalation_label: str = "0"
     temporal_embedding: Optional[np.ndarray] = None
-    #post_embedding: Optional[np.ndarray] = None
+
 
     @property
     def is_switch(self) -> bool:
@@ -291,7 +285,6 @@ class Post:
             maladaptive_state = SelfState("maladaptive", [], 1)
             is_annotated = False
 
-        #post_embedding = PostEmbedder.embed(d.get("post", ""))
 
         return cls(
             post_id=d.get("post_id", ""),
@@ -304,7 +297,6 @@ class Post:
             adaptive_state=adaptive_state,
             maladaptive_state=maladaptive_state,
             is_annotated=is_annotated,
-            #post_embedding=post_embedding,
         )
 
 @dataclass

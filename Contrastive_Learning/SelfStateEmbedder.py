@@ -1,5 +1,3 @@
-
-
 import torch
 import numpy as np
 from transformers import DistilBertTokenizerFast
@@ -11,7 +9,6 @@ from typing import List
 
 
 class SelfStateEmbedder:
-
 
     def __init__(self, model_path: str, embedding_dim: int = 128, device: str = "cpu", max_length: int = 128) -> None:
         self.device     = device

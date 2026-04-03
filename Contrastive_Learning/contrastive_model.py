@@ -1,37 +1,4 @@
 # contrastive_model.py
-"""
-Contrastive Self-State Encoder
-================================
-Trains a lightweight DistilBERT model to map post text → embeddings
-that reflect the ABCD taxonomy self-state labels.
-
-Architecture
-------------
-  DistilBERT [CLS] token
-       ↓
-  Projection head  (768 → embedding_dim, with LayerNorm + GELU)
-       ↓
-  L2-normalised embedding  (shape: B × embedding_dim)
-       ↓
-  ┌──────────────────────────────┐
-  │  MultiLabelSupConLoss        │  ← pulls same-state posts together
-  │  BCEWithLogitsLoss (aux)     │  ← keeps embedding label-aware
-  └──────────────────────────────┘
-
-After training, SelfStateEmbedder.embed(text) returns a numpy vector
-that you can directly concatenate to PostEmbedder output.
-
-Usage
------
-  # 1. Train
-  trainer = SelfStateContrastiveTrainer(model, device=device)
-  trainer.fit(train_loader, val_loader, epochs=10)
-
-  # 2. Inference / append to PostEmbedder
-  embedder = SelfStateEmbedder("self_state_encoder.pt", device=device)
-  extra_emb = embedder.embed(post.text)               # (128,)
-  full_emb  = np.concatenate([post.post_embedding, extra_emb])
-"""
 
 from __future__ import annotations
 
@@ -46,23 +13,6 @@ from transformers import DistilBertModel, DistilBertTokenizerFast
 from dataset import NUM_LABELS
 
 class SelfStateEncoder(nn.Module):
-    """
-    DistilBERT backbone + two heads:
-
-    encode()      → L2-normalised (B, embedding_dim) — used for contrastive loss
-                    and as the final embedding during inference.
-
-    forward()     → (embedding, logits) where logits (B, 32) feeds the auxiliary
-                    BCE multi-label classification loss during training.
-
-    Parameters
-    ----------
-    embedding_dim : dimensionality of the output space (default 128)
-    dropout       : dropout applied inside the projection head
-    freeze_n_layers : freeze the first N DistilBERT transformer layers
-                      (0 = train all, 6 = freeze all).
-                      Useful when labelled data is scarce.
-    """
 
     def __init__(self, embedding_dim:int= 128,dropout:float = 0.1,freeze_n_layers: int = 0) -> None:
         super().__init__()
