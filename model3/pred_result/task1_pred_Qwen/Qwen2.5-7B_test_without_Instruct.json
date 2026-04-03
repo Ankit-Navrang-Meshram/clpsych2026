@@ -1,0 +1,1273 @@
+[
+    {
+        "timeline_id": "7a6b02d34a",
+        "post_id": "ee7ca95248",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "f55ec24987",
+        "post_id": "8c16a439ba",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "f55ec24987",
+        "post_id": "bb65ce406f",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "f55ec24987",
+        "post_id": "4c66cc689e",
+        "adaptive-state": {
+            "Presence": 1
+        },
+        "maladaptive-state": {
+            "Presence": 1
+        }
+    },
+    {
+        "timeline_id": "0a78977ba9",
+        "post_id": "7a3289c096",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "f55ec24987",
+        "post_id": "ea172be214",
+        "adaptive-state": {
+            "Presence": 1
+        },
+        "maladaptive-state": {
+            "Presence": 1
+        }
+    },
+    {
+        "timeline_id": "0b14f9798b",
+        "post_id": "ba10181fc9",
+        "adaptive-state": {
+            "Presence": null,
+            "A": {
+                "subelement": 1
+            },
+            "B-S": {
+                "subelement": 1
+            },
+            "B-O": {
+                "subelement": 1
+            },
+            "C-S": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "7256d10881",
+        "post_id": "196ad412fe",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "7256d10881",
+        "post_id": "cdb54345ba",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "49b6f3373c",
+        "post_id": "d2ee5ee8d6",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "0b14f9798b",
+        "post_id": "fe320741a1",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "7256d10881",
+        "post_id": "cffcb87d2f",
+        "adaptive-state": {
+            "Presence": 4,
+            "A": {
+                "subelement": 1
+            },
+            "B-S": {
+                "subelement": 1
+            },
+            "C-S": {
+                "subelement": 1
+            },
+            "D": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "Presence": 4,
+            "A": {
+                "subelement": 1
+            },
+            "B-S": {
+                "subelement": 1
+            },
+            "B-O": {
+                "subelement": 1
+            },
+            "C-S": {
+                "subelement": 1
+            },
+            "C-O": {
+                "subelement": 1
+            },
+            "D": {
+                "subelement": 1
+            }
+        }
+    },
+    {
+        "timeline_id": "0b14f9798b",
+        "post_id": "c2cad7d8bd",
+        "adaptive-state": {
+            "Presence": 2,
+            "B-O": {
+                "subelement": 1
+            },
+            "C-S": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "Presence": 2,
+            "C-O": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "207f2fac5e",
+        "post_id": "be2d26ac04",
+        "adaptive-state": {
+            "Presence": 1
+        },
+        "maladaptive-state": {
+            "Presence": 1
+        }
+    },
+    {
+        "timeline_id": "0b14f9798b",
+        "post_id": "20400efec2",
+        "adaptive-state": {
+            "Presence": null,
+            "B-S": {
+                "subelement": 1
+            },
+            "B-O": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "Presence": 4,
+            "A": {
+                "subelement": 14
+            },
+            "C-O": {
+                "subelement": 4
+            }
+        }
+    },
+    {
+        "timeline_id": "7a6b02d34a",
+        "post_id": "ac2b0b29ed",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "78125e9967",
+        "post_id": "b76824958d",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": 3,
+            "A": {
+                "subelement": 2
+            },
+            "B-S": {
+                "subelement": 2
+            },
+            "C-S": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "78125e9967",
+        "post_id": "65f5edf6f6",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "207f2fac5e",
+        "post_id": "98b524651d",
+        "adaptive-state": {
+            "Presence": 3,
+            "B-S": {
+                "subelement": 1
+            },
+            "B-O": {
+                "subelement": 1
+            },
+            "D": {
+                "subelement": 3
+            }
+        },
+        "maladaptive-state": {
+            "Presence": 3,
+            "A": {
+                "subelement": 2
+            },
+            "C-S": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "49b6f3373c",
+        "post_id": "9374486f31",
+        "adaptive-state": {
+            "Presence": 1
+        },
+        "maladaptive-state": {
+            "Presence": 1
+        }
+    },
+    {
+        "timeline_id": "1aaf23187c",
+        "post_id": "d3e22e6a45",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": 4,
+            "A": {
+                "subelement": 10
+            },
+            "B-S": {
+                "subelement": 2
+            },
+            "B-O": {
+                "subelement": 2
+            },
+            "C-S": {
+                "subelement": 2
+            },
+            "C-O": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "78125e9967",
+        "post_id": "6bffabdb1e",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "49b6f3373c",
+        "post_id": "5fc567c5a2",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "0b14f9798b",
+        "post_id": "7ad69b64ce",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "7256d10881",
+        "post_id": "be88ffe3dc",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "0b14f9798b",
+        "post_id": "1cb768e06c",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "f55ec24987",
+        "post_id": "3e842e72fb",
+        "adaptive-state": {
+            "Presence": 1
+        },
+        "maladaptive-state": {
+            "Presence": 1
+        }
+    },
+    {
+        "timeline_id": "7256d10881",
+        "post_id": "7a1be1c014",
+        "adaptive-state": {
+            "Presence": 1,
+            "B-O": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "Presence": 1
+        }
+    },
+    {
+        "timeline_id": "1aaf23187c",
+        "post_id": "318dbfc069",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "7256d10881",
+        "post_id": "118a7da454",
+        "adaptive-state": {
+            "Presence": 2,
+            "B-S": {
+                "subelement": 1
+            },
+            "B-O": {
+                "subelement": 1
+            },
+            "D": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "Presence": null,
+            "A": {
+                "subelement": 1
+            },
+            "B-S": {
+                "subelement": 1
+            }
+        }
+    },
+    {
+        "timeline_id": "f55ec24987",
+        "post_id": "ed7ce49818",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "78125e9967",
+        "post_id": "649dd0d933",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "c2e20efd4f",
+        "post_id": "fa669d36ba",
+        "adaptive-state": {
+            "Presence": 3,
+            "B-S": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "Presence": 1
+        }
+    },
+    {
+        "timeline_id": "49b6f3373c",
+        "post_id": "6f365ecae4",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "207f2fac5e",
+        "post_id": "6410f82635",
+        "adaptive-state": {
+            "Presence": 3,
+            "B-S": {
+                "subelement": 1
+            },
+            "B-O": {
+                "subelement": 1
+            },
+            "C-O": {
+                "subelement": 1
+            },
+            "D": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "Presence": 1
+        }
+    },
+    {
+        "timeline_id": "7a6b02d34a",
+        "post_id": "7ea11856bb",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "0a78977ba9",
+        "post_id": "41e9173a4c",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "49b6f3373c",
+        "post_id": "a7eafb1150",
+        "adaptive-state": {
+            "Presence": 3,
+            "B-O": {
+                "subelement": 1
+            },
+            "C-S": {
+                "subelement": 1
+            },
+            "D": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "Presence": null,
+            "A": {
+                "subelement": 4
+            },
+            "B-S": {
+                "subelement": 2
+            },
+            "C-S": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 6
+            }
+        }
+    },
+    {
+        "timeline_id": "c2e20efd4f",
+        "post_id": "4f9fb3f09b",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "0a78977ba9",
+        "post_id": "4001d3fa0b",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "f55ec24987",
+        "post_id": "441f1c5553",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "49b6f3373c",
+        "post_id": "56878c0e43",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "c2e20efd4f",
+        "post_id": "0a034631a6",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "f55ec24987",
+        "post_id": "64d56c269d",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "7256d10881",
+        "post_id": "7c40259a4e",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "1aaf23187c",
+        "post_id": "e36c047679",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "7256d10881",
+        "post_id": "4a0d38419b",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "1aaf23187c",
+        "post_id": "b7f1c0fdc9",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "207f2fac5e",
+        "post_id": "9164c04479",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "c2e20efd4f",
+        "post_id": "5f415542b8",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "0a78977ba9",
+        "post_id": "2a89dfa376",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "7256d10881",
+        "post_id": "4c5168ad21",
+        "adaptive-state": {
+            "Presence": 1,
+            "B-O": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "Presence": 5,
+            "A": {
+                "subelement": 4
+            },
+            "C-S": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 6
+            }
+        }
+    },
+    {
+        "timeline_id": "f55ec24987",
+        "post_id": "00a893e333",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "207f2fac5e",
+        "post_id": "14779613c7",
+        "adaptive-state": {
+            "Presence": 2,
+            "B-O": {
+                "subelement": 1
+            },
+            "D": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "Presence": 3,
+            "C-O": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "7256d10881",
+        "post_id": "e7aed23c51",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "78125e9967",
+        "post_id": "8e66c8c2cd",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "1aaf23187c",
+        "post_id": "7d994fdd57",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "78125e9967",
+        "post_id": "6ef6b0db56",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "c2e20efd4f",
+        "post_id": "9f71b697f4",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "0a78977ba9",
+        "post_id": "5a26a430b2",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "78125e9967",
+        "post_id": "72eaca67f1",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "207f2fac5e",
+        "post_id": "a3feb1aac1",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "1aaf23187c",
+        "post_id": "0608fc9989",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "0b14f9798b",
+        "post_id": "c28b1ec3fb",
+        "adaptive-state": {
+            "Presence": 2,
+            "B-O": {
+                "subelement": 1
+            },
+            "C-O": {
+                "subelement": 1
+            },
+            "D": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "Presence": 3,
+            "A": {
+                "subelement": 4
+            },
+            "C-S": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "f55ec24987",
+        "post_id": "08800effe9",
+        "adaptive-state": {
+            "Presence": 1
+        },
+        "maladaptive-state": {
+            "Presence": 1
+        }
+    },
+    {
+        "timeline_id": "0b14f9798b",
+        "post_id": "f9206b269a",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "49b6f3373c",
+        "post_id": "817737c716",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "1aaf23187c",
+        "post_id": "226f155770",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": 2,
+            "A": {
+                "subelement": 10
+            },
+            "C-S": {
+                "subelement": 2
+            },
+            "C-O": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "c2e20efd4f",
+        "post_id": "7cab79d666",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "1aaf23187c",
+        "post_id": "fe73e534c4",
+        "adaptive-state": {
+            "Presence": 5,
+            "B-S": {
+                "subelement": 1
+            },
+            "B-O": {
+                "subelement": 1
+            },
+            "C-S": {
+                "subelement": 1
+            },
+            "D": {
+                "subelement": 3
+            }
+        },
+        "maladaptive-state": {
+            "Presence": 2,
+            "C-S": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "7a6b02d34a",
+        "post_id": "0160e6a44f",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "c2e20efd4f",
+        "post_id": "92507ce951",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "78125e9967",
+        "post_id": "cb02308123",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "7a6b02d34a",
+        "post_id": "3cf41e77ba",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "0b14f9798b",
+        "post_id": "4ac98d0b53",
+        "adaptive-state": {
+            "Presence": 2,
+            "C-S": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "Presence": 4,
+            "A": {
+                "subelement": 2
+            },
+            "C-O": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "c2e20efd4f",
+        "post_id": "cca8bed6b5",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "207f2fac5e",
+        "post_id": "b7208372f3",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "7a6b02d34a",
+        "post_id": "135dee117f",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "c2e20efd4f",
+        "post_id": "b987a7da08",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "7256d10881",
+        "post_id": "470fae15d7",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "f55ec24987",
+        "post_id": "1421ef6d1a",
+        "adaptive-state": {
+            "Presence": 1
+        },
+        "maladaptive-state": {
+            "Presence": 1
+        }
+    },
+    {
+        "timeline_id": "49b6f3373c",
+        "post_id": "2805cbdd78",
+        "adaptive-state": {
+            "Presence": 3,
+            "A": {
+                "subelement": 11
+            },
+            "B-S": {
+                "subelement": 1
+            },
+            "C-S": {
+                "subelement": 1
+            },
+            "D": {
+                "subelement": 5
+            }
+        },
+        "maladaptive-state": {
+            "Presence": 2,
+            "A": {
+                "subelement": 4
+            },
+            "B-S": {
+                "subelement": 2
+            },
+            "C-S": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "78125e9967",
+        "post_id": "135e002cac",
+        "adaptive-state": {
+            "Presence": 3,
+            "A": {
+                "subelement": 1
+            },
+            "B-S": {
+                "subelement": 1
+            },
+            "C-O": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "Presence": 2,
+            "A": {
+                "subelement": 1
+            },
+            "C-S": {
+                "subelement": 1
+            },
+            "C-O": {
+                "subelement": 1
+            },
+            "D": {
+                "subelement": 1
+            }
+        }
+    },
+    {
+        "timeline_id": "207f2fac5e",
+        "post_id": "9e0b13cae3",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": 4,
+            "A": {
+                "subelement": 2
+            },
+            "B-S": {
+                "subelement": 2
+            },
+            "B-O": {
+                "subelement": 2
+            },
+            "C-S": {
+                "subelement": 2
+            },
+            "C-O": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 6
+            }
+        }
+    },
+    {
+        "timeline_id": "0b14f9798b",
+        "post_id": "451ae9bf0c",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "207f2fac5e",
+        "post_id": "d24637db27",
+        "adaptive-state": {
+            "Presence": 2,
+            "B-O": {
+                "subelement": 1
+            },
+            "C-S": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "Presence": 3,
+            "A": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 6
+            }
+        }
+    },
+    {
+        "timeline_id": "c2e20efd4f",
+        "post_id": "39c583716b",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "78125e9967",
+        "post_id": "2b678b958f",
+        "adaptive-state": {
+            "Presence": null
+        },
+        "maladaptive-state": {
+            "Presence": null
+        }
+    },
+    {
+        "timeline_id": "1aaf23187c",
+        "post_id": "9318461df7",
+        "adaptive-state": {
+            "Presence": 1
+        },
+        "maladaptive-state": {
+            "Presence": 1
+        }
+    },
+    {
+        "timeline_id": "207f2fac5e",
+        "post_id": "c5f43b84a6",
+        "adaptive-state": {
+            "Presence": 2,
+            "D": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "Presence": 4,
+            "A": {
+                "subelement": 4
+            },
+            "B-S": {
+                "subelement": 2
+            },
+            "C-S": {
+                "subelement": 2
+            },
+            "C-O": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "1aaf23187c",
+        "post_id": "f795e90a7d",
+        "adaptive-state": {
+            "Presence": 2,
+            "B-S": {
+                "subelement": 1
+            },
+            "B-O": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "Presence": 3,
+            "A": {
+                "subelement": 2
+            }
+        }
+    },
+    {
+        "timeline_id": "207f2fac5e",
+        "post_id": "9a3f46b876",
+        "adaptive-state": {
+            "Presence": 1,
+            "B-S": {
+                "subelement": 1
+            }
+        },
+        "maladaptive-state": {
+            "Presence": 4,
+            "A": {
+                "subelement": 4
+            },
+            "B-S": {
+                "subelement": 2
+            },
+            "C-S": {
+                "subelement": 2
+            },
+            "C-O": {
+                "subelement": 2
+            },
+            "D": {
+                "subelement": 2
+            }
+        }
+    }
+]

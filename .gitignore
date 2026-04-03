@@ -16,3 +16,5 @@ wiki-news-300d-1M.vec
 # Ignore test_result
 test_result/
 
+# .pt files
+*.pt

@@ -1,5 +1,5 @@
 import os
-os.environ["CUDA_VISIBLE_DEVICES"] = "2"
+os.environ["CUDA_VISIBLE_DEVICES"] = "1"
 os.environ["HF_HUB_OFFLINE"] = "1"
 os.environ["TRANSFORMERS_OFFLINE"] = "1"
 import json
@@ -10,10 +10,14 @@ from transformers import AutoTokenizer, BitsAndBytesConfig
 import pickle
 from tqdm import tqdm
 import re
-from data_structure import load_all_timelines
-from dataset import PostIndex, TopKSimilarDataset
+from data_structure import load_all_timelines, Post , DIMENSIONS
+from dataset import PostIndex, TopKSimilarDataset,TopKSimilarInstance
 from model import QwenPredictor
 from dataclasses import dataclass
+import argparse
+from typing import Dict, Optional
+
+
 
 SYSTEM_PROMPT = ("You are a clinical psychologist assistant. "
         "Given a social media post, identify the adaptive and maladaptive and rate the presence of adaptive and maladaptive"
@@ -165,7 +169,8 @@ def parse_output(text: str)-> parsedOutput:
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--model_name", type=str, default="Qwen/Qwen2.5-7B-Instruct")
-    parser.add_argument("--dataset_dir", type=str, default="../../../data/train/")
+    parser.add_argument("--train_dir", type=str, default="../../../data/train/")
+    parser.add_argument("--test_dir", type=str, default="../../../data/test/")
     parser.add_argument("--cache_dir", type=str, default="./dataset_cache")
     parser.add_argument("--batch_size", type=int, default=1)
     parser.add_argument("--threshold", type=float, default=0.5)
@@ -193,77 +198,96 @@ if __name__ == "__main__":
     #     "load_in_8bit" : False
     # }
 
-# Update save directory logic using dictionary keys
-args.save_dir = os.path.join(args.save_dir, f"{args.model_name}_k{args.k}_t{args.t}")
+    # Update save directory logic using dictionary keys
+    args.save_dir = os.path.join(args.save_dir, f"{args.model_name}_k{args.k}_t{args.t}")
 
-device = "cuda" if torch.cuda.is_available() else "cpu"
-print(f"Using device: {device}")
+    device = "cuda" if torch.cuda.is_available() else "cpu"
+    print(f"Using device: {device}")
 
-# --- 1. Load Data (with Caching) ---
-os.makedirs(args.cache_dir, exist_ok=True)
-cache_path = os.path.join(args.cache_dir, f"dataset_k{args.k}_t{args.t}.pkl")
-
-if os.path.exists(cache_path):
-    print("Loading previously cached datasets from disk...")
-    with open(cache_path, "rb") as f:
-        dataset = pickle.load(f)
-else:
-    print("Loading timelines and building indices...")
-    timelines = load_all_timelines(args.dataset_dir)
-    index = PostIndex(timelines, exclude_same_timeline=True)
-    print("Building datasets...")
-    dataset = TopKSimilarDataset(timelines, index, k=args.k, t=args.t, annotated_only=True)
-    with open(cache_path, "wb") as f:
-        pickle.dump(dataset, f)
-    print("Cache saved!")
-
-loader = DataLoader(dataset, batch_size=args.batch_size, shuffle=True, collate_fn=qwen_custom_collate)
-
-# --- 2. Load Tokenizer & Model ---
-print("Initializing Qwen Model...")
-tokenizer = AutoTokenizer.from_pretrained(args.model_name, trust_remote_code=True, padding_side="left")
-tokenizer.pad_token = tokenizer.eos_token 
-
-wrapper = QwenPredictor( model_name=args.model_name,max_new_tokens=args.max_new_tokens,load_in_8bit=args.load_in_8bit)
-model = wrapper.model
-# --- 3. Prediction Loop ---
-print("Starting Prediction...")
-
-predictions = []
-
-for step, batch in enumerate(loader):
-    # Using updated max_length 2048 for temporal context
-    print(f"Step : {step}")
-    chats = [build_chat(tokenizer , SYSTEM_PROMPT ,p ) for p in  batch["prompts"]]
-    enc = tokenizer(chats, padding=True, truncation=True, max_length=2048, return_tensors="pt").to(wrapper.device)  
-    with torch.no_grad():
-        out_ids = model.generate(**enc,max_new_tokens=wrapper.max_new_tokens,do_sample=False,pad_token_id=tokenizer.pad_token_id)
-        # out_ids = model.generate(**enc,
-        #     max_new_tokens=256,
-        #     do_sample=False,          # Greedy decoding (temperature=0) for factual extraction
-        #     repetition_penalty=1.1,   # Prevents infinite loops
-        #     pad_token_id=tokenizer.pad_token_id,
-        #     eos_token_id=tokenizer.eos_token_id
-        # )
-    input_len = enc["input_ids"].shape[1]     
-    raw_outputs = [tokenizer.decode(ids[input_len:], skip_special_tokens=True) for ids in out_ids]    
-    for inst , tid , raw in zip (batch['raw_posts'] , batch['timeline_ids'] , raw_outputs):
-        pred = parse_output(raw)
-        predictions.append({
-            "timeline_id":      tid,
-            "post_id":          inst.post_id,
-            #"text":             inst.text,
-            #"raw_output":       raw,
-            "adaptive-state":    pred.adaptive_state,
-            "maladaptive-state": pred.maladaptive_state,
-        })
+    # --- 1. Load Data (with Caching) ---
+    os.makedirs(args.cache_dir, exist_ok=True)
+    cache_path = os.path.join(args.cache_dir, f"{args.split}_dataset_k{args.k}_t{args.t}.pkl")
 
 
-# Save to JSON
-output_file = f"./pred_result/task1_pred_{args.model_name}_{args.split}.json"
-os.makedirs(os.path.dirname(output_file), exist_ok=True)
-with open(output_file, "w") as f:
-    json.dump(predictions, f, indent=4)
-    
-print(f"Evaluation complete! Saved {len(predictions)} predictions to '{output_file}'.")
+    if args.split == "train":
+        if os.path.exists(cache_path):
+            print("Loading previously cached datasets from disk...")
+            with open(cache_path, "rb") as f:
+                dataset = pickle.load(f)
+        else:
+            print("Loading timelines and building indices...")
+            timelines = load_all_timelines(args.train_dir)
+            index = PostIndex(timelines, exclude_same_timeline=True)
+            print("Building datasets...")
+            dataset = TopKSimilarDataset(timelines, index, k=args.k, t=args.t, annotated_only=False)
+            with open(cache_path, "wb") as f:
+                pickle.dump(dataset, f)
+            print("Cache saved!")
+    else:
+        if os.path.exists(cache_path):
+            print("Loading previously cached datasets from disk...")
+            with open(cache_path, "rb") as f:
+                dataset = pickle.load(f)
+        else:
+            print("Loading timelines and building indices...")
+            train_timelines = load_all_timelines(args.train_dir)
+            test_timelines = load_all_timelines(args.test_dir)
+            index = PostIndex(train_timelines, exclude_same_timeline=True)
+            print("Building datasets...")
+            dataset = TopKSimilarDataset(test_timelines, index, k=args.k, t=args.t, annotated_only=False)
+            with open(cache_path, "wb") as f:
+                pickle.dump(dataset, f)
+            print("Cache saved!")
+
+        
+
+    loader = DataLoader(dataset, batch_size=args.batch_size, shuffle=True, collate_fn=qwen_custom_collate)
+
+    # --- 2. Load Tokenizer & Model ---
+    print("Initializing Qwen Model...")
+    tokenizer = AutoTokenizer.from_pretrained(args.model_name, trust_remote_code=True, padding_side="left")
+    tokenizer.pad_token = tokenizer.eos_token 
+
+    wrapper = QwenPredictor( model_name=args.model_name,max_new_tokens=args.max_new_tokens,load_in_8bit=args.load_in_8bit)
+    model = wrapper.model
+    # --- 3. Prediction Loop ---
+    print("Starting Prediction...")
+
+    predictions = []
+
+    for step, batch in enumerate(loader):
+        # Using updated max_length 2048 for temporal context
+        print(f"Step : {step}")
+        chats = [build_chat(tokenizer , SYSTEM_PROMPT ,p ) for p in  batch["prompts"]]
+        enc = tokenizer(chats, padding=True, truncation=True, max_length=2048, return_tensors="pt").to(wrapper.device)  
+        with torch.no_grad():
+            out_ids = model.generate(**enc,max_new_tokens=wrapper.max_new_tokens,do_sample=False,pad_token_id=tokenizer.pad_token_id)
+            # out_ids = model.generate(**enc,
+            #     max_new_tokens=256,
+            #     do_sample=False,          # Greedy decoding (temperature=0) for factual extraction
+            #     repetition_penalty=1.1,   # Prevents infinite loops
+            #     pad_token_id=tokenizer.pad_token_id,
+            #     eos_token_id=tokenizer.eos_token_id
+            # )
+        input_len = enc["input_ids"].shape[1]     
+        raw_outputs = [tokenizer.decode(ids[input_len:], skip_special_tokens=True) for ids in out_ids]    
+        for inst , tid , raw in zip (batch['raw_posts'] , batch['timeline_ids'] , raw_outputs):
+            pred = parse_output(raw)
+            predictions.append({
+                "timeline_id":      tid,
+                "post_id":          inst.post_id,
+                #"text":             inst.text,
+                #"raw_output":       raw,
+                "adaptive-state":    pred.adaptive_state,
+                "maladaptive-state": pred.maladaptive_state,
+            })
+
+
+    # Save to JSON
+    output_file = f"./pred_result/task1_pred_{args.model_name}_{args.split}.json"
+    os.makedirs(os.path.dirname(output_file), exist_ok=True)
+    with open(output_file, "w") as f:
+        json.dump(predictions, f, indent=4)
+        
+    print(f"Evaluation complete! Saved {len(predictions)} predictions to '{output_file}'.")
 

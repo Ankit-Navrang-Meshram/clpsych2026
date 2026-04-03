@@ -1,0 +1,34 @@
+Contrastive Self-State Encoder
+================================
+Trains a lightweight DistilBERT model to map post text → embeddings
+that reflect the ABCD taxonomy self-state labels.
+
+Architecture
+------------
+  DistilBERT [CLS] token
+       ↓
+  Projection head  (768 → embedding_dim, with LayerNorm + GELU)
+       ↓
+  L2-normalised embedding  (shape: B × embedding_dim)
+       ↓
+  ┌──────────────────────────────┐
+  │  MultiLabelSupConLoss        │  ← pulls same-state posts together
+  │  BCEWithLogitsLoss (aux)     │  ← keeps embedding label-aware
+  └──────────────────────────────┘
+
+After training, SelfStateEmbedder.embed(text) returns a numpy vector
+that you can directly concatenate to PostEmbedder output.
+
+Usage
+-----
+  # 1. Train
+  trainer = SelfStateContrastiveTrainer(model, device=device)
+  trainer.fit(train_loader, val_loader, epochs=10)
+
+  # 2. Inference / append to PostEmbedder
+  embedder = SelfStateEmbedder("self_state_encoder.pt", device=device)
+  extra_emb = embedder.embed(post.text)               # (128,)
+  full_emb  = np.concatenate([post.post_embedding, extra_emb])
+
+
+  

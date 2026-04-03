@@ -1,6 +1,6 @@
 #model.py
 
-from transformers import Qwen2Model, Qwen2PreTrainedModel, AutoTokenizer , BitsAndBytesConfig
+from transformers import Qwen2Model, Qwen2PreTrainedModel, AutoTokenizer , BitsAndBytesConfig , AutoModelForCausalLM
 import torch
 import torch.nn as nn
 

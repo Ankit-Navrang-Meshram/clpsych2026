@@ -10,10 +10,12 @@ from transformers import AutoTokenizer, BitsAndBytesConfig
 import pickle
 from tqdm import tqdm
 import re
-from data_structure import load_all_timelines
-from dataset import PostIndex, TopKSimilarDataset
+from data_structure import load_all_timelines, Post , DIMENSIONS
+from dataset import PostIndex, TopKSimilarDataset,TopKSimilarInstance 
 from model import QwenPredictor
 from dataclasses import dataclass
+from typing import Dict, Optional
+import argparse
 
 def qwen_custom_collate(batch):
     batch_prompts = []
